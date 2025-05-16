@@ -1,7 +1,5 @@
 # ✅ To-Do List for Multimodal Depression Detection Project
 
----
-
 ## 📄 Text Modality
 
 ### 🔹 Transcription & Preprocessing
