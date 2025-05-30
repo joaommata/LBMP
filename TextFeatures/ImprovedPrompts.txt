@@ -96,7 +96,8 @@ Depression-Focused First-Person Summary:
 summary_prompt_features = """
 DEPRESSION FEATURE EXTRACTION SUMMARY
 
-Transform this interview transcript into a first-person summary optimized for depression prediction model features. Focus on extracting key depression indicators while maintaining the interviewee's authentic voice.
+Transform this interview transcript into a first-person summary optimized for depression prediction model features. 
+Focus on extracting key depression indicators while maintaining the interviewee's authentic voice.
 
 TARGET FEATURES TO CAPTURE:
 ✓ Symptom presence and severity
