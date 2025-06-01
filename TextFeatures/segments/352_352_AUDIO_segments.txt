@@ -1,0 +1,89 @@
+[30.00 - 31.00] Yes.
+[31.00 - 36.00] I'm doing pretty good.
+[36.00 - 41.00] I'm from Oklahoma.
+[41.00 - 44.00] Yes.
+[44.00 - 45.00] Yep.
+[45.00 - 48.00] Oklahoma City.
+[49.00 - 52.00] I'm from Oklahoma.
+[52.00 - 53.00] Yep.
+[53.00 - 56.00] Oklahoma City.
+[56.00 - 60.00] Ah, the weather is great.
+[60.00 - 65.00] I love being near the ocean and the palm trees and mountains.
+[65.00 - 67.00] I just love it here.
+[67.00 - 72.00] It's pretty easy.
+[72.00 - 74.00] There's a few differences.
+[74.00 - 76.00] It's a huge city compared to where I'm from,
+[76.00 - 81.00] so traffic has definitely been an adjustment for me.
+[81.00 - 85.00] I just always wanted to live in California.
+[85.00 - 90.00] I hated being landlocked in Oklahoma and just wanted to get out to the west coast,
+[90.00 - 93.00] be near the ocean.
+[93.00 - 98.00] I studied psychology and minored in art.
+[98.00 - 103.00] No, not at the moment.
+[103.00 - 109.00] Well, actually, I think I misunderstood your question.
+[109.00 - 113.00] I'm not still working on my degree, but I am working in the field of psychology.
+[113.00 - 120.00] I just got hired working at a group home for teenage boys who have been in trouble with the law.
+[120.00 - 125.00] My dream job?
+[125.00 - 128.00] Oh, I don't really know.
+[128.00 - 133.00] I just want to help people however I can.
+[133.00 - 136.00] I just like working with people in the realm of psychology,
+[136.00 - 140.00] so I think I may already have my dream job.
+[140.00 - 143.00] What do you do for a living?
+[143.00 - 144.00] To relax.
+[144.00 - 147.00] I like to read or watch movies.
+[147.00 - 154.00] I like to go to the beach and just watch the sunset or hang out with friends.
+[154.00 - 158.00] What are the things that make you really mad?
+[158.00 - 160.00] The things that make me really mad?
+[160.00 - 168.00] Probably injustice towards other people, people being mistreated or abused,
+[168.00 - 172.00] and people being lied to and deceived.
+[172.00 - 175.00] Including myself, I hate being lied to.
+[175.00 - 178.00] What do you do when you're mad?
+[178.00 - 182.00] When I'm annoyed, it depends on the situation,
+[182.00 - 187.00] but I try to just count to ten and take a deep breath
+[187.00 - 192.00] and not let my emotions cause me to react in a negative way,
+[192.00 - 197.00] so I just try and calm down before I say anything.
+[197.00 - 200.00] How do you deal with anger?
+[200.00 - 206.00] It depends again on the situation and who I'm angry with.
+[206.00 - 209.00] Most of the time I'm pretty good at controlling it,
+[209.00 - 215.00] but sometimes I think like most people I'll lash out at the people that I'm closest to at times,
+[215.00 - 218.00] and those moments I'm not that good at controlling it.
+[218.00 - 224.00] When was the last time you argued with someone?
+[224.00 - 227.00] When was the last time I argued with someone?
+[227.00 - 230.00] It was probably with my parents.
+[230.00 - 234.00] I've been having some car trouble lately,
+[234.00 - 237.00] and I'm also running low on money,
+[237.00 - 239.00] so I don't even remember exactly,
+[239.00 - 244.00] but I'm sure we probably thought about the fact that I need to be more self-sufficient
+[244.00 - 250.00] and independent and take care of my own things like car issues.
+[250.00 - 253.00] How close are you with your family?
+[253.00 - 255.00] I'm very close with my family.
+[255.00 - 259.00] They're still in Oklahoma, but I talk to them on phone all the time.
+[259.00 - 262.00] What's happening with your mom?
+[281.00 - 285.00] What kind of role model do you think she is?
+[289.00 - 293.00] What kind of role model do you think she is?
+[305.00 - 309.00] What kind of role model do you think she is?
+[319.00 - 323.00] What is your favorite part of your life?
+[328.00 - 331.00] What is your favorite part of your life?
+[349.00 - 353.00] Have you ever served in the military?
+[367.00 - 371.00] Have you ever been diagnosed with depression?
+[371.00 - 375.00] Have you ever been diagnosed with depression?
+[379.00 - 383.00] How easy is it to get to sleep?
+[390.00 - 394.00] How easy is it to get to sleep?
+[409.00 - 413.00] What is your sleeping habit?
+[431.00 - 435.00] How do you feel about your sleep?
+[439.00 - 443.00] How do you feel about your sleep?
+[469.00 - 474.00] How do you feel about your sleep?
+[499.00 - 503.00] When was the last time you went to the beach?
+[529.00 - 533.00] How is your best friend?
+[550.00 - 554.00] How is your best friend?
+[559.00 - 563.00] How do you feel about your best friend?
+[579.00 - 583.00] How do you feel about your best friend?
+[589.00 - 593.00] How do you feel about your best friend?
+[619.00 - 623.00] How do you feel about your best friend?
+[627.00 - 631.00] What is your biggest regret?
+[631.00 - 635.00] What is your biggest regret?
+[646.00 - 650.00] What is your biggest regret?
+[661.00 - 665.00] What is your biggest regret?
+[684.00 - 688.00] What is your biggest regret?
+[691.00 - 695.00] What is your biggest regret?
+[721.00 - 725.00] What is your biggest regret?
+[751.00 - 755.00] What is your biggest regret?

@@ -1,0 +1,138 @@
+[0.00 - 3.00] Oh, I'm loose.
+[10.00 - 12.00] Beep beep.
+[13.00 - 19.00] Hi. So I'm going to give you this joke, and when she's done she'll let you know.
+[19.00 - 21.00] Okay. Thank you.
+[21.00 - 28.00] Hi. I'm Ellie. Thanks for coming in today.
+[28.00 - 32.00] I was created to talk to people in a safe and secure environment.
+[32.00 - 37.00] I'm not a therapist, but I'm here to learn about people and I'd love to learn about you.
+[37.00 - 40.00] I'll ask a few questions to get us started.
+[40.00 - 45.00] And please feel free to tell me anything. Your answers are fully confidential.
+[45.00 - 47.00] Are you okay with this?
+[47.00 - 48.00] Yes.
+[48.00 - 49.00] Okay.
+[50.00 - 53.00] So, how are you doing today?
+[53.00 - 55.00] Kind of down.
+[56.00 - 58.00] Why?
+[58.00 - 62.00] I don't have a boyfriend. Don't have money.
+[63.00 - 68.00] I'm sorry to hear that. Where are you from originally?
+[68.00 - 69.00] Florida.
+[69.00 - 71.00] Really?
+[71.00 - 72.00] Yep.
+[72.00 - 74.00] What did you do in LA?
+[74.00 - 77.00] I tried to find work.
+[78.00 - 81.00] How often do you go back to your hometown?
+[81.00 - 84.00] About once a year.
+[84.00 - 89.00] That's good. How does it compare to LA?
+[89.00 - 92.00] More boring.
+[92.00 - 95.00] How easy was it for you to get used to living in LA?
+[95.00 - 98.00] Not easy.
+[98.00 - 101.00] Can you tell me about that?
+[102.00 - 109.00] It's hard when you don't have enough money to get your own place, so I have to live with roommates.
+[109.00 - 113.00] What are some things you really like about LA?
+[113.00 - 120.00] The weather. The scenery.
+[120.00 - 124.00] What are some things you don't really like about LA?
+[124.00 - 131.00] Traffic. It's too expensive to have your own place by your own.
+[131.00 - 140.00] I see what you mean. I'm sure you can tell by my shoes. I'm not much of a world explorer. Do you travel a lot?
+[140.00 - 143.00] Not as much as I want to.
+[143.00 - 146.00] What do you enjoy about traveling?
+[146.00 - 153.00] Seeing different places, different cultures, the buildings, the food and stuff.
+[153.00 - 156.00] I'd love to hear about all your trips.
+[156.00 - 169.00] I drove from Florida over here. I drove to the South. I went to Alabama.
+[169.00 - 173.00] People are nicer in Louisiana. People are really nice.
+[173.00 - 180.00] Then Mississippi, then Texas, then Arizona, then California.
+[180.00 - 182.00] I got to see the country a little bit.
+[182.00 - 189.00] Awesome. What's one of your most memorable experiences?
+[189.00 - 195.00] I guess traveling through the country. I went to Louisiana. People are really nice in a small town called Jennings.
+[195.00 - 198.00] People are always happy and fun.
+[198.00 - 204.00] That's great. What did you study at school?
+[204.00 - 210.00] I just went to high school. That was the basic stuff.
+[210.00 - 215.00] What's your dream job?
+[215.00 - 225.00] I don't know. My dream job? I'm an interior designer to the stars.
+[225.00 - 227.00] Really?
+[227.00 - 228.00] Yep.
+[228.00 - 230.00] Why?
+[230.00 - 240.00] Because they have enough money to get the furniture and I get to keep the free furniture too.
+[240.00 - 244.00] Do you consider yourself more shy or outgoing?
+[244.00 - 246.00] Upgoing.
+[246.00 - 251.00] Sometimes when I'm feeling tense, I turn on the fish tank screensaver.
+[251.00 - 259.00] Hey, I know it's not Hawaii, but it's the best I've got. What do you do to relax?
+[259.00 - 263.00] I watch TV, funny TV shows.
+[263.00 - 266.00] Like what?
+[266.00 - 272.00] Sometimes Big Bang Theory or sometimes a funny movie on TV.
+[272.00 - 277.00] Nice. How are you at controlling your temper?
+[277.00 - 279.00] Pretty good.
+[279.00 - 285.00] When was the last time you argued with someone and what was it about?
+[285.00 - 291.00] Where I used to live about two weeks ago, I had to move out.
+[291.00 - 300.00] I moved in there and he told me that he didn't have any marijuana or marijuana plants because he didn't want to be around.
+[300.00 - 304.00] He had that so I had to move out because he had a self-in-living room.
+[304.00 - 308.00] Yeah, it does.
+[308.00 - 314.00] Tell me about a situation that you wish you and him would handle differently.
+[314.00 - 318.00] I don't know. Good question.
+[318.00 - 324.00] Probably...
+[324.00 - 330.00] Probably, I don't know, probably with an ex-boyfriend. We broke up.
+[330.00 - 337.00] Okay. Can you tell me about that?
+[337.00 - 347.00] Yeah, it's in the past. I'm over him. He was a jerk anyway.
+[347.00 - 353.00] Okay. Tell me about the hardest decision you've ever had to make.
+[353.00 - 358.00] Hardest decision?
+[358.00 - 363.00] Leaving home?
+[363.00 - 366.00] Tell me about that.
+[366.00 - 371.00] Well, I could try a better life out here in California but I miss home.
+[371.00 - 375.00] Yeah, I'm sorry.
+[375.00 - 378.00] Isn't it uncomfortable for you to talk about this?
+[378.00 - 380.00] Yep.
+[380.00 - 385.00] Okay.
+[385.00 - 389.00] How easy is it for you to get a good night's sleep?
+[389.00 - 394.00] My roommates don't have the TV on now. It's pretty good.
+[394.00 - 397.00] What are you like when you don't sleep well?
+[397.00 - 403.00] Tired. I'm lazier during the day.
+[403.00 - 408.00] Uh-huh. How have you been feeling lately?
+[408.00 - 412.00] Frustrated.
+[412.00 - 414.00] Why?
+[414.00 - 419.00] I'm poor. I don't want to be.
+[419.00 - 422.00] I see.
+[422.00 - 427.00] Have you noticed any changes in your behavior or thoughts lately?
+[427.00 - 432.00] No, just more sad.
+[432.00 - 435.00] Have you been diagnosed with depression?
+[435.00 - 439.00] Nope.
+[439.00 - 444.00] Tell me about the last time you felt really happy.
+[444.00 - 449.00] Wow.
+[449.00 - 453.00] Um...
+[453.00 - 458.00] It's been a while. It's been like, god, more over two years.
+[458.00 - 461.00] Can you tell me about that?
+[461.00 - 468.00] Um, I didn't have any money problems. I was doing fine.
+[468.00 - 473.00] Um, yep.
+[473.00 - 476.00] What was something you did recently that you really enjoyed?
+[476.00 - 479.00] Oh, what did I do?
+[479.00 - 489.00] Um, I was with my cats at home here in California and they're playing outside.
+[489.00 - 492.00] Tell me how you spend your ideal weekend.
+[492.00 - 501.00] My ideal weekend would be nice. Um, at the beach eating at a nice restaurant.
+[501.00 - 506.00] Is there anything you regret?
+[506.00 - 509.00] No. Not.
+[509.00 - 514.00] What advice would you give yourself 10 or 20 years ago?
+[514.00 - 521.00] Um, don't spend so much money. You'll need it in the future.
+[521.00 - 524.00] Have you done anything to avoid it?
+[524.00 - 529.00] Yeah. Save money.
+[529.00 - 536.00] Okay. What are some things you wish you could change about yourself?
+[536.00 - 543.00] Um, my bank account.
+[543.00 - 545.00] How would your best friend describe you?
+[545.00 - 550.00] Um, it's a nice person.
+[550.00 - 553.00] You were very young, weren't you?
+[553.00 - 558.00] And what? What?
+[558.00 - 563.00] What are you most proud of in your life?
+[563.00 - 574.00] Um, um, I'm gonna push that out now. Um, I persevere.
+[574.00 - 579.00] Tell me about your relationship with your family.
+[579.00 - 584.00] Yeah, I'd rather not.
+[584.00 - 589.00] Who's someone that's been a positive influence in your life?
+[589.00 - 599.00] Uh, me a few years ago. I was more like a mentor and um, taught me some things.
+[599.00 - 601.00] Like what?
+[601.00 - 610.00] Never complain. Be thankful for everything you have.
+[610.00 - 614.00] What would you say are some of your best qualities?
+[614.00 - 625.00] Um, my eyes? People say I have pretty eyes. Um, like a dress up.
+[625.00 - 628.00] What are some things you like to do for fun?
+[628.00 - 637.00] For fun? I like to try surfing. Go shopping. Maybe go to art galleries.
+[637.00 - 647.00] That's good. Okay, I think I've asked everything I need to. Thanks for sharing your thoughts with me. Bye!
+[647.00 - 649.00] Bye!
+[649.00 - 652.00] Press the button?
+[652.00 - 653.00] Yes.
+[653.00 - 668.00] Hi.
+[668.00 - 672.00] Okay.

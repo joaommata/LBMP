@@ -1,0 +1,164 @@
+[0.00 - 1.00] Okay.
+[1.00 - 2.00] All right.
+[2.00 - 3.00] Thank you.
+[3.00 - 4.00] Hi, I'm Ali.
+[4.00 - 5.00] Thanks for coming.
+[5.00 - 6.00] I'm sorry.
+[6.00 - 7.00] I'm sorry.
+[7.00 - 8.00] I'm sorry.
+[8.00 - 9.00] I'm sorry.
+[9.00 - 10.00] I'm sorry.
+[10.00 - 11.00] I'm sorry.
+[11.00 - 12.00] I'm sorry.
+[12.00 - 13.00] I'm sorry.
+[13.00 - 14.00] I'm sorry.
+[14.00 - 15.00] I'm sorry.
+[15.00 - 16.00] I'm sorry.
+[16.00 - 17.00] I'm sorry.
+[17.00 - 18.00] I'm sorry.
+[18.00 - 19.00] I'm sorry.
+[19.00 - 20.00] I'm sorry.
+[20.00 - 21.00] I'm sorry.
+[21.00 - 22.00] I'm sorry.
+[22.00 - 23.00] I'm sorry.
+[23.00 - 24.00] I'm sorry.
+[24.00 - 25.00] I'm sorry.
+[25.00 - 26.00] I'm sorry.
+[26.00 - 27.00] I'm sorry.
+[27.00 - 28.00] I'm sorry.
+[28.00 - 29.00] I'm sorry.
+[29.00 - 30.00] Are you okay?
+[30.00 - 31.00] I'm okay.
+[33.80 - 38.30] I'm not a bear, but I'm very worried about people, and I'm also worried about you.
+[38.30 - 41.30] I'd like to be happy if you finish it.
+[41.30 - 44.30] And can you still feel the in the middle of the room, the inside?
+[44.30 - 46.30] The inside's very closed.
+[46.30 - 48.30] Are you okay with that?
+[48.30 - 49.30] Yes.
+[49.30 - 50.30] Okay.
+[50.30 - 53.30] So, are you okay?
+[53.30 - 55.30] I'm okay.
+[55.30 - 56.30] Okay.
+[56.30 - 58.30] Where are you coming from?
+[58.30 - 60.30] Los Angeles.
+[60.30 - 62.30] Really?
+[62.30 - 66.30] Where is the things you like on the left?
+[66.30 - 68.30] I don't know.
+[68.30 - 72.30] Where is the things you don't like on the right?
+[72.30 - 74.30] Ummm...
+[74.30 - 80.30] It's kind of dirty, but it's to be expected from a big city.
+[80.30 - 84.30] Wow. What did you study at school?
+[84.30 - 86.30] Ummm...
+[86.30 - 89.30] The last class that I took was a sociology class.
+[89.30 - 95.30] I'm not really sure where I'm going with school, but I'm thinking about sex education.
+[95.30 - 98.30] How did you get into sex education?
+[98.30 - 101.30] I think that it's a really important job.
+[101.30 - 103.30] How fine is that?
+[125.30 - 127.30] Okay.
+[128.30 - 130.30] Okay.
+[130.30 - 135.30] I'm sure you can tell by my shoes. I'm not much of a world explorer.
+[135.30 - 137.30] Did you travel a lot?
+[137.30 - 139.30] No.
+[139.30 - 141.30] Why?
+[141.30 - 143.30] Ummm... Lack of funds.
+[143.30 - 145.30] Okay.
+[145.30 - 151.30] Do you think of yourself as shy or outgoing?
+[151.30 - 157.30] It depends on the people, but I'd say that generally I'm more shy.
+[157.30 - 163.30] Of course with people who I know well, who are closer to me, I'm more outgoing.
+[163.30 - 170.30] Sometimes when I'm feeling down, I turn on the first-aid and screen-feed her.
+[170.30 - 174.30] Hey, I know it's not polite, but it's the best it's got.
+[174.30 - 177.30] What do you do when you're around?
+[177.30 - 180.30] Ummm... Play with my dogs.
+[180.30 - 182.30] Uhh...
+[184.30 - 188.30] I don't know. If it's a nice day, I'll go for a walk.
+[188.30 - 200.30] If it's not a nice day, or if it's cold out or something, then maybe watch a show on TV I like or read a book or something.
+[200.30 - 205.30] Uh-huh. I'm good at controlling myself.
+[205.30 - 209.30] I'd say I'm pretty good at controlling my temper.
+[209.30 - 215.30] That's good. When was the last time you argued with someone and what did it have to do with you?
+[215.30 - 221.30] Ummm... I can't remember. I think the last person I argued with was my boyfriend.
+[221.30 - 226.30] Probably last week, but I don't even remember what it was about.
+[226.30 - 232.30] Okay. What's something you feel feels you have?
+[232.30 - 236.30] Ummm... I don't think I really feel guilty about anything.
+[236.30 - 243.30] I'd say that I regret things, but I think there's a difference between guilt and regret.
+[243.30 - 253.30] I think guilt is more just feeling bad, but regret is feeling like you should have made a different decision.
+[253.30 - 261.30] I think that can help you to make better decisions in the future, whereas guilt, you just feel bad for no reason.
+[261.30 - 264.30] It's useless.
+[264.30 - 267.30] Do you regret anything?
+[267.30 - 274.30] Ummm... I regret not doing better when I was in high school.
+[274.30 - 281.30] Ummm... I mean not getting better grades.
+[281.30 - 295.30] I regret getting involved with certain people in the past, but I'm not sure. That's about it that I can think of right now.
+[295.30 - 298.30] Have you done anything to avoid it?
+[298.30 - 300.30] Hmm?
+[300.30 - 302.30] Have you done anything to avoid it?
+[302.30 - 312.30] Ummm... Yeah, I mean in the past, I could have made different decisions.
+[312.30 - 325.30] Obviously some things aren't entirely in your control, but I'm not going to regret things that I had no power over.
+[325.30 - 333.30] Tell me about your life, or something that you wished would erase from your memory.
+[333.30 - 349.30] Ummm... I'm not sure if I would want to erase it from my memory, but I wish that it didn't happen to me was a time that I was raped.
+[349.30 - 352.30] I'm sorry to hear that.
+[352.30 - 357.30] Tell me about the hardest decisions you've ever made.
+[357.30 - 362.30] Ummm... I can't really think of any hard decisions.
+[362.30 - 370.30] Hmmmm...
+[370.30 - 372.30] I can't think of any.
+[372.30 - 379.30] Okay. Tell me about a situation that you wish you had done in a different manner.
+[379.30 - 386.30] Hmmmm...
+[386.30 - 391.30] I'm not sure. I can't think of any.
+[391.30 - 394.30] Tell me about your relationship with your family.
+[394.30 - 398.30] I have a pretty good relationship with my family.
+[398.30 - 404.30] I wouldn't say that I'm really close with my mother, but we get along well.
+[404.30 - 409.30] And I'm very close with my sister. We're basically best friends.
+[409.30 - 415.30] Okay. Is there something that's been a positive influence on you?
+[415.30 - 421.30] Ummm... Hmmmm...
+[421.30 - 426.30] I think that my mother has been a positive influence in my life.
+[426.30 - 432.30] Because she was always able to provide for me.
+[432.30 - 440.30] She made mistakes sometimes, but I think that she was always there for me when I needed it.
+[440.30 - 445.30] And she just did her best to raise me.
+[445.30 - 449.30] I think she was a big positive influence.
+[449.30 - 453.30] How easy has it been for you to go to sleep?
+[463.30 - 466.30] When are you going to be able to sleep?
+[479.30 - 491.30] Okay. How have you been feeling lately?
+[510.30 - 536.30] Have you ever been feeling like you're feeling more positive?
+[536.30 - 539.30] Have you ever been diagnosed with PTSD?
+[545.30 - 548.30] Can you tell me about that?
+[566.30 - 569.08] Did you think you had a problem with early
+[569.08 - 570.08] trauma?
+[586.08 - 588.08] What were you thinking?
+[597.08 - 600.08] Have you found something that's been helping you?
+[602.08 - 605.08] How has sleep been helping you?
+[626.30 - 630.08] How many of the best experiences have you had?
+[657.08 - 662.08] Tell me about something you've been feeling that's been really important.
+[670.08 - 675.08] Okay. How are your best friends right now?
+[682.08 - 685.08] How have you been near your meeting?
+[687.08 - 694.08] I think I would spend it mostly at home.
+[694.08 - 699.08] But it would be sunny out and I would go outside a little bit.
+[699.08 - 702.08] And I'd play with my dogs.
+[702.08 - 707.08] And I'd probably have my boyfriend over.
+[707.08 - 712.08] I'd eat food that I like.
+[712.08 - 714.08] Like only food that I like.
+[714.86 - 716.86] My favorite foods.
+[716.86 - 721.86] Watch movie or TV show that I like.
+[721.86 - 728.86] Just kind of have a relaxing time.
+[728.86 - 731.86] But that's nice.
+[732.86 - 736.86] What advice would you give yourself to help you get through this?
+[737.64 - 748.64] I would tell myself to do better in school because throughout high school I was kind
+[748.64 - 749.64] of an underachiever.
+[749.64 - 757.64] And I ended up going to community college on and off because I would lose interest and
+[757.64 - 760.64] then not do well.
+[760.64 - 762.64] Or as well as I could have.
+[763.42 - 769.42] So I would tell myself to do as well as I could in school because I feel like I am capable
+[769.42 - 773.42] of a lot more than I do.
+[773.42 - 777.42] And I think I could easily have gotten a scholarship if I have done well in high school.
+[777.42 - 782.42] So I would just tell myself to do good in school and probably warn myself about one
+[782.42 - 787.42] or two people that turned out to be not worth my time.
+[788.20 - 791.20] What are your most proudest memories?
+[805.20 - 814.20] I think I am proud of myself for not being bitter and for wanting to...
+[814.98 - 817.98] Well, I am kind of bitter, yes.
+[817.98 - 826.98] But I guess I am proud of myself for not being selfish and wanting to make the world a better
+[826.98 - 827.98] place.
+[827.98 - 832.98] Because a lot of bad things have happened to me and I try to instead of dwell on them,
+[832.98 - 841.98] I try to... or I want to be able to make things better for other people.
+[842.76 - 849.76] As much as... I want to help empower people to make their lives better.
+[851.76 - 854.76] Okay, I think I've lost everything I need to.
+[854.76 - 857.76] Thanks for sharing your thoughts with me.
+[857.76 - 858.76] Bye!
+[858.76 - 859.76] Bye!
+[871.98 - 875.76] Thanks for watching!

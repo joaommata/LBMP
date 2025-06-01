@@ -1,0 +1,120 @@
+[0.00 - 28.00] Okay.
+[30.00 - 59.00] Hi.
+[59.00 - 64.00] Yes.
+[64.00 - 70.00] I'm doing well. Thank you.
+[70.00 - 74.00] San Luis Obispo.
+[74.00 - 77.00] Yes.
+[77.00 - 82.00] Four years ago.
+[82.00 - 88.00] About once a month.
+[88.00 - 93.00] Small, quiet, fresh air, less people.
+[93.00 - 96.00] It's nice.
+[96.00 - 103.00] I went to school in Los Angeles.
+[103.00 - 109.00] I studied music industry.
+[109.00 - 117.00] Yes, I work in the music industry.
+[117.00 - 124.00] It is a passion of mine, and I got into school and went with it.
+[124.00 - 132.00] How hard is what?
+[132.00 - 137.00] I don't really have a dream job. I don't know if that exists.
+[137.00 - 142.00] Okay.
+[142.00 - 146.00] I see what you mean.
+[146.00 - 157.00] Do you consider yourself shy or outgoing?
+[157.00 - 166.00] I'm sure you can tell by my shoes. I'm not much of a world explorer. Do you travel a lot?
+[167.00 - 171.00] Oh, yes.
+[171.00 - 181.00] Meeting new people, seeing new things, exploring the landscape.
+[181.00 - 193.00] I went to Alaska on a fishing trip.
+[193.00 - 198.00] Catching an octopus.
+[198.00 - 202.00] Can you tell me about that?
+[202.00 - 206.00] I was deep sea fishing for halibut.
+[206.00 - 211.00] Rather than catching a halibut, I lured in an octopus.
+[211.00 - 216.00] Sometimes when I'm feeling tense, I turn on the fish tank screensaver.
+[216.00 - 221.00] Hey, I know it's not Hawaii, but it's the best I've got.
+[221.00 - 224.00] You can relax.
+[224.00 - 229.00] I play golf. I swim. I read.
+[229.00 - 235.00] How do you get comfortable in your temper?
+[235.00 - 240.00] I'm pretty calm.
+[240.00 - 246.00] When was the last time you argued with someone?
+[246.00 - 256.00] Probably a couple days ago. It was about a musical project I was involved in.
+[256.00 - 261.00] How did you feel about that?
+[262.00 - 266.00] I felt heated.
+[266.00 - 275.00] Okay. What's something you feel guilty about?
+[275.00 - 278.00] I'm not quite sure.
+[278.00 - 284.00] Tell me about a situation that you wish you were in a different way.
+[284.00 - 288.00] I'm not quite sure.
+[288.00 - 298.00] Tell me about the hardest decision you've ever made to make.
+[298.00 - 301.00] I'd have to think about that for a while.
+[301.00 - 307.00] What other things do you want?
+[307.00 - 311.00] I'm not really sure.
+[311.00 - 322.00] Okay. Tell me about an event or something you wish you could have missed from the beginning.
+[335.00 - 337.00] Why?
+[341.00 - 344.00] I was embarrassed afterwards.
+[344.00 - 348.00] Thank you.
+[348.00 - 353.00] Tell me about your relationship with your family.
+[353.00 - 358.00] I have a brother and parents who are divorced.
+[358.00 - 361.00] How close are you to your family?
+[361.00 - 369.00] I'm pretty close. I see them regularly. Talk openly about most subjects.
+[369.00 - 378.00] That's great. You sound like it's been a positive influence on your life.
+[378.00 - 381.00] My brother?
+[381.00 - 385.00] Tell me more about that.
+[385.00 - 389.00] What do you want to know?
+[389.00 - 392.00] What other things do you want?
+[392.00 - 395.00] About my brother?
+[395.00 - 398.00] Uh huh.
+[398.00 - 402.00] I'm not really sure.
+[402.00 - 408.00] Okay. How easy is it for you to get a good night's sleep?
+[408.00 - 411.00] Most of the time, it's pretty easy.
+[411.00 - 418.00] What are you like thinking about food while you're sleeping?
+[418.00 - 422.00] I drink more coffee to compensate.
+[422.00 - 426.00] How are you feeling lately?
+[426.00 - 429.00] Fine.
+[429.00 - 435.00] Have you noticed any changes in your behavior or thoughts lately?
+[435.00 - 438.00] No.
+[438.00 - 442.00] Have you ever been diagnosed with PTSD?
+[442.00 - 446.00] What does PTSD stand for?
+[446.00 - 450.00] Have you been diagnosed with depression?
+[450.00 - 453.00] No, I haven't.
+[453.00 - 458.00] Tell me about the last time you felt really happy.
+[458.00 - 462.00] I'm happy all the time.
+[462.00 - 467.00] Okay. How are your best friends driving?
+[467.00 - 471.00] Ambitious. A go-getter.
+[471.00 - 474.00] Uh huh.
+[474.00 - 476.00] Feisty.
+[476.00 - 483.00] What are some things you wish you could change about yourself?
+[483.00 - 487.00] I'm not quite sure.
+[487.00 - 496.00] Tell me about a time when someone made you feel really proud of you about yourself.
+[496.00 - 500.00] I can't recall right now.
+[500.00 - 503.00] Okay.
+[503.00 - 508.00] Tell me about something you recently really enjoyed.
+[508.00 - 514.00] I went to a concert, saw live music, drank good beer.
+[514.00 - 515.00] Nice.
+[515.00 - 520.00] Yeah.
+[520.00 - 523.00] What would you say to someone who has qualities?
+[523.00 - 526.00] I'm a good listener.
+[526.00 - 529.00] I'm passionate.
+[529.00 - 540.00] And I'm alert.
+[540.00 - 546.00] Ever? In regards to what?
+[546.00 - 550.00] No, I don't, I don't, I normally don't regret things.
+[550.00 - 552.00] Why?
+[552.00 - 557.00] Because there's too much else to live for to think about the past.
+[557.00 - 559.00] I see what you mean.
+[559.00 - 563.00] Do you?
+[563.00 - 565.00] Okay.
+[565.00 - 579.00] What advice would you give yourself 10 or 20 years ago?
+[579.00 - 581.00] What was that question?
+[581.00 - 587.00] What advice would you give yourself 10 or 20 years ago?
+[587.00 - 596.00] To read more and watch TV, watch the computer screen less.
+[596.00 - 597.00] Why?
+[597.00 - 603.00] Because that makes you have attention deficit disorder.
+[603.00 - 608.00] And you focus less on things that are in front of you in real life.
+[608.00 - 610.00] That makes sense.
+[610.00 - 611.00] I know.
+[611.00 - 616.00] Tell me how you spend your week at home.
+[616.00 - 630.00] I exercise, I sleep in late, I go golfing from time to time, I go to concerts, I go to bars, hang out with friends at the beach.
+[630.00 - 633.00] It depends.
+[633.00 - 636.00] Okay.
+[636.00 - 640.00] What are you most proud of in your life?
+[640.00 - 652.00] What am I most proud of?
+[652.00 - 666.00] I'm healthy and I understand the world around me and I'm passionate about things that I'm doing and I have goals that I've set that I'm working towards.
+[666.00 - 674.00] Yeah.
+[674.00 - 678.00] What was your name?
+[678.00 - 680.00] That's right.
+[680.00 - 700.00] Goodbye.
+[700.00 - 701.00] Okay.

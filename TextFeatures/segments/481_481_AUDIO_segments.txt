@@ -1,0 +1,107 @@
+[0.00 - 25.48] Can't you see me right now?
+[25.48 - 42.24] Can't you see me right now?
+[42.24 - 45.24] Hi, I'm Ellie. Thanks for coming in today.
+[45.24 - 49.24] I was created to talk to people in state and security in Illinois.
+[49.24 - 54.24] I'm not a therapist, but I'm here to learn about people and I'd love to learn about you.
+[54.24 - 57.24] I'll ask a few questions right start.
+[57.24 - 62.24] And please feel free to send me a message. Your answers are really comforting.
+[62.24 - 64.24] Are you an therapist?
+[64.24 - 67.24] Yeah, I am.
+[67.24 - 70.24] So, how you doing today?
+[70.24 - 74.24] Good to moderate.
+[74.24 - 78.24] That's good. Where are you from this morning?
+[78.24 - 80.24] Los Angeles.
+[80.24 - 81.24] Really?
+[81.24 - 82.24] Yeah.
+[82.24 - 85.24] What are some things you really like about LA?
+[85.24 - 92.24] Just a lot of different kinds of people and I love the weather most of the time.
+[92.24 - 96.24] And great creative scene. I'm really into music.
+[96.24 - 100.24] It's a great scene for that.
+[100.24 - 103.24] What are some things you know about LA?
+[103.24 - 107.24] I don't like driving. I don't know who does.
+[107.24 - 116.24] It's just such a drag and getting from point A to point B is just a daily need and it doesn't get any easier.
+[116.24 - 118.24] Too many people.
+[118.24 - 121.24] Too many people.
+[122.24 - 126.24] I'm sure you can tell by my shoes. I'm not much of a world explorer.
+[126.24 - 127.24] I can't see your shoes.
+[127.24 - 129.24] Do you drive a lot?
+[129.24 - 134.24] Yeah, when I can. When I can afford to.
+[134.24 - 137.24] What do you enjoy about traveling?
+[137.24 - 145.24] Just being somewhere else. Not having to drive usually. Most places have better public transportation.
+[145.24 - 151.24] I'm a culture junkie. I like experiencing different types of cultures.
+[151.24 - 154.24] What are some of the places you've been to?
+[154.24 - 160.24] I haven't been to that many places. I've been to Mexico and Italy.
+[160.24 - 165.24] I want to go to more places. I want to go to Japan.
+[165.24 - 169.24] That'll be interesting. It's usually just with my family.
+[169.24 - 173.24] Sometimes it's my mom, sometimes my girlfriend, sometimes my brother.
+[173.24 - 178.24] We go to Italy. We spent two weeks there. That was cool.
+[178.24 - 183.24] Nice. What's happened in those memorable experiences?
+[183.24 - 188.24] Living next to the best gelato shop in Italy.
+[188.24 - 193.24] When we were in Florence. Spent a week in Florence.
+[193.24 - 198.24] That was great. Very good culture there as well. Art.
+[198.24 - 203.24] Okay. What did you study at school?
+[203.24 - 206.24] Studied film and digital media.
+[206.24 - 211.24] Because I make music and I wanted to learn how to make music videos.
+[211.24 - 214.24] So that's something I'm trying to get into.
+[214.24 - 216.24] Are you still working on that?
+[216.24 - 222.24] Yeah. I mean, I need to get a camera though. That's the thing.
+[222.24 - 228.24] My main focus is music. I studied film but my focus is music.
+[228.24 - 231.24] Can you tell me about that?
+[231.24 - 237.24] Sure. I've been playing music. I've been playing guitar, keyboard, bass, drums.
+[237.24 - 245.24] For about 12 years now. I do production and songwriting. I'm in an indie rock band.
+[245.24 - 250.24] What's your favorite thing about music?
+[250.24 - 258.24] That's a great website. I highly recommend it. It's mine. Check it out.
+[258.24 - 263.24] Okay. What's your dream job?
+[263.24 - 271.24] International rock star, music producer, and filmmaker. Director.
+[271.24 - 278.24] Do you consider yourself in shy or outgoing?
+[278.24 - 281.24] Probably outgoing.
+[281.24 - 283.24] Why?
+[283.24 - 288.24] I just feel like it's a way to get the most out of life.
+[288.24 - 293.24] Talking to people and learning about them and having them learn about you and care about you.
+[293.24 - 297.24] It kind of just goes with the territory.
+[297.24 - 304.24] Sometimes when I'm feeling tense, I turn on the fish tank screen saver.
+[304.24 - 310.24] I know it's not blind, but it's the best I've got. What do you do to relax?
+[310.24 - 314.24] I do meditation.
+[314.24 - 316.24] Why is that?
+[316.24 - 324.24] It's not really hard because it's fun. It relaxes me and helps me focus at the same time.
+[324.24 - 329.24] That was a huge epiphany for me that you can relax and focus at the same time.
+[329.24 - 334.24] That's good. How many good things do you have to say?
+[341.24 - 347.24] How many good things do you have to say?
+[359.24 - 386.24] When was the last time you argued with someone?
+[389.24 - 393.24] I actually argued with the guitarist for my band.
+[393.24 - 397.24] We had a falling out. We're not going to be in a band together.
+[397.24 - 401.24] We're still friends, so at least it's that.
+[401.24 - 411.24] It was basically about creating control of the project and how we're going to prioritize it in our lives.
+[411.24 - 415.24] Our priorities weren't the same and I got very upset.
+[415.24 - 420.24] How did you feel about the project?
+[445.24 - 464.24] That's great. What about a situation that you wish you lived in a different way?
+[475.24 - 482.24] What's something you feel guilty about?
+[505.24 - 510.24] What made you decide to do that?
+[535.24 - 549.24] Tell me about the hardest decision you ever made.
+[565.24 - 584.24] I made the decision to go to school in Santa Cruz and start a new life there for four years.
+[584.24 - 604.24] Tell me about that or something you wish you could have done in the future.
+[614.24 - 641.24] Tell me about your relationship with your family.
+[641.24 - 644.24] Tell me about your relationship with your family.
+[671.24 - 691.24] How do you cope with them?
+[701.24 - 723.24] How easy is it for you to get them to sleep?
+[723.24 - 725.24] Why?
+[731.24 - 741.24] How often do you wake up in the morning?
+[761.24 - 766.24] How does that work?
+[766.24 - 768.24] It sucks.
+[791.24 - 794.24] Why?
+[821.24 - 824.24] How have you been feeling lately?
+[824.24 - 827.24] How have you been feeling lately?
+[884.24 - 899.24] Have you ever been diagnosed with depression?
+[899.24 - 903.24] How long ago were you diagnosed?
+[914.24 - 917.24] Why?
+[931.24 - 935.24] What got you to sleep?
+[945.24 - 955.24] Do you feel like you're consistent?
+[955.24 - 970.24] What sort of changes have you noticed since you've been in therapy?
+[970.24 - 973.24] Can you tell me about that?
+[974.24 - 1001.24] Tell me about the last time you felt really happy.
+[1004.24 - 1016.24] How are your best friends by the way?
+[1034.24 - 1053.24] What do you see in what you continue to do about yourself?
+[1053.24 - 1061.24] What advice would you give yourself 10 or 20 years ago?
+[1064.24 - 1090.24] What are you most proud of in your life?
+[1090.24 - 1095.24] Okay, I think I've announced everything in history. Thanks for sharing your thoughts with me.
+[1095.24 - 1098.24] You're welcome. Nice talking to you.

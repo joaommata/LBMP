@@ -1,0 +1,206 @@
+[0.00 - 17.00] Okay.
+[17.00 - 18.00] Thank you.
+[18.00 - 19.00] Hi, I'm Ellie.
+[19.00 - 20.00] Thanks for coming in today.
+[20.00 - 21.00] I was created to talk to people in a safe and secure environment.
+[21.00 - 22.00] I'm not a therapist, but I'm here to learn about people and would love to learn about
+[22.00 - 23.00] you.
+[23.00 - 24.00] I'll ask a few questions to get us started.
+[24.00 - 25.00] And please feel free to tell me anything.
+[25.00 - 26.00] Your answers are fully confidential.
+[26.00 - 27.00] Are you okay with this?
+[27.00 - 28.00] Yes.
+[28.00 - 29.00] Okay.
+[29.00 - 30.00] So, how are you doing today?
+[30.00 - 31.00] I'm fine.
+[31.00 - 32.00] I'm fine.
+[32.00 - 33.00] I'm fine.
+[33.00 - 34.00] I'm fine.
+[34.00 - 35.00] I'm fine.
+[35.00 - 36.00] I'm fine.
+[36.00 - 37.00] I'm fine.
+[37.00 - 38.00] I'm fine.
+[38.00 - 39.00] I'm fine.
+[39.00 - 40.00] I'm fine.
+[40.00 - 41.00] I'm fine.
+[41.00 - 42.00] I'm fine.
+[42.00 - 43.00] I'm fine.
+[43.00 - 44.00] I'm fine.
+[44.00 - 45.00] I'm fine.
+[45.00 - 46.00] I'm fine.
+[46.00 - 47.00] I'm fine.
+[47.00 - 48.00] I'm fine.
+[48.00 - 49.00] I'm fine.
+[49.00 - 50.00] How are you doing today?
+[50.00 - 51.00] I'm good.
+[51.00 - 52.00] Thank you.
+[52.00 - 53.00] That's good.
+[53.00 - 56.00] Where are you from originally?
+[56.00 - 58.00] I was born in Mexico City.
+[58.00 - 59.00] Really?
+[59.00 - 60.00] Yes.
+[60.00 - 63.00] When did you move to LA?
+[63.00 - 66.00] About 34 years ago.
+[66.00 - 69.00] That's a long time.
+[69.00 - 70.00] Yeah.
+[70.00 - 71.00] How often do you go back to your hometown?
+[71.00 - 77.00] I try to go back once a year, but I haven't been in about three years.
+[77.00 - 78.00] Why?
+[78.00 - 85.00] I haven't had the time and I've traveled other places, but I'm planning on going back probably
+[85.00 - 86.00] next year.
+[86.00 - 87.00] Okay.
+[87.00 - 92.00] How does it compare to LA?
+[92.00 - 96.00] Well, I can't ever see myself moving back to Mexico City.
+[96.00 - 101.00] It's a huge, huge city and I like LA more.
+[102.00 - 105.00] I'm not sure if I'm going to be able to travel back to Mexico City.
+[105.00 - 106.00] I'm not sure if I'm going to be able to travel back to Mexico City.
+[106.00 - 107.00] I'm not sure if I'm going to be able to travel back to Mexico City.
+[107.00 - 108.00] I'm not sure if I'm going to be able to travel back to Mexico City.
+[108.00 - 109.00] I'm not sure if I'm going to be able to travel back to Mexico City.
+[109.00 - 110.00] I'm not sure if I'm going to be able to travel back to Mexico City.
+[110.00 - 111.00] I'm not sure if I'm going to be able to travel back to Mexico City.
+[111.00 - 112.00] I'm not sure if I'm going to be able to travel back to Mexico City.
+[112.00 - 113.00] I'm not sure if I'm going to be able to travel back to Mexico City.
+[113.00 - 114.00] I'm not sure if I'm going to be able to travel back to Mexico City.
+[114.00 - 115.00] I'm not sure if I'm going to be able to travel back to Mexico City.
+[115.00 - 117.00] I'm sure you can tell by my shoes that I'm not much of a world explorer.
+[117.00 - 119.00] I have not traveled as much as I would like to, but I do love to travel.
+[119.00 - 123.00] I'm sure you can tell by my shoes that I'm not much of a world explorer.
+[123.00 - 127.00] I have not traveled as much as I would like to, but I do love to travel.
+[127.00 - 132.00] What do you enjoy about traveling?
+[132.00 - 136.00] seeing new things, meeting people from other countries,
+[136.00 - 140.00] feeling relaxed and having a good time.
+[140.00 - 148.92] from other countries, just feeling relaxed and having no worries because you're on vacation.
+[148.92 - 155.40] I just love being in other places.
+[155.40 - 164.92] The last trip I took was a seven-day cruise and it went to St. Thomas, Barbados, St. Lucia,
+[164.92 - 168.72] St. Martin and it was amazing.
+[168.72 - 170.72] I would love to do that trip again.
+[170.72 - 173.72] What's one of your most memorable experiences?
+[173.72 - 182.72] I think going to Mexico the last time I was there, I went to the pyramids, Teotihuacan,
+[182.72 - 189.72] and I had not been there in many years and it just was amazing to see the pyramids and
+[189.72 - 194.72] I can't even imagine how they were able to build such great structures.
+[199.72 - 202.72] Do you consider yourself more shy or outgoing?
+[202.72 - 205.72] I consider myself more shy.
+[205.72 - 207.72] Why?
+[207.72 - 212.72] In social situations, I kind of feel uncomfortable.
+[212.72 - 218.72] I'm not one to just go up to people and start conversations.
+[218.72 - 226.72] If people come up to me, of course I'll talk to them, but I feel slightly awkward, just kind of out of place at a party.
+[227.72 - 229.72] I see what you mean.
+[229.72 - 231.72] What did you study at school?
+[231.72 - 234.72] I actually studied history.
+[234.72 - 236.72] Awesome.
+[236.72 - 239.72] How did you decide to do that?
+[239.72 - 253.72] I've always been interested in history and I just wanted to learn about histories from other cultures and of course US history, so I'm very interested in history.
+[253.72 - 255.72] Are you still working on that?
+[255.72 - 259.72] I'm actually working in the education field.
+[259.72 - 262.72] What's your dream job?
+[262.72 - 271.72] My dream job would actually be traveling around the world and having a show on the Travel Channel.
+[271.72 - 281.72] That would be my dream job because I would get paid to travel and it's something I enjoy doing, so I would love to do that as a job.
+[282.72 - 288.72] Sometimes when I'm feeling tense, I turn on the fish tank screensaver.
+[288.72 - 292.72] Hey, I know it's not Hawaii, but it's the best I've got.
+[292.72 - 295.72] What do you do to relax?
+[295.72 - 304.72] I love reading and I love taking baths, so to relax I like to take a bath and I read while I'm in the bath.
+[304.72 - 315.72] I also like going to the gym that helps me deal with stress and it actually relaxes me even though I'm exercising.
+[315.72 - 321.72] That's great. How are you at controlling your temper?
+[321.72 - 329.72] I used to be not very good at controlling it. When I was a kid I would get mad very easily.
+[329.72 - 342.72] Sometimes as an adult I still get angry easily, but I've gotten a lot better at trying to think about things first before saying them and not having outbursts.
+[342.72 - 347.72] When was the last time you argued with someone?
+[347.72 - 353.72] The last time I argued with somebody was probably about a week ago.
+[353.72 - 360.72] It was my best friend. She has kids, I don't.
+[360.72 - 375.72] For some reason she thinks that I think I'm a better person than she is because I went to school and she didn't and she's home with kids and I'm able to do more things.
+[375.72 - 387.72] I don't think I've ever made her feel that I'm better than her. For some reason she accused me of that and we had an argument about it.
+[387.72 - 394.72] Tell me about a situation that you wish you would handle differently.
+[394.72 - 404.72] That situation I wish I would handle differently because when she was talking to me she was very upset.
+[404.72 - 413.72] I started off pretty calm just trying to reason with her and let her know that I certainly didn't feel like I was better than her.
+[413.72 - 429.72] Towards the end of the conversation it turned into a yelling match between the two of us and I wish I had been able to stay calm and maybe ask her to calm me later once she calmed down instead of continuing the argument.
+[429.72 - 432.72] How did you feel in that moment?
+[432.72 - 438.72] I was angry at first but once we hung up I felt really bad about the situation.
+[438.72 - 449.72] I felt that maybe I could have just let her let out all her feelings and then try to speak to her calmly instead of yelling at her too.
+[449.72 - 457.72] I see what you mean. Tell me about the hardest decision you've ever had to make.
+[457.72 - 462.72] Oh wow. That's a tough one.
+[462.72 - 472.72] I think one of the hardest decisions I've had to make is breaking up with a boyfriend of seven years.
+[472.72 - 481.72] Although I knew that it was the right thing to do I was kind of hanging on to the fact that we had been together for so many years.
+[481.72 - 489.72] I kind of felt by ending the relationship I would have wasted those last seven years of my life.
+[489.72 - 502.72] It was a pretty tough decision to make but I realized that it was the best decision for me at the time and I'm actually glad I did because then I went on to meet my husband.
+[502.72 - 507.72] That's great.
+[507.72 - 509.72] Thank you.
+[509.72 - 514.72] Tell me about Nubank or something that you wish you could erase from your memory.
+[514.72 - 534.72] Well about I would say maybe 15 years ago I was hanging out with a couple of friends at a club and they met some guys and they invited us back to their place.
+[534.72 - 541.72] I really didn't want to go because I didn't know these people and I mean I knew their names and that's about it.
+[541.72 - 548.72] But my friends really wanted to go and I wasn't the one driving so I decided to just go along with them.
+[548.72 - 560.72] Back at their house one of the guys actually pulled me into a room and I got scared.
+[560.72 - 561.72] I yelled.
+[561.72 - 566.72] He tried to choke me and I thought I was going to die right there.
+[566.72 - 568.72] I thought he was going to kill me.
+[568.72 - 573.72] But luckily one of my friends knocked on the door because she heard me scream and we left.
+[573.72 - 581.72] So it could have been a worse situation but I still think about it and wish that I could erase it from my mind.
+[581.72 - 584.72] That sounds really hard.
+[584.72 - 587.72] It was.
+[587.72 - 590.72] Tell me about your relationship with your family.
+[590.72 - 593.72] We have a pretty good relationship.
+[593.72 - 596.72] I have a sister and a brother.
+[596.72 - 603.72] My sister is two years younger and my brother is two years older and we got along pretty well.
+[603.72 - 611.72] My sister and I used to be best friends but then we grew apart and now we're actually closer I think than ever.
+[611.72 - 615.72] I have a pretty good relationship with my parents.
+[615.72 - 623.72] My dad still treats me like I'm a little kid sometimes which annoys me but I think we have a pretty good solid relationship.
+[623.72 - 625.72] That's good.
+[625.72 - 628.72] How easy is it for you to get a good night's sleep?
+[628.72 - 634.72] I usually wake up a few times throughout the night.
+[634.72 - 641.72] So I think it's rare for me to sleep the whole night through ever.
+[642.72 - 646.72] I do feel a little tired in the morning when I wake up.
+[646.72 - 649.72] I'm not a morning person definitely.
+[649.72 - 653.72] It's kind of hard to get a good night's sleep.
+[653.72 - 655.72] Why?
+[655.72 - 657.72] I don't know.
+[657.72 - 659.72] I have a hard time falling asleep.
+[659.72 - 665.72] Sometimes I have bad dreams or I need to get up to use the restroom.
+[666.72 - 673.72] I don't remember the last time I actually slept the whole night without waking up at least once.
+[673.72 - 676.72] How have you been feeling lately?
+[676.72 - 681.72] Emotionally good.
+[681.72 - 686.72] I'm actually on vacation right now from work so that's really nice.
+[687.72 - 689.72] Physically I feel good.
+[689.72 - 698.72] I haven't been to the gym in a while so that kind of makes me feel bad because I like working out.
+[698.72 - 701.72] But health wise I'm good.
+[701.72 - 703.72] Okay.
+[703.72 - 705.72] Have you ever been diagnosed with PTSD?
+[705.72 - 706.72] No.
+[706.72 - 708.72] Have you been diagnosed with depression?
+[708.72 - 709.72] No.
+[709.72 - 714.72] Tell me about the last time you felt really happy.
+[714.72 - 718.72] It was this past weekend.
+[718.72 - 721.72] I actually went out of town with my husband.
+[721.72 - 722.72] We didn't go very far.
+[722.72 - 726.72] We went to Santa Barbara but we really enjoyed ourselves.
+[726.72 - 732.72] We went wine tasting and went to the beach and just had a really good time.
+[732.72 - 734.72] Nice.
+[734.72 - 737.72] How would your best friend describe you?
+[737.72 - 747.72] She would probably describe me as a good, caring person, patient, very shy.
+[747.72 - 754.72] She'd probably say too that I have a hard time saying no to people when they ask me for favors
+[754.72 - 757.72] because I'm always doing things for other people.
+[757.72 - 760.72] So yeah, that's how I think she would describe me.
+[760.72 - 764.72] What are some things you wish you could change about yourself?
+[765.72 - 768.72] I wish I was more outgoing.
+[768.72 - 777.72] I wish that I...what else?
+[777.72 - 782.72] Definitely more outgoing so I could have more friends.
+[782.72 - 786.72] I don't have a large group of friends because I'm very shy.
+[786.72 - 791.72] I also wish that I could have more patience than I do.
+[791.72 - 794.72] Sometimes I'm very short of patience.
+[794.72 - 802.72] I wish I could find a better job so I could do more traveling.
+[802.72 - 805.72] Is there anything you regret?
+[805.72 - 807.72] Yes.
+[807.72 - 813.72] I actually took a really long time after high school to go back to school and get my degree.
+[813.72 - 820.72] I really wish that I could have taken care of it a lot sooner than I did.
+[820.72 - 826.72] I also regret spending seven years of my life with my ex-boyfriend.
+[826.72 - 830.72] What advice would you give yourself 10 or 20 years ago?
+[830.72 - 842.72] I would have told myself to stay focused on school, going out and hanging out and going to parties.
+[842.72 - 850.72] I would have told myself that school was not as important as I thought it was and that my education should always come first.
+[850.72 - 854.72] What are you most proud of in your life?
+[854.72 - 864.72] I'm proud that after so many years of not being in school I was able to go to UCLA and get my degree.
+[864.72 - 869.72] That would be my proudest achievement.
+[869.72 - 871.72] That's great.
+[871.72 - 874.72] Okay, I think I've asked everything I need to.
+[874.72 - 876.72] Thanks for sharing your thoughts with me.
+[876.72 - 877.72] Thank you.
+[877.72 - 878.72] Goodbye.
+[878.72 - 880.72] Bye.
+[880.72 - 905.72] Thank you.

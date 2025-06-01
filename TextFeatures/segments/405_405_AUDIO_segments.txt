@@ -1,0 +1,330 @@
+[0.00 - 1.00] Okay.
+[1.00 - 2.00] Thanks.
+[2.00 - 3.00] Thanks.
+[3.00 - 4.00] I'm going to go ahead and move this cord behind you just so it doesn't get any away.
+[4.00 - 5.00] Okay.
+[5.00 - 6.00] So I'm going to put it right here.
+[6.00 - 7.00] So when she's done, she'll let you know and then you can let me know.
+[7.00 - 8.00] Okay.
+[8.00 - 9.00] Thanks.
+[9.00 - 10.00] Looks good.
+[10.00 - 11.00] Thanks.
+[11.00 - 24.00] I'm going to go ahead and move this cord behind you just so it doesn't get any away.
+[25.00 - 26.00] Hi.
+[26.00 - 27.00] Hello.
+[27.00 - 28.00] Thanks for coming in today.
+[28.00 - 29.00] I was created to talk to people in a safe and secure environment.
+[29.00 - 30.00] I'm not a therapist, but I'm here to learn about people and I'd love to learn about you.
+[30.00 - 31.00] I'll ask you a few questions.
+[31.00 - 32.00] And I'm so grateful that you're here.
+[32.00 - 33.00] I'm so grateful that you're here.
+[33.00 - 34.00] I'm so grateful that you're here.
+[34.00 - 35.00] I'm so grateful that you're here.
+[35.00 - 36.00] I'm so grateful that you're here.
+[36.00 - 37.00] I'm so grateful that you're here.
+[37.00 - 38.00] I'm so grateful that you're here.
+[38.00 - 39.00] I'm so grateful that you're here.
+[39.00 - 40.00] I'm so grateful that you're here.
+[40.00 - 41.00] I'm so grateful that you're here.
+[41.00 - 42.00] I'm so grateful that you're here.
+[42.00 - 43.00] I'm so grateful that you're here.
+[43.00 - 44.00] I'm so grateful that you're here.
+[44.00 - 45.00] I'm so grateful that you're here.
+[45.00 - 46.00] Yes.
+[46.00 - 47.00] Okay.
+[47.00 - 48.00] Not too bad.
+[48.00 - 49.00] I'm not a therapist, but I'm here to learn about people and I'd love to learn about you.
+[49.00 - 50.00] I'll ask you a few questions.
+[50.00 - 51.00] And I'm so grateful that you're here.
+[51.00 - 52.00] I'm so grateful that you're here.
+[52.00 - 53.00] I'm so grateful that you're here.
+[53.00 - 54.00] I'm so grateful that you're here.
+[54.00 - 55.00] I'm so grateful that you're here.
+[55.00 - 56.00] I'm so grateful that you're here.
+[56.00 - 57.00] I'm so grateful that you're here.
+[57.00 - 58.00] I'm so grateful that you're here.
+[58.00 - 59.00] I'm so grateful that you're here.
+[59.00 - 60.00] I'm so grateful that you're here.
+[60.00 - 61.00] I'm so grateful that you're here.
+[61.00 - 62.00] I'm so grateful that you're here.
+[62.00 - 63.00] I'm so grateful that you're here.
+[63.00 - 64.00] I'm so grateful that you're here.
+[64.00 - 65.00] I'm so grateful that you're here.
+[65.00 - 68.44] Okay.
+[68.44 - 74.92] Not too bad.
+[74.92 - 82.48] I'm from Chicago, Southside.
+[82.48 - 92.88] Back in 1978, when I was 18.
+[93.76 - 94.76] Completely not much.
+[94.76 - 97.76] Maybe once every two or three years.
+[97.76 - 103.88] How does it compare to LA?
+[103.88 - 104.88] It's totally different.
+[104.88 - 111.88] You know, horrible weather and yeah, it's just a whole different atmosphere.
+[111.88 - 116.88] Why do you live in LA?
+[116.88 - 118.92] Let's see.
+[118.92 - 122.68] My mother had moved to Africa.
+[122.68 - 127.28] I graduated from high school and I had a friend out here.
+[127.28 - 130.28] So I just thought, well, let me try LA.
+[130.28 - 131.28] Okay.
+[131.28 - 137.92] How easy was it for you to get used to living in LA?
+[137.92 - 138.92] Very easy actually.
+[138.92 - 139.92] Yeah.
+[139.92 - 142.08] I loved it from the moment I got off the airplane.
+[142.08 - 143.08] Yeah.
+[143.08 - 147.12] What are some things you really like about LA?
+[147.12 - 149.76] Number one, the weather.
+[149.76 - 152.32] Sun is very important to me.
+[152.96 - 155.96] I love the weather.
+[155.96 - 156.96] I don't know.
+[156.96 - 159.96] Just kind of a more laid back atmosphere.
+[159.96 - 162.96] Variety of people.
+[162.96 - 169.96] And now it's my home base.
+[169.96 - 174.96] My friends that are family.
+[174.96 - 177.96] So it's kind of like my family is here now.
+[178.60 - 181.60] What are some things you don't really like about LA?
+[183.60 - 184.60] Hmm.
+[184.60 - 187.60] I guess the small earthquakes.
+[189.60 - 192.60] Traffic.
+[192.60 - 195.60] Just basic things like that really.
+[195.60 - 196.60] Yeah.
+[197.60 - 200.60] I'm sure you can tell by my shoes.
+[200.60 - 202.60] I'm not much of a world explorer.
+[202.60 - 205.60] Do you travel a lot?
+[206.24 - 209.24] I don't currently, but I did throughout my life.
+[209.24 - 212.24] I traveled quite a lot.
+[212.24 - 215.24] What do you enjoy about traveling?
+[216.24 - 228.24] Just seeing other cultures and seeing more history and meeting people and just the fun
+[228.24 - 231.24] of it as well.
+[231.24 - 234.24] I'd love to hear about when you're friends.
+[236.24 - 237.24] Let's see.
+[237.24 - 246.24] Well, one trip I went to England, Ireland, Scotland, and France.
+[246.24 - 251.24] All in one trip.
+[251.24 - 254.24] So that was a nice variety.
+[254.24 - 255.24] Nice.
+[255.24 - 258.24] What's one of your most memorable experiences?
+[258.88 - 267.88] I guess you could say probably skiing in Val d'Azur, France.
+[267.88 - 270.88] That was fun.
+[270.88 - 273.88] I'm glad I got to do that.
+[273.88 - 276.88] That's great.
+[276.88 - 281.88] Do you consider yourself more shy or outgoing?
+[281.88 - 284.88] I'm kind of shy by nature.
+[285.52 - 292.52] I've tried to grow out of being shy, so I'm not fully shy, but I was always an extremely
+[292.52 - 295.52] shy child.
+[295.52 - 301.52] Now here in Culver City, this is my environment, and I guess you could say I'm not really shy
+[301.52 - 304.52] in my hometown of Culver City.
+[304.52 - 305.52] Yeah.
+[305.52 - 311.52] Sometimes when I'm feeling tense, I turn on the fish tank screensaver.
+[312.16 - 315.16] Hey, I know it's not Hawaii, but it's the best they've got.
+[315.16 - 320.16] What do you do to relax?
+[320.16 - 321.16] To relax?
+[321.16 - 328.96] I like to just curl up in my bed and read my book, take a nap, watch TV, sometimes on
+[328.96 - 335.96] the couch in the living room, just stay at home and kind of vegetate.
+[335.96 - 340.96] How are you at controlling your temper?
+[341.40 - 344.40] Pretty good, yeah.
+[344.40 - 346.40] My temper's pretty level.
+[346.40 - 351.40] When was the last time you argued with someone and what was it about?
+[351.40 - 354.40] Hmm.
+[354.40 - 365.40] Probably with my husband, and I can't remember at the moment what it was about.
+[365.40 - 368.40] Okay.
+[368.84 - 371.84] Tell me about your relationship with your family.
+[371.84 - 382.84] Well, when you say my family, do you mean my family from childhood or my current family?
+[382.84 - 385.84] Whatever comes to your mind.
+[385.84 - 390.84] Okay, well, I guess my current family comes to mind.
+[390.84 - 395.84] I have two daughters, and my relationship's pretty good.
+[396.28 - 403.28] It's okay with them, but they're teenagers, which they're going through a lot of hormones,
+[403.28 - 408.28] and they can be kind of bitchy.
+[411.28 - 418.28] But I have hope that they'll grow out of that and someday we'll have a really good relationship.
+[418.72 - 427.72] And then there's the husband, which I guess I could say soon to be ex-husband, hopefully soon.
+[427.72 - 434.72] We need to get a divorce, but we're still together due to financial reasons.
+[435.72 - 442.72] And yeah, so that's not good, the relationship with the husband.
+[443.16 - 454.16] But since we have determined that we need to divorce, we don't expect anything out of each other,
+[454.16 - 457.16] so we don't argue as much, so that's good.
+[460.16 - 464.16] Tell me about a situation that you wish you and them would differently.
+[464.60 - 467.60] Hmm.
+[468.60 - 470.60] Wow.
+[471.60 - 482.60] I guess our marriage, I wish I had noticed early on that, you know, it was like way off from what I thought it was.
+[486.60 - 491.60] Tell me about the hardest decision you've ever had to make.
+[492.04 - 495.04] Um, let's see, oh my God.
+[497.04 - 499.04] Hardest decision.
+[500.04 - 505.04] I guess leaving my first husband, that was pretty hard.
+[507.04 - 509.04] Can you tell me about that?
+[510.04 - 517.04] Um, well, you know, we were married and I wasn't content, I guess you could say.
+[517.48 - 526.48] Um, and I kind of just gave up on our relationship and I, now that I look back,
+[526.48 - 533.48] I think it's because I wanted children and he would have been happy to never have any.
+[534.48 - 545.48] And so, since I didn't have a father, it was very important that I create children with someone who really wanted to be a father.
+[545.92 - 555.92] And so, I was kind of at an age where I needed to start thinking about having children, yet I was with someone who really was not into it.
+[556.92 - 565.92] So, I think that's one, maybe the core reason why I was not content and I just felt like this marriage isn't going to work.
+[566.92 - 570.92] So, you know, we went to therapy and everything and he did not want to break up.
+[571.36 - 588.36] And I had to leave him because I just wasn't happy and that was very hard because, you know, I felt like I was hurting him, which I was.
+[588.36 - 592.36] You know, he survived, he got over it, now he's married with two kids.
+[593.36 - 598.36] But it was hard to leave him.
+[601.36 - 606.36] Tell me about New York or something that you wish you could erase from your memory.
+[611.36 - 614.36] Something I wish I could erase from my memory.
+[615.36 - 617.36] I have to think about that.
+[621.36 - 623.36] I'm sure there's something.
+[623.80 - 642.80] Oh, well, yeah, there's, I guess it would be nice to erase from my memory a recent, I'm not recent, but an event in my recent adulthood here in Culver City,
+[643.24 - 656.24] where one of my best friends, I've betrayed me by, back years ago when my husband first got into real estate,
+[657.24 - 662.24] she and her family were growing and they really needed a larger home.
+[662.68 - 677.68] And we just assumed, you know, that they would use my husband as their agent, both to sell their current home, current at the time, and to purchase a new home.
+[678.68 - 686.68] And as it turned out, they surprised us and had been talking to this other local agent.
+[687.12 - 691.12] And yeah, that was devastating.
+[692.12 - 697.12] I don't think I had ever been betrayed like that.
+[698.12 - 700.12] So I wish I could erase that.
+[701.12 - 704.12] Because now, you know, this was back when the kids were really young.
+[704.56 - 715.56] And my daughter at the time, my youngest daughter was, let's say, six, maybe, maybe five.
+[716.56 - 721.56] Anyway, her and my best friend's daughter are the same age.
+[722.56 - 724.56] They were born within days of each other.
+[725.56 - 727.56] We were pregnant together.
+[728.56 - 730.56] And they were really tight, those two little girls.
+[731.00 - 736.00] And they ended up not going to the same elementary school, so they didn't get to hang out during those years.
+[737.00 - 744.00] But every time we'd run into them in the neighborhood or they'd run into each other at a summer camp or something, they were just so connected.
+[745.00 - 751.00] They were just, you know, like two peas in a pod, even though their moms weren't talking to each other anymore.
+[752.00 - 757.00] So now they're 13 and 14 and they're in middle school together.
+[758.00 - 760.00] And they're still very connected.
+[760.44 - 766.44] In fact, she for the first time spent the night at our house last night with my daughter and another girl.
+[767.44 - 775.44] And it's just a little awkward, you know, because now these girls are becoming really good friends, better friends.
+[777.44 - 789.44] And yet, I still have this vivid, bad memory of what her...
+[790.44 - 794.44] her mom did to me.
+[795.44 - 799.44] That was about, what, 10?
+[800.44 - 801.44] About eight years ago.
+[802.44 - 813.44] Anyway, I tried to ignore it and put it out of my head, which I've been able to in recent years.
+[814.44 - 816.44] But obviously it still comes up.
+[816.88 - 821.88] Anyway, that was that.
+[822.88 - 825.88] How easy is it for you to get a good night's sleep?
+[827.88 - 829.88] Not that easy.
+[830.88 - 836.88] I do sometimes get a decent night's sleep, but sometimes it's hard to get to sleep.
+[837.88 - 841.88] And most of the time I wake up and can't get back to sleep.
+[842.32 - 848.32] Or I finally get back to sleep and then it's almost time to get up, you know, that difficult thing.
+[853.32 - 859.32] Well, the waking up in the middle of the night is definitely triggered by having to go to the bathroom.
+[860.32 - 866.32] And then, you know, it's not always that easy to get back to sleep.
+[866.32 - 868.32] And then I wake up again to go to the bathroom.
+[868.76 - 870.76] So I guess that's the trigger.
+[871.76 - 877.76] As far as getting to sleep, having a hard time there, I don't know, I think there's just too much on my mind.
+[878.76 - 884.76] Running through my mind in the day and I feel like I haven't accomplished enough during the day.
+[885.76 - 891.76] So it's hard for me to just go to sleep when I'm supposed to, I guess.
+[892.76 - 894.76] Okay.
+[895.20 - 899.20] What are you like when you wake up in the morning?
+[903.20 - 905.20] Well, I'm kind of used to it now.
+[906.20 - 911.20] So I just go on through the day probably looking tired.
+[912.20 - 917.20] And I'm kind of used to feeling tired.
+[918.20 - 920.20] I just do what I need to do.
+[920.64 - 928.64] Sometimes if I'm able to, if I'm at home and don't have huge commitments, yeah, I might just, like I said earlier, just take a nap or something.
+[929.64 - 931.64] Read my book, watch TV, whatever.
+[938.64 - 942.64] Lately, how have I been feeling?
+[943.08 - 949.08] Kind of down on myself, down on life.
+[952.08 - 954.08] Can you tell me about that?
+[956.08 - 963.08] Well, I have this pending need for separation slash divorce.
+[963.52 - 968.52] I've worried that I made a lot of mistakes with my girls.
+[969.52 - 974.52] Now they're teenagers, you know, on the verge of adulthood.
+[977.52 - 989.52] And so I worry that, you know, I did all kinds of things wrong with their guidance and their early childhood and now it's too late.
+[989.96 - 994.96] Like I missed out on a lot of things.
+[997.96 - 1003.96] And yeah, I need a job, I'm unemployed, I don't know what I want to do with my life.
+[1004.96 - 1006.96] I know I want to do something.
+[1007.96 - 1013.96] I just wish, you know, I never did finish college, unfortunately, because I was traveling and stuff.
+[1014.96 - 1018.96] So I regret that extremely.
+[1019.96 - 1028.96] And I need to get a job and be able to take care of myself because I need to divorce and move on with my life.
+[1029.96 - 1038.96] So now I forget what the original question was, but that's the state, part of the state of my life.
+[1039.96 - 1042.96] Okay. Have you ever been diagnosed with PTSD?
+[1043.96 - 1044.96] No.
+[1044.96 - 1046.96] Have you been diagnosed with depression?
+[1046.96 - 1047.96] Yes.
+[1048.40 - 1051.40] How long ago were you diagnosed?
+[1052.40 - 1059.40] Well, the first time or recently?
+[1061.40 - 1069.40] The first time, I guess, was, you know, when I was in my early 20s, I was just a little upset about it.
+[1070.40 - 1073.40] Coincidentally, that was another breakup I had to make back then.
+[1073.84 - 1079.84] I was in my early 20s and I needed to break up with my boyfriend.
+[1080.84 - 1088.84] But again, it was very upsetting because I, you know, it was hard because he didn't want to break up and I felt like I was hurting him.
+[1089.84 - 1090.84] And I didn't understand this feeling.
+[1091.84 - 1093.84] I was really upset.
+[1094.84 - 1100.84] That was my first time having depression, so I didn't really recognize it as depression.
+[1101.28 - 1111.28] But I went, somehow I had the knowledge or the, I was able to take myself to a psychiatrist.
+[1112.28 - 1119.28] I remember I paid for her by the hour and she prescribed Xanax to just help relax me.
+[1120.28 - 1123.28] And so I guess that helped me get through that.
+[1123.72 - 1134.72] And then I've had depression throughout the years, just, you know, little bits here and there for various reasons such as, I guess it's usually a relationship, you know.
+[1137.72 - 1146.72] Yeah, so the most recent time I was diagnosed and put on meds, that was probably about two years ago.
+[1148.72 - 1150.72] Do you still go to therapy now?
+[1151.72 - 1152.72] No.
+[1153.16 - 1155.16] How much do you spend on your stuff?
+[1156.16 - 1158.16] Money. I don't have insurance.
+[1159.16 - 1162.16] Otherwise, yeah, I'd be happy to go to therapy.
+[1163.16 - 1165.16] Anything that might help.
+[1169.16 - 1171.16] Tell me about the last time you felt really happy.
+[1175.16 - 1178.16] Ooh. Boy.
+[1179.16 - 1181.16] Last time I felt really happy.
+[1183.16 - 1193.16] I don't know, I guess maybe when my children were born.
+[1194.16 - 1196.16] That's...
+[1196.60 - 1199.60] I guess happy, I don't know.
+[1200.60 - 1205.60] I just, you know, I always wanted children, so it was nice to have them.
+[1207.60 - 1211.60] That's, I don't know, that's all I can remember of that.
+[1212.60 - 1214.60] I guess I don't remember the good times too well.
+[1215.60 - 1217.60] I remember the bad times.
+[1218.04 - 1221.04] Tell me about something you did recently that you really enjoyed.
+[1223.04 - 1224.04] Hmm.
+[1226.04 - 1229.04] Something I did that I really enjoyed.
+[1237.04 - 1238.04] Well,
+[1241.04 - 1243.04] I don't know.
+[1243.48 - 1244.48] Well,
+[1247.48 - 1258.48] let's see, I, Friday night I went to a friend's house and met up with five other girlfriends
+[1258.48 - 1267.48] and we created vision boards and talked and had dinner at one of their house.
+[1267.48 - 1269.48] That was fun.
+[1269.92 - 1271.92] That sounds like a great situation.
+[1272.92 - 1273.92] Yeah.
+[1274.92 - 1277.92] What advice would you give yourself 10 or 20 years ago?
+[1280.92 - 1282.92] Ooh.
+[1283.92 - 1286.92] Stay in college, get my degree,
+[1290.92 - 1294.92] get therapy, try to become happy.
+[1295.36 - 1298.36] Yeah, try to figure out things earlier in life.
+[1299.36 - 1302.36] Like, yeah.
+[1305.36 - 1310.36] Stay in college and, oh, and meanly, I think the mean, you know, what it all boils down to,
+[1311.36 - 1314.36] no matter what you're depressed about, it seems like,
+[1315.36 - 1318.36] you know, you're depressed about being a little bit of a wimp.
+[1318.80 - 1321.80] And meanly, I think the mean, you know, what it all boils down to,
+[1322.80 - 1324.80] no matter what you're depressed about, it seems like,
+[1326.80 - 1333.80] as the saying goes and the songs go, you know, it's all about money.
+[1333.80 - 1341.80] The world revolves around money and having none, that in itself is very depressing.
+[1342.80 - 1347.80] So besides relationships and different things that have happened in your life,
+[1348.24 - 1354.24] having no money is, you know, it's like you can't even try to fix anything
+[1354.24 - 1356.24] because you don't have the money to fix it.
+[1357.24 - 1364.24] So with that in mind, I would definitely advise myself to get my college degree
+[1364.24 - 1367.24] and to get a job and stick with it.
+[1369.24 - 1372.24] Don't quit to go traveling, you know.
+[1372.68 - 1377.68] Just stick with a job, stick with a company, build up your seniority,
+[1377.68 - 1384.68] keep your benefits, and build up some knowledge or some expertise in some sort of field.
+[1385.68 - 1389.68] Yeah, that would have been my biggest piece of advice to myself.
+[1390.68 - 1391.68] Okay.
+[1393.68 - 1395.68] What are you most proud of in life?
+[1396.68 - 1397.68] Not much.
+[1402.68 - 1408.68] I guess just my daughters, you know, they're beautiful daughters
+[1409.68 - 1413.68] and I'm proud and glad that I was able to have children.
+[1414.68 - 1419.68] Some people aren't even able to do that, you know, and they try so hard
+[1419.68 - 1422.68] or they look back on their life and they wish they had done it.
+[1423.68 - 1425.68] So that's the one thing.
+[1426.68 - 1430.68] I mean, I wanted five children and I always wanted a boy, which I never had,
+[1431.12 - 1438.12] but I guess that's the biggest thing I can think of to be proud of,
+[1439.12 - 1442.12] is having my two daughters.
+[1443.12 - 1446.12] What would you say are some of your best qualities?
+[1450.12 - 1455.12] I'm a very loyal friend and person.
+[1455.12 - 1460.12] That's why when that friend betrayed me, it was so devastating.
+[1461.12 - 1467.12] Yeah, very loyal, very happy.
+[1468.12 - 1469.12] What was I going to say?
+[1469.12 - 1471.12] I was going to say happy go lucky.
+[1471.12 - 1472.12] I don't know where that came from.
+[1473.12 - 1481.12] I meant to say friendly and caring and yeah, I care about people
+[1482.12 - 1485.12] and I'm interested in people
+[1485.56 - 1490.56] and I care about animals as well.
+[1491.56 - 1494.56] Actually, that's another thing I'm proud of, proud of being a vegetarian.
+[1495.56 - 1498.56] Yeah, so my daughters and being vegetarian
+[1499.56 - 1506.56] and I'm a vegetarian because I really care about feelings of other beings,
+[1506.56 - 1509.56] not only humans but animals too.
+[1510.00 - 1514.00] I don't think that animals should be tortured
+[1515.00 - 1520.00] and live a torturous life just so we can eat them.
+[1521.00 - 1524.00] So what was the question?
+[1525.00 - 1528.00] Do you remember the question?
+[1529.00 - 1531.00] Okay, I think I've asked everything I need to.
+[1532.00 - 1534.00] Thanks for sharing your thoughts with me.
+[1535.00 - 1536.00] You're welcome.
+[1536.00 - 1537.00] Bye.
+[1537.00 - 1538.00] Bye.
+[1540.00 - 1557.00] I did need the tissue one time, so that's good.
+[1557.44 - 1560.44] I'm going to stop recording now.
+[1561.44 - 1562.44] Okay.
+[1563.44 - 1568.44] We'll go over to the other corner where you will finish up with a quick post survey about your experience.

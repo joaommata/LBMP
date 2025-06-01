@@ -1,0 +1,135 @@
+[0.00 - 16.54] And when she's done she'll let you know, and I'm going to put the doorbell over here, and
+[16.54 - 28.46] you can let me know when you're done.
+[28.46 - 38.46] I'm not a therapist, but I'm here to learn about people, and I'd love to learn about you.
+[38.46 - 43.46] I'll ask you a few questions at the start, and please feel free to tell me that.
+[43.46 - 47.46] Your answers are really confidential. Are you okay with this?
+[47.46 - 48.46] Yes.
+[48.46 - 52.46] Okay. So, how are you doing today?
+[52.46 - 53.46] Pretty well.
+[53.46 - 57.46] That's good. Where are you from originally?
+[57.46 - 58.46] From New York.
+[58.46 - 61.46] Really? Why did you move to LA?
+[61.46 - 68.46] To go to college. Well, to San Diego to go to college, and then later to LA.
+[68.46 - 71.46] Cool. What did you study at school?
+[71.46 - 73.46] Aerospace engineering.
+[73.46 - 78.46] That's nice. How did you decide to do that?
+[78.46 - 85.46] I was really good at math and science, and I had an interest in airplanes.
+[85.46 - 87.46] Are you still working on that?
+[87.46 - 88.46] No.
+[88.46 - 90.46] What do you do now?
+[90.46 - 93.46] I'm a life coach.
+[93.46 - 98.46] Cool. What's your dream job?
+[98.46 - 104.46] To be a life coach and help people.
+[104.46 - 107.46] Tell me more about that.
+[107.46 - 118.46] I really like how it feels to help other people and see them grow and know that I made a contribution to their life.
+[118.46 - 126.46] That's so good to hear. What are some things you really like about LA?
+[126.46 - 135.46] I like the weather. It's great. I really like to do outdoor things, and I like doing things by the ocean.
+[135.46 - 138.46] What are some things you don't really like about LA?
+[138.46 - 144.46] Traffic and how crowded it is.
+[144.46 - 146.46] Do you have roommates?
+[146.46 - 148.46] Yeah.
+[148.46 - 151.46] How do you like your living situation?
+[151.46 - 156.46] I live with my girlfriend, so I like it.
+[156.46 - 159.46] How do you know them?
+[159.46 - 165.46] We met on eHarmony.
+[165.46 - 167.46] How close are you to them?
+[167.46 - 171.46] Really close.
+[171.46 - 177.46] That's great. There's someone that's been a positive influence on you.
+[177.46 - 181.46] My meditation teacher.
+[181.46 - 184.46] Can you tell me about that?
+[184.46 - 191.46] I used to be very shy and self-conscious and have a lot of anxiety.
+[191.46 - 195.46] I worry a lot about the future.
+[195.46 - 206.46] I took classes, meditation and yoga classes, and it really helped me to be more confident and more relaxed and enjoy life a lot more.
+[206.46 - 210.46] That's good. What do you do to relax?
+[210.46 - 214.46] I meditate and do yoga.
+[214.46 - 219.46] What are some things that you don't really like about LA?
+[219.46 - 228.46] I don't get mad that often, but frustrated.
+[228.46 - 240.46] I would say being stuck in traffic or people that do mean things to other people for no real reason.
+[240.46 - 245.46] What do you do when you're annoyed?
+[245.46 - 250.46] I usually talk to somebody about it if I can.
+[250.46 - 265.46] That's good. How are you at controlling your temper?
+[265.46 - 269.46] When was the last time you argued with someone?
+[269.46 - 289.46] How did you feel about that?
+[289.46 - 300.46] What did you do in that moment?
+[300.46 - 305.46] Do you feel that way often?
+[305.46 - 316.46] That's good. What are some things you like to do to find?
+[316.46 - 326.46] What's one of your most memorable experiences?
+[326.46 - 332.46] A trip I took to India and Nepal for six weeks.
+[332.46 - 334.46] Can you travel a lot?
+[334.46 - 337.46] Yeah, as much as I can.
+[337.46 - 340.46] What do you enjoy about traveling?
+[340.46 - 345.46] I love to explore. I've loved to explore ever since I was a little kid.
+[345.46 - 351.46] I love seeing new things and discovering things about new cultures.
+[351.46 - 357.46] I love backpacking in the wilderness and exploring nature.
+[357.46 - 360.46] I'd love to hear about your trips.
+[360.46 - 367.46] Cool. I went on a trip to India and Nepal. It was my first time ever there.
+[367.46 - 372.46] The first week and a half I was with a big group of people and did a meditation and yoga retreat.
+[372.46 - 376.46] I went whitewater rafting on the Ganga River.
+[376.46 - 380.46] Then I went off on my own for the rest of the trip.
+[380.46 - 385.46] I went backpacking in Nepal with a guide there.
+[385.46 - 389.46] It was really beautiful in the Annapurna area.
+[389.46 - 396.46] Then I went back into India and explored the area up near Tibet.
+[396.46 - 402.46] Then I went to Rajasthan and to a tiger park in Madai Pradesh.
+[402.46 - 408.46] It was really close to tigers.
+[408.46 - 412.46] How did you decide to do that?
+[412.46 - 418.46] I was contacted by a friend of mine and told that they were going on this trip.
+[418.46 - 423.46] I'd always wanted to go to India. So I decided to do it.
+[423.46 - 426.46] That sounds like a great situation.
+[426.46 - 430.46] Yeah, it was really fun.
+[430.46 - 433.46] How are your best friends?
+[434.46 - 441.46] They're caring and enthusiastic for life.
+[441.46 - 446.46] That's good. Have you ever served in a military?
+[446.46 - 448.46] No.
+[448.46 - 451.46] Have you ever been diagnosed with insomnia?
+[451.46 - 452.46] No.
+[452.46 - 454.46] Have you been diagnosed with depression?
+[454.46 - 455.46] No.
+[455.46 - 458.46] How easy is it for you to get a good night's sleep?
+[458.46 - 463.46] Pretty easy. I don't sleep as well as I did when I was younger.
+[463.46 - 466.46] For the most part, I sleep well.
+[466.46 - 472.46] Once in a while, I'll wake up at four or five in the morning when I want to sleep until seven.
+[472.46 - 475.46] I'll not be able to get back to sleep.
+[475.46 - 478.46] In general, it's pretty good.
+[478.46 - 481.46] What are you like when you don't sleep well?
+[481.46 - 485.46] I feel tired and not as motivated as usual.
+[485.46 - 489.46] I sometimes want to take a nap in the afternoon.
+[489.46 - 491.46] Okay.
+[491.46 - 495.46] Have you ever studied using a video app?
+[495.46 - 498.46] No.
+[498.46 - 500.46] Okay.
+[500.46 - 507.46] What advice would you give yourself 10 or 20 years ago?
+[507.46 - 511.46] 10 or 20 years ago?
+[511.46 - 522.46] I guess, too, I wish I would have invested money or bought a house or something when I was younger.
+[522.46 - 527.46] That would probably be the advice I would give myself.
+[527.46 - 530.46] Okay.
+[530.46 - 535.46] What would you say is one of your best qualities?
+[535.46 - 545.46] I am empathetic with other people, positive and have a positive outlook on life.
+[545.46 - 549.46] I'm very determined when I decide to do something.
+[549.46 - 553.46] I'll figure out how to do it even if it's challenging.
+[553.46 - 559.46] I'm very creative in figuring out creative ways to do things.
+[559.46 - 563.46] I guess probably the strongest thing is that I'm pretty balanced.
+[563.46 - 566.46] I'm very organized but I'm also pretty creative.
+[566.46 - 569.46] I'm pretty balanced that way.
+[569.46 - 571.46] That's good.
+[571.46 - 574.46] How close are you to your family?
+[574.46 - 576.46] Pretty close.
+[576.46 - 579.46] Much closer than I was when I was younger.
+[579.46 - 591.46] Although I'd say I'm probably closer to friends and people that are in a spiritual community with me than I'm able to get to my family.
+[591.46 - 595.46] Okay.
+[595.46 - 599.46] What are some things that you do that you think are good?
+[599.46 - 607.46] Being outdoors and nature and exercising and also singing.
+[607.46 - 612.46] What are you most proud of in your life?
+[612.46 - 621.46] The fact that I've gone with, followed my heart and done what I wanted to do versus going with what I think I should do.
+[621.46 - 624.46] That's great.
+[624.46 - 629.46] When was the last time you felt really happy?
+[629.46 - 631.46] I guess yesterday.
+[631.46 - 641.46] I spent the day by the beach and just bicycled and went skating and visited some old friends there.
+[641.46 - 644.46] How did you feel about that?
+[644.46 - 651.46] I felt very relaxed and invigorated.
+[651.46 - 659.46] I also felt like I missed living by the beach because I used to live really close to the beach.
+[659.46 - 667.46] I guess a little bit sad that I didn't live there anymore but really happy to be there.
+[667.46 - 673.46] I think I've asked everything I need to.
+[673.46 - 676.46] Thanks for sharing your thoughts with me.
+[676.46 - 677.46] Goodbye.
+[677.46 - 694.46] Goodbye.
+[694.46 - 697.46] Okay.

@@ -1,0 +1,141 @@
+[0.00 - 29.48] So now she's going to chat with you for a bit.
+[29.48 - 41.48] Hi, I'm Ellie. Thanks for coming in today. I'm just created to talk to people in a safe and secure environment.
+[41.48 - 48.48] I'm not a therapist, but I'm here to learn about people and I'd love to learn about you. I'll ask you a few questions to get us started.
+[48.48 - 55.48] And please feel free to tell me anything. Your answers are fully confidential. Are you okay with this?
+[55.48 - 56.48] Yes.
+[56.48 - 61.48] Okay. So, how are you doing today?
+[61.48 - 73.48] I'm doing pretty well. I have some stressful circumstances going on, but right now I'm engaged.
+[73.48 - 78.48] That's good. Where are you from originally?
+[78.48 - 80.48] I'm from Minnesota.
+[80.48 - 81.48] Really?
+[81.48 - 82.48] Mm-hmm.
+[82.48 - 84.48] When did you move to LA?
+[84.48 - 87.48] 31 years ago.
+[87.48 - 89.48] That's a long time.
+[89.48 - 91.48] Half my life.
+[91.48 - 94.48] How often do you go back to your hometown?
+[94.48 - 103.48] Frequently I've been back there quite a bit, but over the years not that often.
+[103.48 - 110.48] How does it compare to LA?
+[110.48 - 126.48] Well, it's a whole different experience. I go back there to see my family and old friends. LA is home. It's nice to return here.
+[126.48 - 130.48] That's good. Why did you move to LA?
+[130.48 - 132.48] To be an actor.
+[132.48 - 135.48] Are you still doing that?
+[135.48 - 150.48] I'm just actually getting around to it. I was in another business for 25 years, and now finally I can't put it off anymore.
+[150.48 - 153.48] What made you decide to do that?
+[153.48 - 165.48] The economy. It's easy to find work in show business, it seems, as it is any of the other jobs I've done in the past.
+[165.48 - 171.48] Yeah. I see what you mean. What did you study at school?
+[171.48 - 180.48] A whole variety of things, but mostly having to do with theater.
+[180.48 - 183.48] What's your dream job?
+[183.48 - 191.48] To be a successful actor would be nice.
+[191.48 - 199.48] Do you consider yourself more shy or outgoing?
+[199.48 - 204.48] Outgoing. With elements of shyness.
+[204.48 - 218.48] I turn on the fish tank screensaver. Hey, I know it's not Hawaii, but it's the best I've got. What do you do to relax?
+[218.48 - 229.48] Well, I read and I cook. That's about it.
+[229.48 - 246.48] I'm a big radio listener to talk radio, national public radio, and more not crazy stuff.
+[246.48 - 254.48] Sensible listening, nice content, interesting human interest.
+[254.48 - 256.48] Like what?
+[256.48 - 270.48] Oh, well I'm also a comedian, and so I like to listen to radio shows that have comedy.
+[270.48 - 280.48] How are you at controlling yourself?
+[280.48 - 287.48] I'm pretty good. I mean, I'm not perfect. I can get very upset.
+[287.48 - 292.48] When was the last time you argued with someone? What was it about?
+[292.48 - 306.48] Oh, probably with my wife about my methods of job hunting and like that.
+[306.48 - 309.48] How hard is that?
+[309.48 - 318.48] It's difficult.
+[318.48 - 330.48] We're very different and have very different MOs.
+[330.48 - 343.48] For me to do things my way is not always easy.
+[343.48 - 353.48] Tell me about a situation that you wish you were in a different way.
+[353.48 - 369.48] Well, just the other night I was performing in a nightclub and had an opportunity to introduce myself to a very famous person and I didn't do it.
+[369.48 - 377.48] Why?
+[377.48 - 385.48] I'm not sure. I guess I didn't know if it would be appropriate to approach him.
+[385.48 - 404.48] I miss him. Tell me about the hardest decision you've ever had to make.
+[404.48 - 409.48] I can't think of one.
+[409.48 - 416.48] Tell me about your relationship with your family.
+[416.48 - 427.48] Well, I've been married for 24 years in July, which is a couple of months.
+[427.48 - 434.48] My wife and I have not been sleeping in the same bed for about three years.
+[434.48 - 447.48] We have a very high achieving daughter who's going to graduate from high school this spring.
+[447.48 - 461.48] She's just gotten accepted at a college that she wants to go to with a very nice scholarship.
+[461.48 - 467.48] That's great. Do you find it easy to be a parent?
+[467.48 - 485.48] Yeah. Well, my daughter's been very low maintenance for me, perhaps more so for my wife, but she's always been an excellent child.
+[485.48 - 498.48] What are some ways that you're different as a parent than your parents?
+[498.48 - 513.48] Well, we're more similar, I think, than different. I'm much more aware of what's happening in the world and much more informed than my parents were.
+[513.48 - 530.48] But in terms of child rearing, I think we've all been kind of hands-off. My wife has been more hands-on.
+[530.48 - 542.48] What's the hardest thing about being a parent?
+[542.48 - 548.48] Well, the financial responsibility.
+[548.48 - 574.48] I think it's wanting to make sure that your child has everything that her peers have and not wanting her to not have the same as her friends.
+[574.48 - 596.48] And she has very wealthy friends. I am not a gifted moneymaker. It's a struggle, but we keep up.
+[596.48 - 600.48] There's someone that's been a positive influence in your life.
+[626.48 - 640.48] That sort of put me on a path to breaking patterns of behavior that were kind of dictated by my upbringing.
+[640.48 - 642.48] Like what?
+[642.48 - 667.48] Oh, just instead of working for somebody else, being able to start a business and be in business for yourself and to not be dependent on just one source of income.
+[667.48 - 679.48] Okay. Tell me about New York or something that you wish you could erase from your memory.
+[679.48 - 692.48] Oh.
+[692.48 - 698.48] Meeting one particular woman when I first got out here.
+[698.48 - 707.48] Tell me about that.
+[707.48 - 724.48] She left me less than healthy physically.
+[724.48 - 742.48] I self-medicate to go to sleep, which I probably don't have to do, but about half the nights I wake up much earlier than I would like to.
+[742.48 - 744.48] Why?
+[744.48 - 751.48] Oh, mostly to have to go to the bathroom.
+[751.48 - 758.48] Okay. What are you like when you don't sleep well?
+[758.48 - 765.48] Well, I cope pretty well. I guess I'm just not quite as functional as I'd like to be.
+[765.48 - 773.48] There are a couple of nights a week when I work until two o'clock in the morning and don't get to bed until three.
+[773.48 - 785.48] Normally I need seven hours if I only get five or six and I'm sluggish.
+[785.48 - 793.48] Okay. How have you been feeling lately?
+[793.48 - 796.48] Very anxious.
+[796.48 - 798.48] Can you tell me about that?
+[798.48 - 814.48] Well, I have big bills to pay and not a lot of income coming in.
+[814.48 - 817.48] That sounds really high.
+[817.48 - 824.48] Yeah, it's because I don't like to fall behind.
+[824.48 - 843.48] I feel like I'm worried about losing ground and the stakes are high.
+[843.48 - 848.48] It's an uncomfortable position.
+[848.48 - 851.48] Have you ever been diagnosed with PTSD?
+[851.48 - 852.48] No.
+[852.48 - 855.48] Have you been diagnosed with depression?
+[855.48 - 873.48] I am a classic depressive. Yeah, I guess I have. I do see a therapist.
+[873.48 - 887.48] Though the therapist I'm seeing now is not trying to prescribe drugs or medications.
+[887.48 - 891.48] Previous ones have.
+[891.48 - 894.48] How long ago were you diagnosed?
+[894.48 - 900.48] Probably six years ago.
+[900.48 - 907.48] What got you into seeing help?
+[907.48 - 910.48] Well, my wife kind of pushed me into it.
+[910.48 - 925.48] She thought it was a way of, I think, getting help finding work.
+[925.48 - 948.48] It's not. It's just I enjoyed having someone to talk to.
+[948.48 - 950.48] Not really.
+[950.48 - 952.48] What were your symptoms?
+[980.48 - 989.48] I was just having a lot of trouble with the struggle.
+[989.48 - 994.48] Displeasure with my life.
+[994.48 - 996.48] Do you still have a therapy now?
+[996.48 - 998.48] Yes.
+[998.48 - 1000.48] Do you feel like therapy is useful?
+[1000.48 - 1002.48] Their what?
+[1002.48 - 1005.48] Do you feel like therapy is useful?
+[1005.48 - 1007.48] I don't understand that word.
+[1007.48 - 1010.48] Have you noticed anything on your head?
+[1010.48 - 1025.48] Well, I...
+[1025.48 - 1040.48] It's something I look forward to because I feel like I'm talking to someone who understands me.
+[1040.48 - 1065.48] Tell me about the last time you felt really happy.
+[1065.48 - 1078.48] I can't. I don't know.
+[1078.48 - 1090.48] Each little acting gig that I get makes me happy, but just mildly happy.
+[1090.48 - 1097.48] They usually turn out to be disappointing experiences.
+[1097.48 - 1110.48] I'm never over-excited with happiness.
+[1110.48 - 1130.48] Tell me about something you've been doing that you really enjoy.
+[1130.48 - 1138.48] Yesterday I made a dessert to celebrate my daughter's scholarship.
+[1138.48 - 1142.48] It was delicious and we really enjoyed that.
+[1142.48 - 1147.48] That's so good to hear.
+[1147.48 - 1160.48] Is there anything you're about?
+[1160.48 - 1169.48] No. Except meeting that one woman.
+[1169.48 - 1186.48] What advice would you give yourself 10 or 20 years ago?
+[1186.48 - 1198.48] Probably try a little harder.
+[1198.48 - 1216.48] I had started this business around that time.
+[1216.48 - 1224.48] It was difficult, but we were successful at it.
+[1224.48 - 1242.48] I guess I could have gotten it rolling even more so that it wouldn't be so dead today.
+[1242.48 - 1268.48] Tell me how you spend your ideal weekend.
+[1268.48 - 1275.48] What are you most proud of about your mother?
+[1298.48 - 1311.48] I'm going for the big apple.
+[1311.48 - 1314.48] I hope to be successful there too.
+[1314.48 - 1317.48] That's good.
+[1317.48 - 1320.48] Okay. I think I've asked everything I need to.
+[1320.48 - 1322.48] Thanks for sharing your thoughts with me.
+[1322.48 - 1323.48] You're welcome.
+[1323.48 - 1324.48] Goodbye.
+[1324.48 - 1325.48] Goodbye.
+[1328.48 - 1355.48] Goodbye.

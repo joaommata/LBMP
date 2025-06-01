@@ -1,0 +1,65 @@
+[0.00 - 2.00] This is weird.
+[19.00 - 21.00] Thank you.
+[30.00 - 36.00] I'm not a therapist, but I'm here to learn about people and I'd love to learn about you.
+[36.00 - 39.00] I'll ask a few questions to get us started.
+[39.00 - 44.00] And please feel free to tell me anything. Your answers are fully confidential.
+[44.00 - 46.00] Are you okay with this?
+[46.00 - 47.00] Yes.
+[47.00 - 50.00] So, how are you doing today?
+[50.00 - 51.00] Good.
+[51.00 - 53.00] Where are you from originally?
+[53.00 - 55.00] From California.
+[55.00 - 58.00] What are some things you really liked about LA?
+[58.00 - 61.00] What are some things you really liked about LA?
+[81.00 - 84.00] What are some things you don't really like about LA?
+[88.00 - 100.00] Do you travel a lot?
+[100.00 - 111.00] What do you study at school?
+[111.00 - 113.00] Are you still working on that?
+[113.00 - 114.00] I am.
+[114.00 - 116.00] What do you do now?
+[119.00 - 121.00] What's your dream job?
+[132.00 - 134.00] Do you consider yourself an introvert?
+[136.00 - 138.00] What do you do to relax?
+[149.00 - 152.00] What are some things that make you really mad?
+[165.00 - 167.00] What do you do when you're annoyed?
+[167.00 - 169.00] How are you controlling your temper?
+[176.00 - 179.00] When was the last time you argued with someone?
+[180.00 - 183.00] What was the last time you argued with someone?
+[199.00 - 201.00] Tell me about your kids.
+[210.00 - 212.00] Do you find it easy to be a parent?
+[218.00 - 221.00] What's the hardest thing about being a parent?
+[221.00 - 224.00] What's the best thing about being a parent?
+[251.00 - 254.00] What's the most memorable experience?
+[277.00 - 280.00] How would your best friend describe you?
+[281.00 - 294.00] Have you ever served in the military?
+[296.00 - 299.00] Have you ever been diagnosed with PTSD?
+[299.00 - 302.00] How long ago were you diagnosed?
+[302.00 - 308.00] What got you to seek help?
+[327.00 - 329.00] Do you still go to therapy now?
+[330.00 - 333.00] Do you feel like therapy is useful?
+[347.00 - 351.00] What sort of change has happened since you've been going to therapy?
+[359.00 - 362.00] How have you been feeling lately?
+[374.00 - 377.00] Have you noticed any changes in your behavior or thoughts lately?
+[381.00 - 383.00] How do you cope with that?
+[389.00 - 392.00] How easy is it for you to get a good night's sleep?
+[410.00 - 413.00] What are you like when you don't sleep well?
+[420.00 - 423.00] Are they triggered by something?
+[429.00 - 432.00] When was the last time you felt really happy?
+[436.00 - 439.00] Tell me about something you did recently that you really enjoyed.
+[449.00 - 452.00] What are you most proud of in your life?
+[466.00 - 469.00] Is there anything you regret?
+[472.00 - 476.00] What advice would you give yourself 10 or 20 years ago?
+[479.00 - 482.00] There's someone that's been a positive influence on my life.
+[495.00 - 498.00] What would you say are some of your best qualities?
+[498.00 - 502.00] What would you say are some of your best qualities?
+[529.00 - 532.00] What are some things that usually put you in a good mood?
+[532.00 - 535.00] What are some things that usually put you in a good mood?
+[556.00 - 559.00] Okay, I think I've asked everything I need to.
+[559.00 - 561.00] Thanks for sharing your thoughts with me.
+[561.00 - 563.00] Goodbye.
+[575.00 - 577.00] All finished.
+[579.00 - 581.00] Here's your...
+[583.00 - 585.00] That was interesting.
+[585.00 - 587.00] I've never done that.
+[587.00 - 589.00] Oh, sorry. That thing always gets caught up.
+[589.00 - 591.00] It's weird.

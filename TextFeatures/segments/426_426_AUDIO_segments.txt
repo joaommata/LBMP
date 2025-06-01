@@ -1,0 +1,132 @@
+[0.00 - 1.00] Okay.
+[5.00 - 6.00] Okay.
+[19.00 - 21.00] Alright, now we'll put this door right over here.
+[21.00 - 23.00] And when she's done, she'll let you know.
+[23.00 - 25.00] And then you can press this button to let me know.
+[25.00 - 26.00] Okay.
+[27.00 - 28.00] Okay.
+[29.00 - 30.00] Okay.
+[56.00 - 57.00] Yes.
+[61.00 - 62.00] I'm alright.
+[67.00 - 68.00] South LA.
+[75.00 - 76.00] The weather.
+[76.00 - 77.00] The women.
+[78.00 - 79.00] The opportunities.
+[80.00 - 81.00] That's about it.
+[84.00 - 85.00] Racism.
+[85.00 - 87.00] Police brutality.
+[87.00 - 88.00] Injustice.
+[91.00 - 92.00] That's it.
+[98.00 - 99.00] No.
+[102.00 - 105.00] Not much of a exploring type of person.
+[110.00 - 111.00] Psychology.
+[118.00 - 121.00] It was one of the classes I excelled in the most.
+[121.00 - 124.00] So I decided to change it from business to psychology.
+[127.00 - 128.00] Yeah, yes.
+[130.00 - 131.00] No.
+[134.00 - 135.00] It's on my own record label.
+[139.00 - 140.00] How hard is that?
+[152.00 - 155.00] Do you consider yourself shy or outgoing?
+[158.00 - 159.00] Why?
+[169.00 - 170.00] I'm not.
+[172.00 - 177.00] Sometimes when I'm doing things, I turn on the fish tank screen saver.
+[177.00 - 181.00] Hey, I know it's not Hawaii, but it's the best it's got.
+[182.00 - 184.00] What do you do to relax?
+[192.00 - 193.00] That's good.
+[194.00 - 196.00] How are you at controlling your hunger?
+[199.00 - 204.00] I think I'm pretty decent now compared to how I used to be.
+[205.00 - 207.00] Is that something you're controlling?
+[207.00 - 208.00] Yes, ma'am.
+[209.00 - 211.00] Can you tell me about that?
+[214.00 - 222.00] Due to the lack of, I guess you could say, controlling my emotions, I have got incarcerated and sent to prison.
+[223.00 - 224.00] Yeah.
+[227.00 - 228.00] Okay.
+[229.00 - 233.00] Tell me about the hardest decision you've ever made to make.
+[238.00 - 239.00] I'm not sure.
+[240.00 - 245.00] I don't really have a recollection of my hardest decision I've ever made in my life.
+[246.00 - 250.00] When was the last time you argued with someone and argued it out?
+[251.00 - 258.00] It was probably a few days ago with the girl I was talking to and I was arguing about her lack of communication.
+[259.00 - 261.00] And attentiveness.
+[262.00 - 264.00] How did you feel around her?
+[265.00 - 266.00] Frustrated.
+[267.00 - 279.00] Because you put in a certain amount of effort and you expect the same effort by the other person when you're in a relationship.
+[279.00 - 284.00] And at the same time when you have expectations, sometimes you kind of set yourself up for failure.
+[285.00 - 287.00] I guess I'm just learning.
+[290.00 - 293.00] Tell me about a situation that you would have handled differently.
+[294.00 - 297.00] There are a lot of situations I would have handled differently.
+[298.00 - 309.00] Probably the most recent was I got into a physical altercation with an inmate when I was incarcerated.
+[310.00 - 316.00] And that's what sent me to prison and I had to do a lot more time.
+[316.00 - 322.00] And if I handled it differently, I probably would have never went to prison.
+[322.00 - 327.00] I probably would have been home a lot sooner than what originally happened.
+[330.00 - 335.00] Tell me about events or something that you wish you could erase from your memory.
+[336.00 - 339.00] There are several events I wish I could erase from my memory.
+[339.00 - 347.00] Probably my first girlfriend.
+[350.00 - 353.00] She did something really extreme.
+[353.00 - 355.00] It wasn't necessary in my eyes.
+[356.00 - 358.00] And it could have cost me my life.
+[358.00 - 364.00] I think that's a recurring thought that I wish I could completely erase my memory.
+[364.00 - 366.00] Along with the good memories as well.
+[367.00 - 370.00] A few fights.
+[371.00 - 373.00] I guess you could say shootouts.
+[374.00 - 376.00] Getting jumped, getting robbed.
+[377.00 - 379.00] Those things I think those inhibit me.
+[381.00 - 386.00] I guess to explore certain areas of life that I'm not comfortable with.
+[386.00 - 390.00] So those are the few things that would be nice if I could erase it completely.
+[390.00 - 393.00] What's something you feel guilty about?
+[400.00 - 401.00] Hurting people.
+[401.00 - 403.00] I didn't need to be hurt emotionally.
+[403.00 - 408.00] Especially a few women in my life or in my past.
+[411.00 - 415.00] Probably putting my mother through certain things that she didn't have to go through.
+[415.00 - 417.00] Along with my close friends and family as well.
+[421.00 - 424.00] Tell me about your relationship with your family.
+[425.00 - 428.00] It used to be rocky growing up.
+[428.00 - 435.00] But as I got older and matured and the certain experiences that I've been through kind of brought me closer to my family.
+[435.00 - 437.00] So now it's pretty decent.
+[437.00 - 438.00] It's pretty decent.
+[438.00 - 441.00] Who's someone that's been a positive influence on you?
+[444.00 - 445.00] My mother.
+[450.00 - 452.00] Can you tell me about that?
+[456.00 - 458.00] She had her share of experiences.
+[458.00 - 460.00] Negative and positive.
+[460.00 - 462.00] I admire her.
+[462.00 - 464.00] I admire her.
+[464.00 - 466.00] I admire her.
+[466.00 - 467.00] I admire her.
+[467.00 - 468.00] I admire her.
+[468.00 - 470.00] The struggles she's been through.
+[472.00 - 476.00] She experienced difficult economic hardships growing up.
+[476.00 - 478.00] But that didn't stop her.
+[478.00 - 481.00] For raising a son at a young age.
+[481.00 - 483.00] Finishing school.
+[483.00 - 484.00] Getting her masters.
+[484.00 - 488.00] And just overall being a good person.
+[488.00 - 490.00] And she also battled mental health issues as well.
+[490.00 - 492.00] How easy is it to get to sleep?
+[514.00 - 515.00] Why?
+[520.00 - 522.00] Are you good at by simply?
+[542.00 - 544.00] How are you doing lately?
+[544.00 - 547.00] Can you tell me about that?
+[574.00 - 578.00] I'm so lonely.
+[581.00 - 584.00] You're always very awesome. I'm a fan of you.
+[587.00 - 589.00] Have you ever been diagnosed with dyslexia?
+[590.00 - 592.00] How long ago were you diagnosed?
+[597.00 - 599.00] What got you to see health?
+[604.00 - 606.00] Are you happy with your life?
+[622.00 - 624.00] Do you still get a sense of relief?
+[629.00 - 631.00] Do you feel like getting used to it?
+[635.00 - 638.00] What sort of changes have you noticed since you came here?
+[655.00 - 657.00] Can you give me an example of that?
+[664.00 - 667.00] Tell me about the last time you felt really happy.
+[694.00 - 696.00] How were your best friends back then?
+[696.00 - 698.00] How were your best friends back then?
+[698.00 - 700.00] How were your best friends back then?
+[723.00 - 726.00] What are some things you wish you had changed about yourself?
+[729.00 - 731.00] Is there anything you regret?
+[745.00 - 748.00] What advice would you give yourself 10 or 20 years ago?
+[758.00 - 761.00] What are some things that you think you would have done better?
+[781.00 - 784.00] What about something you would have done better?
+[788.00 - 790.00] What are you most proud of in life?
+[803.00 - 805.00] What are you most proud of in life?
+[818.00 - 822.00] Okay, I think I've asked everything you need to. Thanks for sharing your thoughts with me.
+[822.00 - 824.00] Goodbye.
+[848.00 - 854.00] You can have a look at your computer. We'll finish up with a post survey about your experience.

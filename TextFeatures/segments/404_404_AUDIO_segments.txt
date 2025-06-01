@@ -1,0 +1,121 @@
+[0.00 - 10.80] Wow, she looks determined.
+[10.80 - 17.80] Alright, so as I said, she'll ask you some questions. When she's done, she will let you know.
+[17.80 - 19.80] And you'll press this button.
+[40.80 - 47.80] And please feel free to tell me anything. Your answers are fully confidential. Are you okay with this?
+[49.80 - 50.80] Yes.
+[50.80 - 55.80] Okay. So, how are you doing today?
+[57.80 - 58.80] Doing good.
+[59.80 - 62.80] That's good. Where are you from originally?
+[63.80 - 65.80] New York City.
+[66.80 - 69.80] Really? What did you live through LA?
+[71.80 - 86.80] Well, originally I was born here, but I spent some time back east and moved back here and basically sort of raised here.
+[86.80 - 91.80] So, I've been here a while and I'm enjoying it.
+[92.80 - 95.80] What are some things you really like about LA?
+[96.80 - 108.80] There's great weather and amusement parks, a lot of scenery, a lot of people, a lot of energy and excitement.
+[108.80 - 111.80] There's so many things to really like about LA.
+[112.80 - 116.80] Yeah. What are some things you don't really like about LA?
+[117.80 - 122.80] See, a lot of congestion and pollution.
+[125.80 - 133.80] I see what you mean. I'm sure you can tell by my shoes. I'm not much of a world explorer. Do you travel a lot?
+[135.80 - 138.80] I try to, but no, I don't.
+[139.80 - 141.80] What do you enjoy about traveling?
+[144.80 - 147.80] It's nice to be in the open road with...
+[149.80 - 153.80] ...pretending to have time to think about my own life.
+[153.80 - 155.80] Uh-huh.
+[157.80 - 161.80] Do you consider yourself more shy or outgoing?
+[162.80 - 163.80] Shy.
+[164.80 - 165.80] Why?
+[166.80 - 170.80] Sometimes I find it hard to express my own thoughts.
+[172.80 - 177.80] Sometimes when I'm feeling tense, I turn on the fish tank screensaver.
+[177.80 - 181.80] Hey, I know it's not Hawaii, but it's the best I've got.
+[182.80 - 184.80] What do you do to relax?
+[186.80 - 196.80] Well, you mentioned a fish tank, and I've spent some time in many waiting rooms where there's been fish tanks.
+[198.80 - 202.80] So staring at fish tanks could be one of them.
+[202.80 - 205.80] That's good. How are you at controlling your temper?
+[225.80 - 229.80] When was the last time you argued with someone, and what was it about?
+[233.80 - 237.80] Today. Okay, last time I argued, it was today, just before I got here.
+[238.80 - 242.80] And it was about...
+[247.80 - 252.80] ...about taking them to a bus stop.
+[255.80 - 257.80] About making an arrangement.
+[262.80 - 263.80] Okay.
+[265.80 - 267.80] What's something you feel guilty about?
+[269.80 - 272.80] Feel guilty about...
+[277.80 - 280.80] ...not taking better care of my pet.
+[281.80 - 283.80] Can you tell me about that?
+[284.80 - 291.80] Sure, I like birds, so one of my pets was a bird, as of recently.
+[292.80 - 309.80] And I let my bird out into the wild, and sort of wished I had planned for a better future for the bird.
+[309.80 - 317.80] Only because now I sort of wish the bird was closer to me.
+[317.80 - 324.80] I see. Tell me about a situation that you wish you would handle differently.
+[347.80 - 350.80] Is that gotten you in trouble?
+[377.80 - 381.80] Not the way that I would like to have handled it.
+[382.80 - 388.80] Okay. Tell me about the hardest decision you've ever had to make.
+[407.80 - 434.80] How to proceed with moving forward on a job opportunity.
+[438.80 - 440.80] Tell me about that.
+[440.80 - 450.80] I had to decide whether...
+[450.80 - 474.80] ...if I would suffer more emotional pain by leaving my family, and whether the financial gain and knowledge of that experience would outweigh the benefit.
+[475.80 - 477.80] That sounds really hard.
+[478.80 - 481.80] Are you happy with your job?
+[486.80 - 491.80] That's good. Tell me about your relationship with your family.
+[507.80 - 512.80] My kids, older, they're grown adults.
+[514.80 - 523.80] It's a good relationship, and things could be better.
+[524.80 - 534.80] Sometimes it's sort of difficult, painstaking relationships at times.
+[537.80 - 555.80] There's some days I need time for myself, and I would rather give the time to other people rather than to take time for myself, which has been my experience.
+[555.80 - 573.80] That has caused me a lot of emotional pain, a little bit of spiritual anxiety about my future if I continue to do that sort of thing.
+[577.80 - 582.80] Tell me about move out, or something that you wish you could erase from your memory.
+[583.80 - 588.80] Wow, there's so many things. What about you? I don't know anything about you.
+[590.80 - 594.80] I would say...there's a few.
+[595.80 - 597.80] But of recent...
+[597.80 - 599.80] But...
+[603.80 - 604.80] Wow.
+[605.80 - 617.80] Things are going pretty good. I can't really say there's anything as of yet that I would really want to change, or have anything to regret on that I can remember.
+[618.80 - 622.80] Okay. How easy is it for you to get a good night's sleep?
+[622.80 - 637.80] It's been pretty good. And...I'd say it's okay. I'm handling my sleep pretty well.
+[638.80 - 640.80] What are you like when you don't sleep well?
+[641.80 - 648.80] When I don't sleep well, sometimes I can be irritable. Sometimes it's okay.
+[648.80 - 667.80] And I would say there's also times where I'm unhappy. So I try to get as much sleep as I need.
+[668.80 - 672.80] Okay. Have you ever served in military?
+[673.80 - 674.80] Yes.
+[675.80 - 677.80] How were you in the military?
+[678.80 - 688.80] I...I believe I was 19. And...I'm glad I did it.
+[689.80 - 691.80] You were very young, weren't you?
+[692.80 - 697.80] Yes. Sort of. But...yes.
+[698.80 - 700.80] Did you ever see combat?
+[701.80 - 702.80] No.
+[703.80 - 706.80] How did serving in the military change you?
+[707.80 - 734.80] Well...I guess it's supposed it made me a more confident person and more in tune with the country that I'm living in and people to be more noticeable, more watchful of where I live.
+[735.80 - 740.80] What's one of your most memorable experiences?
+[740.80 - 760.80] Um...hanging out with some friends on a really nice weekend and on a boat. Or on a skiff. A really small boat. And trying to fish.
+[761.80 - 766.80] Nice. How did you feel in that moment?
+[767.80 - 781.80] I felt free or alive. Happy. Uninhibited. Strong. Confident. Mature.
+[782.80 - 786.80] What did you do after the military?
+[787.80 - 789.80] After the military.
+[792.80 - 810.80] After the military...took some time to evaluate my thoughts and my future. And...just sort of took the necessary steps to move ahead.
+[811.80 - 813.80] How hard is that?
+[813.80 - 818.80] It's sort of hard. It is.
+[819.80 - 823.80] How easy was it for you to go back to civilian life?
+[824.80 - 838.80] It wasn't easy. A lot of family help. And community. And...so it took some adjusting, but it wasn't easy.
+[839.80 - 844.80] I understand. Have you ever been diagnosed with PTSD?
+[845.80 - 846.80] No.
+[847.80 - 849.80] Have you been diagnosed with depression?
+[850.80 - 851.80] No.
+[852.80 - 856.80] Tell me about the last time you felt really happy.
+[856.80 - 881.80] You know...this week...partially today. Happy sort of often. Not too happy, but content.
+[881.80 - 895.80] Happy? Happy...not usually too happy. I try to stay on the center line.
+[896.80 - 903.80] Okay. Tell me how you spend your ideal weekend.
+[904.80 - 915.80] Ideal weekend...up early. Get out. Enjoy the day.
+[915.80 - 936.80] Maybe...hook up with some friends. And...do a little bit of socializing. And...maybe get some form of...view some form of artistic expression.
+[937.80 - 939.80] Like what?
+[939.80 - 964.80] Maybe like a museum. Or...stare at some art. Or...maybe something in the local community. Maybe street art. And...or perhaps something with music. Or...something of that nature.
+[964.80 - 970.80] Okay. What are some things you wish you could change about yourself?
+[971.80 - 979.80] I wish perhaps some things that I could change about myself.
+[980.80 - 1005.80] Maybe...be more decisive about decisions. And...something else...that I...had the same ability for enact for...for meeting more people, I suppose.
+[1005.80 - 1010.80] How would your best friend describe you?
+[1011.80 - 1026.80] Best friend...describe me...I don't know. Nice. Friendly. Trustworthy. Sociable.
+[1027.80 - 1032.80] What advice would you give yourself 10 or 20 years ago?
+[1032.80 - 1041.80] The same advice I gave myself today.
+[1042.80 - 1049.80] Okay. Tell me about something you did recently that you really enjoyed.
+[1049.80 - 1069.80] Something...wow. Um...I really enjoyed spending time with my girlfriend and her two children. And that was yesterday. And I'm glad I did that. It was a good time for everybody.
+[1070.80 - 1078.80] That's great. What are you most proud of in your life?
+[1079.80 - 1089.80] I'm proud I went into the military. And...I'm glad I did that. It was a good experience.
+[1090.80 - 1097.80] Okay. I think I've asked everything I need to. Thanks for sharing your thoughts with me. Goodbye.
+[1098.80 - 1101.80] Bye. Thank you.
+[1109.80 - 1128.80] We have a quick post survey for you to fill out on the other computer about your experience.

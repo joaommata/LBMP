@@ -1,0 +1,258 @@
+[0.00 - 1.00] Okay.
+[1.00 - 2.00] Okay.
+[2.00 - 3.00] Okay.
+[3.00 - 4.00] And then I'm going to do the doorbell.
+[4.00 - 5.00] Okay.
+[5.00 - 6.00] When she's done she'll let you know and you can press that button.
+[6.00 - 7.00] Okay?
+[7.00 - 8.00] Okay.
+[8.00 - 9.00] Thank you.
+[9.00 - 10.00] Okay.
+[10.00 - 11.00] Okay.
+[11.00 - 12.00] Okay.
+[12.00 - 13.00] Okay.
+[13.00 - 14.00] Okay.
+[14.00 - 15.00] Okay.
+[15.00 - 16.00] Okay.
+[16.00 - 17.00] Okay.
+[17.00 - 18.00] Okay.
+[18.00 - 19.00] Okay.
+[19.00 - 20.00] Okay.
+[20.00 - 21.00] Okay.
+[21.00 - 22.00] Okay.
+[22.00 - 23.00] Okay.
+[23.00 - 24.00] Okay.
+[24.00 - 25.00] Okay.
+[25.00 - 26.00] Okay.
+[26.00 - 27.00] Okay.
+[27.00 - 28.00] Okay.
+[28.00 - 29.00] Okay.
+[29.00 - 30.00] Okay.
+[30.00 - 31.00] Okay.
+[31.00 - 32.00] Okay.
+[32.00 - 33.00] Okay.
+[33.00 - 34.00] Okay.
+[34.00 - 35.00] Okay.
+[35.00 - 36.00] Okay.
+[36.00 - 37.00] Okay.
+[37.00 - 38.00] Okay.
+[38.00 - 39.00] Okay.
+[39.00 - 40.00] Okay.
+[40.00 - 41.00] Okay.
+[41.00 - 42.00] Okay.
+[42.00 - 43.00] Okay.
+[43.00 - 44.00] Okay.
+[44.00 - 45.00] Okay.
+[45.00 - 46.00] Okay.
+[46.00 - 47.00] Okay.
+[47.00 - 48.00] Okay.
+[48.00 - 49.00] Okay.
+[49.00 - 50.00] Okay.
+[50.00 - 51.00] Okay.
+[51.00 - 52.00] Okay.
+[52.00 - 53.00] Okay.
+[53.00 - 54.00] Okay.
+[54.00 - 55.00] Okay.
+[55.00 - 56.00] Okay.
+[56.00 - 57.00] Okay.
+[57.00 - 58.00] Okay.
+[58.00 - 59.00] Okay.
+[59.00 - 62.00] So, how are you doing today?
+[62.00 - 64.00] I'm okay.
+[64.00 - 65.00] That's good.
+[65.00 - 68.00] Where are you from originally?
+[68.00 - 70.00] Burbank, California.
+[70.00 - 71.00] Really?
+[71.00 - 72.00] Yeah.
+[72.00 - 76.00] What are some things you really like about LA?
+[76.00 - 77.00] The weather, of course.
+[77.00 - 80.00] I think everyone likes the weather.
+[81.00 - 88.00] It's not too city, like Chicago or New York.
+[88.00 - 90.00] It's big enough.
+[90.00 - 91.00] We have beaches.
+[91.00 - 92.00] We're not landlocked.
+[92.00 - 98.00] What are some things you don't really like about LA?
+[98.00 - 106.00] Sometimes the smog, the traffic, the fact that I've just been here my entire life almost.
+[106.00 - 107.00] Okay.
+[108.00 - 110.00] I'm sure you can tell by my shoes.
+[110.00 - 112.00] I'm not much of a world explorer.
+[112.00 - 115.00] Do you travel a lot?
+[115.00 - 117.00] Not enough as I'd like to.
+[117.00 - 124.00] I go to school in Chicago, and I've been to New York a couple times, San Francisco, and
+[124.00 - 127.00] I took a road trip across the country.
+[127.00 - 128.00] That was cool.
+[128.00 - 131.00] I saw a couple states.
+[131.00 - 134.00] What do you enjoy about traveling?
+[134.00 - 146.00] I love seeing new places, going to landmarks that I've only read about or seen pictures
+[146.00 - 147.00] of.
+[147.00 - 153.00] I'd love to hear about your trips.
+[153.00 - 161.00] I traveled from Los Angeles to Chicago, taking Route 66, and the best part was seeing the
+[161.00 - 163.00] Grand Canyon for the first time.
+[163.00 - 167.00] It was the coolest thing I've ever seen, probably.
+[167.00 - 168.00] Awesome.
+[168.00 - 175.00] How did you feel in that moment?
+[175.00 - 178.00] Happy.
+[178.00 - 181.00] And then just happy was beautiful.
+[181.00 - 183.00] It was nice.
+[183.00 - 186.00] I haven't felt like that in a long time.
+[186.00 - 189.00] That's so good to hear.
+[189.00 - 191.00] What did you study at school?
+[191.00 - 194.00] I was studying film.
+[194.00 - 199.00] How did you decide to do that?
+[199.00 - 206.00] It's just something I've always loved for as long as I could remember, and when it came
+[206.00 - 211.00] time to start applying to schools, I wasn't sure what I wanted to do.
+[211.00 - 219.00] I applied to Northwestern as a film student, and it just ended up being the right decision.
+[219.00 - 222.00] That's great.
+[222.00 - 226.00] What's your dream job?
+[226.00 - 230.00] Ooh.
+[230.00 - 237.00] I love making movies, but part of me really loves making people laugh and being in front
+[237.00 - 248.00] of the camera, so a comedian, a comedic actor would be totally great.
+[248.00 - 252.00] That's hard.
+[252.00 - 256.00] Do you consider yourself more shy or outgoing?
+[256.00 - 261.00] I am super outgoing, and I love talking to people a lot.
+[261.00 - 265.00] I like being the center of attention, usually.
+[265.00 - 270.00] Sometimes when I'm feeling tense, I turn on the fish tank screensaver.
+[270.00 - 274.00] Hey, I know it's not Hawaii, but it's the best I've got.
+[275.00 - 279.00] What do you do to relax?
+[279.00 - 290.00] I like to watch mindless television, like Toddlers and Tiaras and Duck Dynasty, just
+[290.00 - 297.00] TV programs where I really don't have to pay attention at all.
+[297.00 - 304.00] How are you at controlling your temper?
+[304.00 - 306.00] I'm okay at it.
+[306.00 - 317.00] I get really emotional really fast, but I'm usually able to keep my anger down and not
+[317.00 - 322.00] lash out at others and stuff, for the most part.
+[322.00 - 326.00] Has that gotten you in trouble?
+[326.00 - 332.00] Sometimes I get into arguments and fights with my friends and people who are important
+[332.00 - 338.00] to me really easily, and I hate apologizing to people, so the fights could last pretty
+[338.00 - 340.00] long.
+[340.00 - 346.00] When was the last time you argued with someone, and what was it about?
+[346.00 - 352.00] My best friend Ryan, I think.
+[352.00 - 361.00] It was about our relationship and just how we kind of messed it up and crossed some lines
+[361.00 - 368.00] and how we were going to go back to the way it was before.
+[368.00 - 372.00] How hard is that?
+[372.00 - 374.00] Really hard.
+[374.00 - 382.00] He's my best friend and I miss him, but we messed up and it's just not the same.
+[382.00 - 386.00] It's like not the same friendship.
+[386.00 - 389.00] Me too.
+[389.00 - 394.00] Tell me about a situation that you wish you would handle differently.
+[394.00 - 398.00] Too many.
+[398.00 - 401.00] I guess...
+[405.00 - 414.00] When I have a boyfriend and he's a girlfriend, which was not okay, I wish I would have just
+[414.00 - 421.00] realized that this was bad and just would have stopped there and not have let it continue
+[421.00 - 428.00] for weeks, which led to my breakup and then our friendship being really messed up.
+[428.00 - 433.00] Have you done anything to avoid it?
+[433.00 - 438.00] I guess not spend as much time with him as I did.
+[438.00 - 442.00] Being more assertive.
+[445.00 - 450.00] Tell me about the hardest decision you've ever had to make.
+[450.00 - 453.00] I guess...
+[453.00 - 456.00] It was...
+[456.00 - 475.00] In November, I was very depressed and suicidal, so I told my friend what I was feeling and
+[475.00 - 479.00] that she needed to take me to the ER.
+[479.00 - 489.00] From the ER, I had the choice to go home or get sent to a mental hospital.
+[489.00 - 495.00] Even though I felt like I didn't have a choice, I knew it was my choice and I decided to go
+[495.00 - 501.00] to the mental hospital, which was the worst experience of my life ever.
+[502.00 - 505.00] Can you tell me about that?
+[508.00 - 510.00] It was awful.
+[510.00 - 513.00] It was in Chicago and...
+[516.00 - 523.00] It was scary and I didn't know anyone and they just like take all your stuff and they
+[523.00 - 529.00] put you in some scrubs and they just start giving you medication and you're basically
+[529.00 - 530.00] left to your own devices.
+[530.00 - 536.00] There were only like three group therapy sessions a day and everyone there was mostly
+[536.00 - 539.00] men and they were all really old.
+[539.00 - 542.00] And it was scary.
+[542.00 - 544.00] I didn't know anyone, everyone.
+[544.00 - 546.00] Most of the people there weren't depressed.
+[546.00 - 548.00] They were violent.
+[548.00 - 551.00] So that was pretty scary and I just...
+[551.00 - 554.00] It was really hard for me.
+[556.00 - 558.00] What made you decide to do that?
+[559.00 - 562.00] I had been so depressed for like a month.
+[562.00 - 569.00] I stopped going to my classes and work and I told my teachers lies about being sick and
+[569.00 - 572.00] I just kept calling in sick to work.
+[572.00 - 578.00] I dropped a class and I was failing my classes and not turning in any work and I wasn't talking
+[578.00 - 585.00] to any of my friends and I was drinking a lot and passing out and vomiting everywhere.
+[585.00 - 592.00] And I was just in a really bad place and when I finally was going to kill myself, I realized
+[592.00 - 594.00] I needed help.
+[595.00 - 597.00] That sounds really hard.
+[598.00 - 599.00] It was.
+[599.00 - 601.00] What got you to seek help?
+[606.00 - 613.00] I had severe depression when I was a younger teenager and I tried to kill myself then and
+[613.00 - 617.00] I got put in therapy for quite some time.
+[617.00 - 623.00] So I figured I don't want to go down that bad path again.
+[623.00 - 626.00] I just want to get better.
+[626.00 - 628.00] So I had to do it.
+[628.00 - 630.00] I had to get help.
+[631.00 - 633.00] Do you still go to therapy now?
+[633.00 - 634.00] I do.
+[634.00 - 636.00] I go once a week.
+[636.00 - 638.00] Do you feel like therapy is useful?
+[639.00 - 644.00] I feel like if you have the right therapist, it's really useful.
+[644.00 - 650.00] I had one therapist that I really liked and I thought we could have gone really far, but
+[650.00 - 654.00] sadly she's back in Chicago and I'm in Los Angeles.
+[654.00 - 659.00] So I have to make do with this new therapist.
+[659.00 - 661.00] She's okay.
+[662.00 - 668.00] We're not that great together, but she's who I have right now.
+[668.00 - 671.00] It's better than nothing.
+[672.00 - 675.00] How easy is it for you to get a good night's sleep?
+[675.00 - 677.00] Not that easy at all.
+[677.00 - 679.00] Why?
+[679.00 - 692.00] Ever since I got out of the hospital and I began medication for my depression, I just
+[692.00 - 694.00] haven't been able to sleep well.
+[694.00 - 696.00] Falling asleep is hard.
+[696.00 - 698.00] Staying asleep is hard.
+[698.00 - 704.00] Have really crazy, vivid dreams that wake me up and are disturbing.
+[704.00 - 706.00] Like what?
+[709.00 - 722.00] I guess just sometimes they reflect things that I'm worried about or happening in my
+[722.00 - 728.00] life, but they're just they're scary and they seem so real that sometimes I wake up and
+[728.00 - 730.00] I have to ask my mom, like, did we go here?
+[730.00 - 731.00] Did we do this?
+[731.00 - 733.00] Did this really happen?
+[733.00 - 736.00] And it's usually, no, you dream that.
+[736.00 - 738.00] Sometimes I've gotten so scared.
+[738.00 - 741.00] I like talk in my sleep and wake myself up.
+[741.00 - 745.00] When was the last time that happened?
+[745.00 - 748.00] Probably like two nights ago.
+[748.00 - 751.00] Wow.
+[751.00 - 755.00] Tell me about the last time you felt really happy.
+[760.00 - 765.00] That is a hard question.
+[765.00 - 778.00] I think in November after I got out of the hospital, I finally had one good day and my
+[778.00 - 787.00] friend took me into downtown Chicago and we went to the Sears Tower and got to look over
+[787.00 - 792.00] those like big windows that you walk out on and see the city and that was really cool.
+[792.00 - 796.00] How would your best friend describe you?
+[796.00 - 807.00] Probably super outgoing, likes to be the center of attention, funny and a little bit crazy.
+[807.00 - 811.00] Is there anything you regret?
+[811.00 - 816.00] I try not to regret things in my life.
+[816.00 - 820.00] What advice would you give yourself 10 or 20 years ago?
+[820.00 - 838.00] I would say that living is worth it and just don't be afraid to ask for help when you need
+[838.00 - 839.00] it.
+[839.00 - 841.00] Don't wait until it gets really bad.
+[841.00 - 846.00] Tell me how you spend your ideal weekend.
+[847.00 - 856.00] I guess my ideal weekend would be sleeping in and then catching a movie with my friends,
+[856.00 - 866.00] maybe going home with them and bake some cookies, eat all the cookies, watch some TV, have a
+[866.00 - 872.00] sleepover and then like make pancakes in the morning and watch more movies.
+[872.00 - 873.00] We watch a lot of movies.
+[873.00 - 876.00] I would like to do my free time.
+[876.00 - 878.00] Go for a walk.
+[878.00 - 879.00] I don't know.
+[879.00 - 881.00] Go to the beach.
+[881.00 - 886.00] That is a hard question.
+[886.00 - 896.00] I mean, I think I've done a lot of great things in my life and I've achieved a lot.
+[896.00 - 905.00] But I think one of the proudest things, proudest moments in my life is something really small
+[905.00 - 907.00] and insignificant.
+[907.00 - 915.00] I was doing this exercise boot camp and the last person to cross the finish line had to
+[915.00 - 922.00] do like 30 push-ups and it was some guy I didn't really know him at all.
+[922.00 - 925.00] The trainer said does anyone want to help him?
+[925.00 - 928.00] If someone helps him, you have to do half each.
+[928.00 - 933.00] No one wanted to help him and then I just decided to start doing push-ups with him.
+[933.00 - 940.00] It wasn't because I wanted to get credit or because I thought it would make me look good.
+[940.00 - 942.00] I just did it.
+[942.00 - 947.00] No one really knows about that, but I feel really good about that.
+[947.00 - 949.00] That's great.
+[949.00 - 952.00] Okay, I think I've asked everything I need to.
+[952.00 - 954.00] Thanks for sharing your thoughts with me.
+[954.00 - 955.00] Bye.
+[955.00 - 956.00] It was nice to meet you.
+[956.00 - 957.00] Bye.
+[957.00 - 963.00] I guess I press this button.
+[963.00 - 964.00] Okay.
+[964.00 - 973.00] Take a little nap and have a good morning.
+[979.00 - 984.00] Too much sleep.

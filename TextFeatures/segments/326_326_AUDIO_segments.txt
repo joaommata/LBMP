@@ -1,0 +1,229 @@
+[0.00 - 7.00] Alright, looks good. If you could just move around a little bit, I'll show you the Xbox Kinect will pick up your body. There you are.
+[7.00 - 11.00] I'm going to do this to sync the camera system.
+[11.00 - 13.00] Perfect.
+[13.00 - 19.00] Okay, and now I'm going to go ahead and start up the virtual human. She's going to chat with you for a bit.
+[19.00 - 23.00] When she says you're done, I'm going to put the doorbell next to you so you can hit that again.
+[23.00 - 25.00] Alright.
+[25.00 - 26.00] Thank you.
+[26.00 - 30.00] You're staring down, huh? I noticed that in the video clip.
+[30.00 - 31.00] That you what?
+[31.00 - 33.00] It looked like we were staring down.
+[33.00 - 34.00] Oh, it'll be fine.
+[34.00 - 36.00] Yeah, yeah, yeah. It's cool. It's cool. I was just, yeah, okay.
+[36.00 - 38.00] Alright, I'm going to fix this. Just make sure it's...
+[38.00 - 40.00] Oh, it fell from your ear.
+[40.00 - 42.00] Oh, where's the ear part? Right here?
+[42.00 - 44.00] Yeah, it's in...
+[44.00 - 46.00] Okay.
+[46.00 - 48.00] Sure.
+[48.00 - 50.00] Okay.
+[50.00 - 51.00] Alright.
+[51.00 - 53.00] Let me check the mic.
+[53.00 - 55.00] Okay. I think that looks alright.
+[55.00 - 57.00] Alright.
+[82.00 - 84.00] Yes.
+[86.00 - 88.00] I'm fine.
+[92.00 - 94.00] Um, Ohio.
+[98.00 - 100.00] Hmm. Huh.
+[100.00 - 102.00] Bigger city. More opportunity.
+[106.00 - 108.00] Um, bigger city.
+[108.00 - 110.00] Big city.
+[111.00 - 113.00] How often do you go back to your hometown?
+[113.00 - 115.00] Not often.
+[115.00 - 117.00] Why?
+[117.00 - 122.00] Um, I don't know. There's phones. I can call.
+[124.00 - 126.00] I understand.
+[128.00 - 130.00] What are some things you really like about LA?
+[132.00 - 137.00] Um, let's see. The water. The ocean.
+[138.00 - 142.00] Um, the big city. There's a lot to do.
+[142.00 - 144.00] A lot of people.
+[144.00 - 149.00] Um, the mountainous. Skiing. All kinds of stuff.
+[150.00 - 153.00] What are some things you don't really like about LA?
+[153.00 - 155.00] Traffic.
+[157.00 - 161.00] Okay. How close are you to your family?
+[161.00 - 163.00] Close.
+[163.00 - 168.00] You can do this on your own, right?
+[168.00 - 170.00] No.
+[170.00 - 172.00] Why?
+[172.00 - 174.00] Because I like to talk.
+[174.00 - 177.00] What's your dream job?
+[180.00 - 183.00] Uh, maybe running a company.
+[185.00 - 187.00] What did you study at school?
+[187.00 - 189.00] Politics.
+[190.00 - 193.00] What made you decide to do that?
+[193.00 - 195.00] Parents.
+[196.00 - 198.00] That sucks.
+[198.00 - 200.00] I guess.
+[200.00 - 202.00] You're using your mouth.
+[202.00 - 204.00] Play my guitar.
+[204.00 - 206.00] Cool.
+[207.00 - 210.00] How are you at controlling your hunger?
+[210.00 - 213.00] Um, it depends.
+[214.00 - 217.00] I'd love to hear all about it.
+[217.00 - 220.00] No, you wouldn't, but sure. Okay.
+[222.00 - 225.00] When was the last time you argued with someone?
+[225.00 - 227.00] And what did you tell them?
+[230.00 - 234.00] Um, ex-girlfriend.
+[235.00 - 238.00] I don't remember.
+[238.00 - 240.00] How close are you to them?
+[240.00 - 243.00] We've been close for a lot of years.
+[243.00 - 246.00] How do you know them?
+[248.00 - 251.00] I just know them for a long time.
+[251.00 - 255.00] Okay. Is everything very well?
+[255.00 - 257.00] No.
+[257.00 - 261.00] What advice would you give yourself, Stan? I call yours now.
+[261.00 - 265.00] Be a little more patient with her.
+[266.00 - 270.00] Be a little more patient with her.
+[273.00 - 276.00] What do you think of the new kids?
+[276.00 - 277.00] Huh?
+[277.00 - 279.00] What do you think of the new kids?
+[279.00 - 282.00] Uh, they're okay.
+[282.00 - 284.00] Okay.
+[284.00 - 287.00] Have you ever said anything to them?
+[287.00 - 290.00] No, but I helped.
+[290.00 - 293.00] Tell me more about that.
+[293.00 - 299.00] I did stuff with the Marines, which was fun, and I lived out of the country.
+[299.00 - 302.00] What made you decide to do that?
+[302.00 - 306.00] Which one? Living out of the country or helping with the Marines?
+[306.00 - 307.00] Yes.
+[307.00 - 309.00] How about the first one? Living out of the country?
+[309.00 - 312.00] Because my parents lived out of the country.
+[312.00 - 315.00] So I lived with them, you know.
+[315.00 - 318.00] Oh.
+[318.00 - 320.00] Do you travel a lot?
+[320.00 - 323.00] Uh, used to.
+[323.00 - 326.00] What are you enjoying about traveling?
+[326.00 - 334.00] Um, the different sceneries, different period, different.
+[334.00 - 337.00] I'd love to hear about one of your trips.
+[337.00 - 340.00] Which one? Europe? France?
+[340.00 - 343.00] Yeah, it was cool.
+[343.00 - 349.00] It was great, learning different languages and seeing different cultures and different people.
+[349.00 - 355.00] It's enlightening, mind expansion, definitely.
+[355.00 - 358.00] That sounds like a great situation.
+[358.00 - 360.00] Hmm, to say the least.
+[360.00 - 362.00] What was your most memorable experience?
+[362.00 - 366.00] Berlin Wall.
+[366.00 - 373.00] How did you feel about Berlin Wall?
+[373.00 - 376.00] Uh, overwhelmed.
+[376.00 - 377.00] Why?
+[377.00 - 383.00] Because it was atrocities and stuff that went down during that war.
+[383.00 - 386.00] I think you know.
+[386.00 - 391.00] How easy is it for you to get into the next stage of your life?
+[391.00 - 394.00] Man, that's a good question.
+[394.00 - 399.00] Depends.
+[399.00 - 403.00] Can you tell me about that?
+[403.00 - 410.00] Well, depends on if I'm sleeping by myself or sleeping with somebody.
+[410.00 - 412.00] I understand.
+[412.00 - 416.00] What are you like when you're off the ground?
+[416.00 - 419.00] Hmm.
+[419.00 - 423.00] Agitated, I guess. I don't know.
+[423.00 - 425.00] Okay.
+[425.00 - 428.00] How have you been feeling lately?
+[428.00 - 430.00] Okay.
+[430.00 - 433.00] Do you have any studies you want to do?
+[433.00 - 436.00] No, not me.
+[436.00 - 438.00] My girlfriend may say so.
+[438.00 - 441.00] I don't know.
+[441.00 - 442.00] Can you give me an example of that?
+[442.00 - 447.00] I have no clue. She could tell you. I have no clue.
+[447.00 - 451.00] Okay.
+[451.00 - 453.00] Do you feel down?
+[453.00 - 456.00] No.
+[456.00 - 458.00] Have you ever been diagnosed with PTSD?
+[458.00 - 459.00] Nope.
+[459.00 - 460.00] Okay.
+[460.00 - 465.00] How are your best friends guiding you?
+[465.00 - 470.00] World win, I guess.
+[470.00 - 471.00] A doer.
+[471.00 - 475.00] What would you say are some of your best qualities?
+[475.00 - 480.00] Persistence.
+[480.00 - 483.00] What are your most proud of in your life?
+[484.00 - 487.00] Achievements and goals.
+[487.00 - 491.00] Accomplishments.
+[491.00 - 496.00] Can you give me an example of that?
+[496.00 - 500.00] I raced motocross and I was one of the first black professionals.
+[500.00 - 501.00] Wow.
+[501.00 - 504.00] Yeah, you ain't joking.
+[504.00 - 506.00] I'm sorry.
+[506.00 - 511.00] Yeah, pretty cool.
+[511.00 - 516.00] What are some things that usually make you feel good?
+[516.00 - 520.00] Guitar. Playing my guitar.
+[520.00 - 522.00] When was the last time you went to the gym?
+[522.00 - 525.00] Last night.
+[525.00 - 526.00] Cool.
+[526.00 - 527.00] Yeah.
+[527.00 - 530.00] Tell me about your life.
+[530.00 - 535.00] Playing.
+[535.00 - 538.00] Playing chords and playing the songs, playing songs.
+[538.00 - 541.00] Okay.
+[541.00 - 546.00] Tell me about something you've been doing that you really enjoy.
+[546.00 - 551.00] Playing with some other musicians at a rehearsal studio.
+[551.00 - 554.00] Awesome.
+[555.00 - 560.00] How do you know them?
+[560.00 - 563.00] Just acquaintances through other friends.
+[563.00 - 564.00] And I like to fly too.
+[564.00 - 567.00] I like flying planes.
+[567.00 - 572.00] What are some things that you've been doing now?
+[572.00 - 577.00] My girlfriend talking.
+[577.00 - 578.00] Talking.
+[579.00 - 582.00] My girlfriend talking.
+[582.00 - 584.00] My girlfriend sometimes.
+[584.00 - 587.00] That's about it.
+[587.00 - 588.00] I don't know.
+[588.00 - 594.00] She's cool, but she's a little arrogant.
+[594.00 - 597.00] Is it uncomfortable to talk about her?
+[597.00 - 600.00] No, not really.
+[600.00 - 605.00] Okay.
+[605.00 - 610.00] There's some of us that have had positive influence in our lives.
+[610.00 - 611.00] Hm?
+[611.00 - 614.00] There's some of us that have had positive influence in our lives.
+[614.00 - 617.00] My mom, my dad.
+[617.00 - 621.00] Tell me about that.
+[621.00 - 624.00] They're strong people.
+[624.00 - 629.00] Okay.
+[629.00 - 634.00] When was the last time you felt really happy?
+[634.00 - 639.00] I don't know.
+[639.00 - 646.00] Maybe when I was flying last, flying in a private plane, I guess.
+[646.00 - 651.00] You know, there's no reason to get super, super, super happy.
+[651.00 - 654.00] And I guess if you're married, hopefully that'll make you super happy.
+[654.00 - 657.00] But no, I'm pretty even-minded.
+[657.00 - 658.00] I'm pretty happy.
+[658.00 - 660.00] But no, I'm pretty even-kill.
+[660.00 - 661.00] You know what I'm saying?
+[661.00 - 663.00] I stay pretty level.
+[663.00 - 665.00] Okay.
+[665.00 - 666.00] I understand.
+[666.00 - 667.00] Okay.
+[667.00 - 669.00] I think I've got a lot of things to say.
+[669.00 - 670.00] Oh, great.
+[670.00 - 672.00] Well, it's nice talking to you.
+[672.00 - 673.00] Thank you.
+[673.00 - 674.00] Yeah, you're welcome.
+[674.00 - 675.00] Goodbye.
+[675.00 - 676.00] Goodbye.
+[687.00 - 688.00] That was fun.
+[688.00 - 689.00] Yeah, it was bizarre.
+[689.00 - 690.00] I'm going to go ahead and shut off the recording.
+[690.00 - 691.00] You can take the mic off.
+[691.00 - 692.00] Yeah.
+[692.00 - 693.00] Okay.
+[693.00 - 694.00] I'm going to go ahead and turn it off.
+[694.00 - 695.00] Okay.
+[695.00 - 696.00] I'm going to go ahead and turn it off.
+[696.00 - 697.00] Okay.
+[697.00 - 698.00] I'm going to go ahead and turn it off.
+[698.00 - 699.00] Okay.
+[699.00 - 700.00] I'm going to go ahead and turn it off.
+[700.00 - 701.00] Okay.
+[701.00 - 702.00] I'm going to go ahead and turn it off.
+[702.00 - 703.00] Okay.
+[703.00 - 704.00] I'm going to go ahead and turn it off.
+[704.00 - 705.00] Okay.
+[705.00 - 706.00] I'm going to go ahead and turn it off.
+[706.00 - 707.00] Okay.
+[707.00 - 708.00] I'm going to go ahead and turn it off.
+[708.00 - 709.00] Okay.
+[709.00 - 710.00] I'm going to go ahead and turn it off.
+[710.00 - 711.00] Okay.
+[711.00 - 712.00] I'm going to go ahead and turn it off.
+[712.00 - 713.00] Okay.

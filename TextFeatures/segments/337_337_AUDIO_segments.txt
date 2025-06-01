@@ -1,0 +1,384 @@
+[0.00 - 12.00] So, now I'm going to start up the virtual human.
+[12.00 - 14.00] She's going to chat with you for a bit.
+[14.00 - 16.00] And then when she's done, she'll let you know.
+[16.00 - 18.00] And I'll give you the number bell to let me know.
+[18.00 - 20.00] Okay.
+[20.00 - 22.00] Sorry.
+[22.00 - 26.00] Okay.
+[26.00 - 28.00] Okay.
+[28.00 - 30.00] Okay.
+[30.00 - 32.00] Hi.
+[32.00 - 34.00] I'm Ellie.
+[34.00 - 36.00] Thanks for coming in today.
+[36.00 - 40.00] I was created to talk to people in a safe and secure environment.
+[40.00 - 44.00] I'm not a therapist, but I'm here to learn about people and I'd love to learn about you.
+[44.00 - 46.00] I'll ask a few questions to get us started.
+[46.00 - 48.00] And please feel free to tell me anything.
+[48.00 - 50.00] Your answers are welcome.
+[50.00 - 52.00] Are you okay with this?
+[52.00 - 54.00] Yeah.
+[54.00 - 56.00] Okay.
+[56.00 - 58.00] So, how are you doing today?
+[58.00 - 60.00] I'm doing okay.
+[60.00 - 62.00] How are you doing?
+[62.00 - 64.00] That's good. I'm great. Thanks.
+[64.00 - 66.00] Where are you from originally?
+[66.00 - 70.00] I'm originally from a suburb of LA, from the San Gabriel Valley.
+[70.00 - 72.00] Really?
+[72.00 - 74.00] What are some things you really like about LA?
+[74.00 - 76.00] I like the diversity of the city.
+[76.00 - 80.00] I've lived other places and it's just not as happy here.
+[80.00 - 82.00] I feel like I can really thrive here.
+[82.00 - 84.00] So I just like LA.
+[84.00 - 88.00] Like all the things that are so close together.
+[88.00 - 92.00] And there's a lot of interesting things that are totally different parts of the city,
+[92.00 - 94.00] just miles away from each other.
+[94.00 - 96.00] Yeah.
+[96.00 - 98.00] I see.
+[98.00 - 100.00] What are some things you don't really like about LA?
+[100.00 - 102.00] I don't know.
+[102.00 - 106.00] What are some things you don't really like about LA?
+[106.00 - 110.00] I don't like the traffic.
+[110.00 - 112.00] I don't like all the cars.
+[112.00 - 114.00] But I can live with it.
+[114.00 - 118.00] There's not that much I don't like.
+[118.00 - 120.00] Okay.
+[120.00 - 122.00] What did you study at school?
+[122.00 - 126.00] I studied music, vocal performance,
+[126.00 - 130.00] I studied music technology, things like that.
+[130.00 - 132.00] Awesome.
+[132.00 - 134.00] Are you still working on that?
+[134.00 - 136.00] Yes.
+[136.00 - 138.00] What do you do now?
+[138.00 - 140.00] Right now I sing at an opera company.
+[140.00 - 146.00] But I do have a day job because it doesn't pay that much unless you're actually working for the LA Opera.
+[146.00 - 148.00] So I do have a day job.
+[148.00 - 150.00] I work at a call center.
+[150.00 - 154.00] They cater mostly to performers and actors and things like that.
+[154.00 - 160.00] It's really good because if I get a call, I can call in and change my shift very easily.
+[160.00 - 162.00] So it's actually a pretty good gig.
+[162.00 - 166.00] I do some technology gigs sometimes.
+[166.00 - 170.00] I do some recording, some live sound stuff.
+[170.00 - 172.00] But I kind of want to get away from that.
+[172.00 - 174.00] I do some video work sometimes.
+[174.00 - 176.00] But again, I want to get away from that.
+[176.00 - 178.00] I want to go back to the...
+[178.00 - 180.00] Because I find that performing is more interesting.
+[180.00 - 182.00] I like being talent more than I like being crew.
+[182.00 - 190.00] So I kind of want to get away from that side and start working more toward actually doing what I want to do with my life.
+[190.00 - 192.00] Okay.
+[194.00 - 196.00] Do you consider yourself an introvert?
+[196.00 - 198.00] Sometimes.
+[198.00 - 200.00] I mean, for my personal life, yeah.
+[200.00 - 204.00] I do have a shell that I put out there to deal with people.
+[204.00 - 210.00] But if I'm at home, I'd kind of rather just keep to myself or my husband or my cats or whatever.
+[210.00 - 214.00] I don't have too many close friends.
+[214.00 - 220.00] But yeah, you know, I'd rather keep to myself.
+[220.00 - 224.00] How close are you to your family?
+[224.00 - 228.00] I'm moderately close to the family that I have left.
+[228.00 - 232.00] I've actually lost a lot of family in the last 10 years or so.
+[232.00 - 234.00] Thank you.
+[234.00 - 238.00] But I'm close to my husband.
+[238.00 - 244.00] You know, I've got a couple of cousins I talk to and my aunt that I have an aunt that I talk to a bit.
+[244.00 - 250.00] But it's not like we're interacting every day close together.
+[250.00 - 254.00] But it's somewhat close.
+[254.00 - 256.00] Okay.
+[256.00 - 258.00] What do you do to relax?
+[258.00 - 266.00] Mostly I sing or I read or I write or just hang out and try to...
+[266.00 - 270.00] I hang out and try to clear my mind of all thoughts.
+[270.00 - 278.00] Sometimes it doesn't work, but I try to do that and try to just clear everything and see what starts coming back in.
+[278.00 - 282.00] And sometimes that works, sometimes it doesn't.
+[282.00 - 292.00] But mostly creating things, contacting my family, you know, through Facebook or whatever works.
+[292.00 - 298.00] But mostly in my free time I create things.
+[298.00 - 300.00] Okay.
+[300.00 - 302.00] Do you travel a lot?
+[302.00 - 306.00] I'd like to travel more. I like to travel by car a lot.
+[306.00 - 314.00] I mean, my idea of having a birthday celebration would be to go on a road trip.
+[314.00 - 316.00] And I'd like to travel more.
+[316.00 - 324.00] I would love to travel for work things or whatever, but I don't get as much of an opportunity as I would like to to travel.
+[324.00 - 326.00] What do you enjoy about traveling?
+[326.00 - 336.00] Particularly traveling by car, seeing the landscape change, seeing people change, feeling the vibrations of the area change.
+[336.00 - 340.00] I like just seeing what's out there.
+[340.00 - 346.00] And I know that there's a bigger world outside of where I am and where I live and my world.
+[346.00 - 348.00] I like to see that.
+[348.00 - 352.00] But I like to leave that too and go back to my own world.
+[352.00 - 356.00] I'd love to hear about one of your trips.
+[356.00 - 360.00] Um, let's see.
+[360.00 - 370.00] I think a trip that I like to take is to make the drive from here to Nevada, whether I go all the way to Vegas or just go to State Line.
+[370.00 - 382.00] My cousin and I would take what we call exit one trips because once you get to the first exit of a highway, you're either in another state or you're at the end of the highway.
+[382.00 - 388.00] So we would take those. We just sort of impromptu with a day or two notice, just move things around, just take off.
+[388.00 - 392.00] So those are actually trips that I like to make because I take off and then just come back.
+[392.00 - 395.00] Sometimes the same day, sometimes overnight.
+[395.00 - 407.00] Just small, short trips that aren't very involved, but you just get to go and you see things and see how, um, you know, the desert landscape looks in different seasons,
+[407.00 - 412.00] how people react in different times of the year in different areas.
+[412.00 - 419.00] So close to home, but not, but not close to home, close to home, but still a world away.
+[419.00 - 428.00] So that because I don't really have time to take like a two week vacation or whatever, but it's just little things that kind of put things back in perspective and clear my head and things like that.
+[428.00 - 435.00] I mean, because there's sort of a sense of meditation and Zen that you get on a highway that you don't get driving a freeway.
+[435.00 - 438.00] So I like doing that.
+[443.00 - 448.00] The last time that happened was May of last year.
+[448.00 - 450.00] So last time I was able to do that.
+[450.00 - 455.00] We actually, my aunt came over with my cousin who's 10 years younger than I am.
+[455.00 - 457.00] And we kind of grew up like sisters.
+[457.00 - 463.00] And I was about to move away from the Inland Empire, which is where they live.
+[463.00 - 465.00] So they kind of took me on a last hurrah.
+[465.00 - 472.00] We drove up to Vegas and looked around and came back because I actually lived in Vegas for a while, but I didn't like it.
+[472.00 - 484.00] So they kind of, I showed them some of the local sites around there and we came back and was, you know, an overnight trip, but we're driving the entire time.
+[487.00 - 489.00] That's kind of interesting.
+[489.00 - 499.00] Things that are just inherently unfair when people are mean to the elderly or to children or to animals or people who can't fight back.
+[499.00 - 502.00] They're mean to them just because they can't fight back.
+[502.00 - 519.00] And I actually like to see people who are as strong as the people who are being mean standing up and being an advocate or what have you.
+[519.00 - 522.00] So I think that's one thing that makes me really mad.
+[522.00 - 525.00] Just being cruel or mean for no reason.
+[525.00 - 530.00] You know, not for people who can't fight back or for people who've done nothing to deserve it.
+[531.00 - 533.00] That kind of really just makes me mad.
+[538.00 - 542.00] When I'm annoyed, I'll try to just walk away from the situation.
+[542.00 - 559.00] And if the situation is just unfollowing me, then I'll wind up lashing out somehow, either verbally just cutting them with a quip or, you know, I rarely will yell at somebody.
+[560.00 - 570.00] But I'll try to, you know, if I try to walk away and defuse it, if that doesn't work, then I'll let them know that they're annoying me and get away from me.
+[570.00 - 572.00] That usually works.
+[572.00 - 580.00] Not like legal trouble or anything, because usually I'll find a way to get them to leave me alone.
+[580.00 - 594.00] There's not really like big trouble, but I think because it is off-putting and it's not the expected reaction.
+[594.00 - 601.00] And that's actually kind of cultivated in me that it's not the expected reaction because I know that will work and get people away from me.
+[601.00 - 603.00] So it's not really in trouble.
+[603.00 - 615.00] And if it is trouble, it's usually trouble that it's from the other person's perspective and it doesn't affect me at all because due to the situation I can get out of.
+[615.00 - 620.00] So as long as they leave me alone, you know, I'll walk away from it.
+[620.00 - 626.00] Okay. When was the last time you argued with someone and what was it about?
+[626.00 - 637.00] The last time I argued with somebody, like a family member or an outsider or somebody not in my...
+[637.00 - 639.00] What was that in your mind?
+[639.00 - 650.00] The last thing I could think of was I argued with my husband about the care of my mother-in-law because she's got dementia.
+[650.00 - 658.00] And so one of the reasons we came out here from the Inland Empire was to take care of her because she won't go anywhere but LA.
+[658.00 - 661.00] I mean, she's like hardcore Angelino.
+[661.00 - 667.00] We know we are that, we're that in our nature, but we also know it's cheaper to live elsewhere.
+[667.00 - 675.00] But so we came out here to take care of her and he wants her to be able to stay in her apartment.
+[675.00 - 682.00] And I want her to move in with us because it would be cheaper and faster and easier and safer for her if she lived with us.
+[682.00 - 689.00] But she wants to stay where she is because she can't see that there's inherent danger now because of the disease process.
+[690.00 - 693.00] But he wants her to stay where she...
+[693.00 - 698.00] He wants her to be able to have what she wants because he's a mama's boy like I am.
+[698.00 - 699.00] I'm a mama's girl.
+[699.00 - 702.00] Even though I lost my mom like four years ago, I'm still a mama's girl.
+[702.00 - 713.00] And I know that it brings you a sense of satisfaction to carry out their wishes because you care about them so much.
+[713.00 - 714.00] That's what they want.
+[714.00 - 715.00] So you want to get it for them.
+[715.00 - 723.00] And because they, you know, that happened when you were growing up when they tried to give you what you want because you wanted it.
+[723.00 - 729.00] And you want to do that for them now, like sort of giving back to them somebody that you care about, somebody you feel deserves it.
+[729.00 - 734.00] But it's kind of dangerous for her, you know, and I don't want this thing to happen to her.
+[734.00 - 738.00] Yet I want her to remain who she is for as long as she can.
+[738.00 - 743.00] Because I know the disease that she has is going to erase who she is eventually.
+[743.00 - 751.00] And eventually she will have to be put in a place where they can give her 24 hour medically trained care.
+[751.00 - 755.00] But until then, we can handle it amongst ourselves.
+[755.00 - 757.00] It's not that bad.
+[757.00 - 758.00] But it's getting worse.
+[758.00 - 761.00] She really has no business living by herself anymore.
+[761.00 - 764.00] So the solution right now is he stays there most of the time with her.
+[764.00 - 766.00] And I go back to our house.
+[766.00 - 772.00] And it gets stressful and it gets annoying because I do I handle the outside things.
+[772.00 - 774.00] I run the errands. I take her to the store, things like that.
+[774.00 - 782.00] He does the day to day things, make sure she has she eats, make sure she, you know, has clean clothes, things like that.
+[782.00 - 784.00] So, I mean, it's a partnership.
+[784.00 - 787.00] It's a it's a dual effort.
+[787.00 - 789.00] It's very much a dual effort.
+[789.00 - 792.00] But I would like her to move in with us.
+[792.00 - 809.00] So that was that's like a source of it's not really like yelling, screaming argument, but lively discussion, you know, and debate.
+[809.00 - 810.00] It's not insurmountable.
+[810.00 - 813.00] I mean, life's not going to be easy ever.
+[813.00 - 818.00] And if it is, it's when you should worry because that's when somebody can pull the rug out from under you.
+[818.00 - 822.00] So as long as you're on top of things and you're present in your life, it's not going to be easy.
+[822.00 - 831.00] But you deal with it and you move on.
+[831.00 - 838.00] The most positive influence, I think, have been probably my mother and my grandmother, because my mom was pretty much a single mom.
+[838.00 - 839.00] And my grandmother helped raise me.
+[839.00 - 849.00] And they actually gave me a lot of confidence and but were realistic about it.
+[849.00 - 857.00] So, I mean, I think I have sort of a realistic sort of a downer temperament to myself.
+[857.00 - 865.00] But they helped me see that it's just in me and it's not something I can't get over and that, you know, life's going to go on.
+[865.00 - 871.00] You know, my mom would say to me, when you're 40, you're 40, whether you're working at McDonald's or doing what you want with your life.
+[871.00 - 877.00] I think that was a big influence on how I've lived my life since she's passed.
+[877.00 - 892.00] I regret not taking care of myself in the last year of my mother's life because I think it may have clouded some of my decisions.
+[892.00 - 895.00] Now, I do have underlying conditions.
+[895.00 - 903.00] Everybody in my family is diabetic, and I didn't take care of that when she was the last year for life because I was too busy wanting to get her home.
+[903.00 - 905.00] My focus was to get her home.
+[905.00 - 907.00] So I didn't eat right.
+[907.00 - 909.00] I didn't take my insulin right.
+[909.00 - 916.00] I wanted to make myself insulin resistant that year just because my blood sugar was so high for like a year.
+[916.00 - 920.00] Eating just horrible foods when I did eat.
+[920.00 - 924.00] So it really took a toll and it really actually made myself very sick.
+[924.00 - 935.00] And I'm wondering, well, if I didn't, if I would have taken care of myself and I had my head on completely straight, my vision and my thoughts weren't completely weren't clouded.
+[935.00 - 940.00] Would I have made some better decisions on her behalf, especially when she needed them?
+[940.00 - 950.00] When she needed me to be to step in and make this his for because she wound up having a health catastrophe because she had kidney, she had kidney damage.
+[950.00 - 956.00] I want to be kidney failure and her health insurance provider missed that.
+[956.00 - 965.00] So she wanted having sort of this whole catastrophe where everything at once just started breaking down.
+[965.00 - 968.00] She wanted having a stroke at like 50.
+[968.00 - 973.00] She had a small stroke and it just kind of went down from there.
+[973.00 - 979.00] So I'm thinking, well, if I didn't, if I had taken care of better care of myself, would I have been able to take better care of her?
+[979.00 - 984.00] And I know there wasn't anything I would have been able to do to prevent her death.
+[984.00 - 989.00] But what if I if I would I have been able to make it easier on her?
+[989.00 - 991.00] If I would have taken care of myself.
+[991.00 - 995.00] That's like one huge regret that I have.
+[995.00 - 998.00] Do you think that maybe you're being a little hard on yourself?
+[998.00 - 1000.00] Oh, I know I am.
+[1000.00 - 1010.00] But it's my desire to take responsibility for everyone and everything that I care about taking responsibility for my own life and me and mine.
+[1010.00 - 1021.00] And I know other people, I can't really direct them into my own vision because they're their own individual beings.
+[1021.00 - 1025.00] And they can't, you know, be what I want them to be.
+[1025.00 - 1027.00] And I know they're not going to be.
+[1027.00 - 1038.00] But I still have, you know, my ideals and I want the way I want everything to go and I want everybody that I care about to be happy and to be able to.
+[1041.00 - 1047.00] Fit into my life in a way in the best way possible.
+[1047.00 - 1050.00] But I know because they're other beings.
+[1050.00 - 1052.00] And I'm not going to be able to do that for them.
+[1052.00 - 1053.00] Then I can be able to do that for me.
+[1053.00 - 1055.00] But it's still by ideals.
+[1055.00 - 1059.00] So I have to sometimes have to look at and go, well, is this what I want?
+[1059.00 - 1065.00] Because I want it or what is what they want and what's there is their decision or mine and it's theirs.
+[1065.00 - 1066.00] I know it's there.
+[1066.00 - 1070.00] So if you really care about somebody, you're just going to support them and go with them.
+[1070.00 - 1076.00] But it's still kind of hard for me.
+[1076.00 - 1078.00] And I know I got to get over it.
+[1078.00 - 1083.00] What advice would you give yourself 10 or 20 years ago?
+[1083.00 - 1090.00] 10 or 20 years ago.
+[1095.00 - 1102.00] Probably to have been more assertive and starting my own life because I went up taking care of my mother.
+[1102.00 - 1111.00] I mean, she got sick literally the weekend I graduated from college and I had a job lined up and I had to pull out of that because she needed me to take care of her.
+[1111.00 - 1128.00] I think I would have been more aggressive about starting my own life, getting a job outside the house in addition to caring for her, getting my own job history, my own credit history, things like that built up instead of becoming just totally her daughter for about 10 years.
+[1129.00 - 1132.00] So I think I probably would have done that.
+[1132.00 - 1139.00] But to myself, just do that and keep who you are and learn to separate.
+[1139.00 - 1148.00] You who you are and what you feel you need to be doing for your family to keep a sense of yourself.
+[1148.00 - 1153.00] That's probably what I would have and do things for yourself to keep that sense of yourself.
+[1153.00 - 1158.00] That's probably the advice I would give myself 10 years ago.
+[1158.00 - 1162.00] Have you ever served in the military?
+[1162.00 - 1163.00] No.
+[1163.00 - 1165.00] Have you ever been diagnosed with PTSD?
+[1165.00 - 1166.00] No.
+[1166.00 - 1168.00] Have you been diagnosed with depression?
+[1168.00 - 1174.00] No, but probably because I haven't gone to a doctor about it because I don't want to know.
+[1174.00 - 1190.00] I mean, it's not, I know there have been times in my life where I've been severely depressed and it's usually circumstances and had to pull myself out of it, but I'd rather pull myself out of it before resorting to treatment.
+[1190.00 - 1193.00] Can you give me an example of that?
+[1193.00 - 1203.00] After my mother had died, it had been this long battle for a year that we lost.
+[1203.00 - 1208.00] I didn't know if I was to blame for that.
+[1208.00 - 1214.00] It's like logically I knew I wasn't, but how could I convince myself of that?
+[1214.00 - 1226.00] Two weeks after she died, I wound up with pulmonary embolisms in one in each lung because I didn't take care of myself for a year.
+[1226.00 - 1229.00] I feel, oh, I'm 30 years old.
+[1229.00 - 1233.00] If, you know, whatever I do to myself, I can get over.
+[1233.00 - 1236.00] No, turns out no.
+[1237.00 - 1243.00] But I wound up having to take more medication because of that.
+[1243.00 - 1252.00] It's been a fight to get my own health back to get to be able to get out of that depression because so much of my life was based on being my mother's daughter.
+[1252.00 - 1260.00] All of a sudden I didn't. It's like the rug was pulled out. My like bottom fell out of my world after that.
+[1260.00 - 1265.00] So that was the pretty pretty much sent me into a deep depression.
+[1265.00 - 1272.00] I'm I almost got divorced because of it because I just didn't want anything anymore.
+[1272.00 - 1276.00] So I was being really distant from my husband by then.
+[1276.00 - 1288.00] At that time, we were married for about two years at that point, and I started getting very distant from him, just pushing everything away, just, you know, figuring out what am I going to do with the rest of my life now?
+[1288.00 - 1292.00] And it's been a fight.
+[1292.00 - 1296.00] And there are times when, no, I couldn't get up.
+[1296.00 - 1299.00] Just stay in bed and sleep all day.
+[1299.00 - 1309.00] You know, but then you realize that when my mother died, I had forecast look after two are mine to rehearse.
+[1310.00 - 1320.00] I mean, well, they don't have a choice of whether they can go out and get their own food and get their own, you know, own supplies.
+[1320.00 - 1323.00] I took that responsibility of doing it for them.
+[1323.00 - 1331.00] So that was one motivating factor was that they didn't have a choice of whether or not I was going to get up and provide for them.
+[1331.00 - 1337.00] I mean, I could go without eating. I could go without taking care of myself, but they couldn't.
+[1337.00 - 1342.00] They didn't, you know, so they actually got me up and.
+[1344.00 - 1352.00] And made me go out and face things, even though I didn't want to, just didn't just kind of want to curl up and die.
+[1352.00 - 1354.00] But that would have been my choice, not theirs.
+[1354.00 - 1359.00] And they I mean, what would happen to them if I wasn't there to take care of them?
+[1359.00 - 1364.00] They would have been, you know, sent to a shelter or whatever, probably.
+[1364.00 - 1369.00] And maybe they would have not been re adopt me home and adopted by somebody else.
+[1369.00 - 1373.00] Maybe they would have been killed for for me.
+[1373.00 - 1377.00] I mean, for me making selfish decisions.
+[1377.00 - 1381.00] So it's like I need somebody to take care of to get myself out of bed.
+[1381.00 - 1390.00] And that's actually been a motivating factor is to take because I figured out that it was just me.
+[1390.00 - 1392.00] I'd be able to live without a lot of stuff.
+[1392.00 - 1394.00] I mean, I would be able to live in my car if I wanted.
+[1394.00 - 1399.00] It wouldn't be a big deal. I wouldn't care as long as I was doing what I wanted with my life.
+[1399.00 - 1403.00] But I have a family to look after now.
+[1403.00 - 1406.00] So I have to go out and do things.
+[1406.00 - 1411.00] You know, I have to go out and look for legitimate work, you know, day, day job.
+[1411.00 - 1416.00] I have to, you know, but I'm trying to strike a balance between the two because it's what I want to do with my life.
+[1416.00 - 1418.00] But yet I have to take care of my family.
+[1418.00 - 1422.00] Some work on a balance of the two.
+[1422.00 - 1428.00] Very. But it's worth it.
+[1428.00 - 1437.00] I mean, it would be very I'd have a lot less things to worry about if I just lived in my car and said, forget it.
+[1438.00 - 1448.00] But keeping a residence down, paying bills, things like that, it's difficult, but you have to do it.
+[1448.00 - 1454.00] You know, if you want you want any if you ever want anything in your life, you have to go through that.
+[1454.00 - 1459.00] And I know that. But it gets hard.
+[1459.00 - 1461.00] Sometimes you do want to give up.
+[1461.00 - 1466.00] But then it's like, well, what's the alternative?
+[1466.00 - 1472.00] I mean, I don't think I could live a comfortable life because if I did, I wouldn't do anything.
+[1472.00 - 1476.00] I have to be slightly uncomfortable or I'm not going to do anything with myself.
+[1476.00 - 1478.00] I'm just going to be content.
+[1478.00 - 1483.00] Just hang out all day, stay in bed, hang out with my cats or whatever.
+[1483.00 - 1486.00] And I wouldn't get anything done.
+[1486.00 - 1491.00] I see. How do you even feel?
+[1491.00 - 1494.00] Very anxious and nervous.
+[1494.00 - 1497.00] And I mean, what if.
+[1497.00 - 1505.00] I don't find enough, you know, enough work to be able to pay my rent or whatever.
+[1505.00 - 1511.00] What if? You know, what if I can't.
+[1511.00 - 1513.00] Keep.
+[1513.00 - 1518.00] Assemblance of stability in my life, and it's actually hard work to be stable.
+[1518.00 - 1525.00] And I know it's hard work to be stable, but what you know, it's just a lot of what ifs.
+[1525.00 - 1528.00] And I don't think it's things that haven't happened.
+[1528.00 - 1531.00] And it's stupid and pointless to worry about things that haven't happened.
+[1531.00 - 1535.00] And I know that, but it's still have it still creeps in.
+[1535.00 - 1540.00] So that's actually a source of.
+[1540.00 - 1543.00] Anxiety.
+[1543.00 - 1550.00] The internal anxiety go by getting things done, figuring things out, making a solid plan and going for it.
+[1550.00 - 1558.00] But I know it's a cycle and I'll go from being really anxious and oh, my God, what am I going to do?
+[1558.00 - 1559.00] What am I going to do?
+[1559.00 - 1562.00] Just saying, OK, what is.
+[1562.00 - 1565.00] The fundamental thing I need to take care of here.
+[1565.00 - 1575.00] I mean, what is just extraneous and what can what is what are the actual non issues and what is the actual issue?
+[1575.00 - 1576.00] And so.
+[1576.00 - 1578.00] Figure out how to figure things out that way.
+[1578.00 - 1585.00] And then the anxiety starts to go away a little bit, but then something will pop up and the what ifs will come up again.
+[1585.00 - 1586.00] I'll have to.
+[1589.00 - 1593.00] Figure it out again, but I know it's a cycle.
+[1593.00 - 1601.00] I know what seems huge on the surface when you start chipping away at it, you get over it pretty quickly.
+[1601.00 - 1602.00] You get through it.
+[1608.00 - 1610.00] The last time I felt really happy.
+[1610.00 - 1611.00] I don't know.
+[1621.00 - 1622.00] Like.
+[1625.00 - 1626.00] Huh.
+[1626.00 - 1627.00] Good question.
+[1627.00 - 1630.00] But that actually surprisingly stumped me.
+[1630.00 - 1636.00] Because I do feel happy sometimes, sometimes not so much.
+[1636.00 - 1639.00] Sometimes it's kind of in the middle.
+[1642.00 - 1645.00] Really like over joyously happy.
+[1645.00 - 1646.00] I don't know.
+[1648.00 - 1649.00] I have not.
+[1649.00 - 1652.00] I can't think of when that happened.
+[1663.00 - 1664.00] I don't know.
+[1664.00 - 1665.00] I don't know.
+[1665.00 - 1668.00] You don't know perceptions of other people.
+[1668.00 - 1669.00] I mean.
+[1671.00 - 1674.00] Probably as somebody who.
+[1676.00 - 1681.00] Oddly enough, somebody who is laid back and you know.
+[1682.00 - 1686.00] Handle things as they come, but I don't see myself as that at all.
+[1687.00 - 1688.00] And so it.
+[1688.00 - 1691.00] What would you say are some of your best qualities?
+[1692.00 - 1698.00] Probably that I can think on my feet and I'm not afraid to.
+[1699.00 - 1704.00] Hustle my butt off and do whatever I have to to survive and get things done.
+[1705.00 - 1706.00] That.
+[1707.00 - 1710.00] And I can do it creatively and I try to.
+[1710.00 - 1712.00] Strive for balance.
+[1712.00 - 1713.00] Probably.
+[1714.00 - 1716.00] Probably the best things about me.
+[1716.00 - 1717.00] That's great.
+[1719.00 - 1721.00] What are you most proud of in your life?
+[1722.00 - 1729.00] That I'm doing basically what I want with my life, which even though it's not all easy, it's not.
+[1731.00 - 1734.00] I'm not financially well off or anything.
+[1734.00 - 1743.00] It's still a lot more than a lot of people can say about their lives because I have an aunt that I really don't talk to who and the reason why I don't talk to her is because she's always miserable.
+[1743.00 - 1746.00] I mean, she's got a career that she.
+[1748.00 - 1750.00] It's more of a job that she fell into.
+[1751.00 - 1759.00] Because my older aunt loves animals, but didn't want to be a veterinarian, so she became a dog groomer and she was actually really good at it.
+[1759.00 - 1762.00] She had a stable business for a long time.
+[1763.00 - 1771.00] But her, you know, she started getting arthritis in her hands and she had actually my cousin's father.
+[1771.00 - 1778.00] Actually, my cousin's father went and kind of stole all the money from her business, so she lost her business.
+[1778.00 - 1784.00] And she kind of she retired early because between that and the arthritis, she wanted retiring early.
+[1784.00 - 1789.00] She employed my younger aunt, who is still a dog groomer, but she hates it.
+[1789.00 - 1791.00] And it's like change your life.
+[1791.00 - 1793.00] If you hate your life so much, change it.
+[1794.00 - 1797.00] And I think the thing I'm most proud of is.
+[1798.00 - 1802.00] Yeah, I'm not as financially well off as she is, but I'm doing what I want with my life.
+[1802.00 - 1804.00] You know, I can be creative.
+[1804.00 - 1809.00] I can have creative people around me, people who I actually like to talk to around me.
+[1810.00 - 1814.00] People I actually like in my life and be happy with that.
+[1814.00 - 1817.00] And I see a lot of people who aren't.
+[1817.00 - 1824.00] And it gives me a sense of maybe a bloated sense of self satisfaction to be able to say I'm not like that.
+[1824.00 - 1829.00] That I'm actually doing what I want, even though there are sacrifices.
+[1829.00 - 1832.00] I'm still fundamentally doing what I want with my life now.
+[1837.00 - 1838.00] Thank you.
+[1843.00 - 1844.00] Thank you.
+[1844.00 - 1845.00] Goodbye.
+[1854.00 - 1855.00] Thank you.

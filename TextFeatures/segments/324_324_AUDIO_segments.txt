@@ -1,0 +1,215 @@
+[0.00 - 3.00] Okay, great. Everything looks good.
+[3.00 - 6.00] I'm going to do something that syncs our system.
+[14.00 - 16.00] It doesn't look like it's working.
+[16.00 - 18.00] What is it supposed to do?
+[18.00 - 20.00] I'll try it again later. It's alright. Never mind.
+[20.00 - 23.00] Okay. So now I'm going to start up the virtual human.
+[23.00 - 26.00] She's going to chat with you for a bit and ask you some questions.
+[26.00 - 28.00] And then when she's done, she'll let you know.
+[28.00 - 30.00] I'm going to put the doorbell right next to you.
+[30.00 - 32.00] So you can ring the door once you're done.
+[43.00 - 44.00] Do I see her?
+[44.00 - 45.00] Yeah, you'll see her.
+[45.00 - 46.00] There she is.
+[46.00 - 47.00] Wow.
+[47.00 - 49.00] Here's your doorbell.
+[49.00 - 50.00] Thank you.
+[50.00 - 51.00] Okay. Thank you.
+[55.00 - 56.00] Hi. I'm Ellie.
+[56.00 - 58.00] Thanks for coming in today.
+[58.00 - 62.00] I was created to talk to people in a safe and secure environment.
+[62.00 - 67.00] I'm not a therapist, but I'm here to learn about people and to welcome them on you.
+[67.00 - 69.00] I'll ask you a few questions to get started.
+[69.00 - 72.00] And please feel free to tell me everything.
+[72.00 - 74.00] Your answers are fully welcome.
+[74.00 - 76.00] Are you okay with this?
+[76.00 - 78.00] Yeah. Yes.
+[78.00 - 81.00] So, how are you feeling today?
+[81.00 - 83.00] Fine. How are you?
+[83.00 - 85.00] I'm great. Thanks.
+[85.00 - 87.00] Where are you from originally?
+[87.00 - 90.00] Born and raised right here on the west side.
+[90.00 - 91.00] Really?
+[91.00 - 92.00] Venice Beach.
+[92.00 - 94.00] Awesome.
+[94.00 - 97.00] What's the things you like about LA?
+[97.00 - 99.00] Everything.
+[99.00 - 101.00] The beach, the weather.
+[101.00 - 102.00] What about?
+[102.00 - 104.00] The beach, the weather.
+[104.00 - 106.00] Everything.
+[106.00 - 107.00] Okay.
+[107.00 - 108.00] The girls.
+[108.00 - 111.00] What are the things you don't really like about LA?
+[111.00 - 113.00] Nothing.
+[115.00 - 116.00] Okay.
+[116.00 - 119.00] Traffic maybe.
+[119.00 - 122.00] I can't even remember.
+[122.00 - 125.00] Who's someone that's been a positive employee?
+[125.00 - 129.00] My family.
+[129.00 - 133.00] I'd love to hear all about it.
+[133.00 - 135.00] My mother.
+[135.00 - 139.00] She's a very good-hearted person.
+[139.00 - 142.00] Gives me good advice.
+[142.00 - 144.00] That's good.
+[144.00 - 147.00] What are some things you like to do for fun?
+[147.00 - 148.00] Oh, pretty close.
+[148.00 - 149.00] Yeah.
+[149.00 - 150.00] Family comes first.
+[150.00 - 152.00] Family's number one.
+[152.00 - 153.00] Yeah.
+[153.00 - 157.00] What are some things you like to do for fun?
+[157.00 - 158.00] Go to the gym.
+[158.00 - 159.00] You know, exercise.
+[159.00 - 162.00] Go to the beach.
+[162.00 - 163.00] Party every once in a while.
+[163.00 - 166.00] Watch basketball, football.
+[166.00 - 167.00] Okay.
+[167.00 - 168.00] Take trips.
+[168.00 - 171.00] Go to Vegas.
+[171.00 - 174.00] What's the last time you had that?
+[174.00 - 175.00] Which one?
+[175.00 - 176.00] Went to the gym last night.
+[176.00 - 181.00] I have friends that live in Vegas, so I go there often.
+[181.00 - 184.00] Enjoying the travel?
+[184.00 - 186.00] I just take a trip, get out.
+[186.00 - 189.00] Get away from the city for a minute.
+[189.00 - 191.00] But I'm a city boy, so it can't be way too long.
+[191.00 - 194.00] You know, head up the city.
+[194.00 - 198.00] What do you do to relax?
+[198.00 - 203.00] I don't go to the beach.
+[203.00 - 208.00] How are you at controlling your temper?
+[208.00 - 211.00] Oh, that's been a problem over the years.
+[211.00 - 214.00] What's the only thing you worry about?
+[214.00 - 215.00] I don't know.
+[215.00 - 218.00] I just have a little anger, I guess.
+[218.00 - 221.00] Anger management problem.
+[221.00 - 225.00] When was the last time you had a problem with someone?
+[225.00 - 230.00] Probably only yesterday.
+[230.00 - 235.00] I forget what it was about.
+[235.00 - 238.00] What do you do when you're in life?
+[238.00 - 243.00] I go to the gym.
+[243.00 - 250.00] What are some things that will be really annoying?
+[250.00 - 253.00] People.
+[253.00 - 256.00] Tell me more about that.
+[256.00 - 260.00] I don't know, just people.
+[260.00 - 263.00] Just the way they are, I guess.
+[263.00 - 267.00] They get on my nerves sometimes.
+[267.00 - 269.00] Okay.
+[269.00 - 271.00] What's your dream job?
+[271.00 - 273.00] Dream job?
+[273.00 - 275.00] Well, I was working at LAX.
+[275.00 - 277.00] I built this city right here, Plan Vista, where we're at.
+[277.00 - 282.00] I pretty much built all of it that's been built so far, the past 10 years.
+[282.00 - 285.00] Then I always wanted to work at the airport, LAX.
+[285.00 - 289.00] I finally accomplished that goal after getting my GED two years ago.
+[289.00 - 292.00] I'm at LAX.
+[292.00 - 295.00] Yeah, so I'm working at LAX right now.
+[295.00 - 297.00] LA Airport.
+[297.00 - 298.00] Nice.
+[298.00 - 302.00] What's one thing that most number of people experience?
+[302.00 - 307.00] What, working at the airport?
+[307.00 - 310.00] I guess during the holidays there was some girl that worked there.
+[310.00 - 313.00] I had a crush on her, but she turned out to be a lesbian.
+[313.00 - 315.00] She's beautiful.
+[315.00 - 321.00] Yeah.
+[321.00 - 323.00] Have you ever served in the military?
+[323.00 - 324.00] No.
+[324.00 - 327.00] Have you ever been diagnosed with a disease?
+[327.00 - 328.00] No.
+[328.00 - 331.00] Have you been diagnosed with a disease?
+[331.00 - 337.00] I think when I was a youngster, like a teenager.
+[337.00 - 339.00] 14, 15.
+[339.00 - 341.00] No.
+[341.00 - 343.00] Why did you stop?
+[343.00 - 347.00] I just stopped.
+[347.00 - 353.00] I went to a rehab or a placement when I was 15, 16, after I did a little bit of time.
+[353.00 - 357.00] Then I AWOLed from there, I escaped, and then I went back to jail.
+[357.00 - 359.00] So that's when it stopped.
+[359.00 - 361.00] I'm sorry you're late.
+[361.00 - 363.00] No problem. It's not your fault.
+[363.00 - 366.00] Do you think it's their disease?
+[366.00 - 368.00] Excuse me?
+[368.00 - 370.00] Did your parents just help you?
+[370.00 - 376.00] It wasn't when I was a teenager.
+[376.00 - 378.00] Tell me more about that.
+[378.00 - 381.00] What, when I was a teenager?
+[381.00 - 386.00] When I was a teenager, I was very restless.
+[386.00 - 390.00] I was very destructive, you know?
+[390.00 - 395.00] How have you been doing lately?
+[395.00 - 405.00] I'm not going forward as fast as I want to.
+[405.00 - 407.00] That sounds really hard.
+[407.00 - 411.00] Yeah, it's kind of hard, but it is what it is.
+[411.00 - 415.00] Have you done anything to avoid it?
+[415.00 - 421.00] To avoid what? Going forward?
+[421.00 - 427.00] I guess I could try to move faster, but I've accomplished my goals in life so far.
+[427.00 - 437.00] I just want to accomplish more, but it's taking longer than I thought it would.
+[437.00 - 443.00] Excuse me?
+[443.00 - 445.00] Yeah, I guess.
+[445.00 - 450.00] Are there?
+[450.00 - 454.00] Yeah, it's like mood swings, I guess.
+[454.00 - 456.00] Mood swings?
+[456.00 - 460.00] Are you triggered by something?
+[460.00 - 465.00] It could be just something small and I'll just snap, you know?
+[465.00 - 467.00] When was the last time you had a mood swing?
+[467.00 - 471.00] Oh, all the time. Yesterday. Maybe today.
+[471.00 - 473.00] Really?
+[473.00 - 476.00] How did you fool around with me?
+[476.00 - 480.00] Angry.
+[480.00 - 485.00] How hard is it?
+[485.00 - 488.00] Yeah, I guess it's kind of hard to control anger, you know?
+[488.00 - 496.00] When you're going through a few things in your life that aren't very pleasant, you know?
+[496.00 - 498.00] Do you think you're going to be able to control it?
+[498.00 - 500.00] No.
+[500.00 - 505.00] Okay. How are your best friends?
+[505.00 - 510.00] My best friends?
+[510.00 - 514.00] My best friends? Excuse me?
+[514.00 - 517.00] They describe me just, I guess, as a character.
+[517.00 - 521.00] Just very outgoing, you know, good sense of humor.
+[521.00 - 524.00] But, you know, we all have our issues, you know?
+[524.00 - 530.00] They understand when I am going through something or I get mad about something easily
+[530.00 - 535.00] or I could just laugh too right after that, you know?
+[535.00 - 539.00] Very outgoing, smart, intelligent, strong.
+[539.00 - 543.00] Okay. What are you most proud of in your life?
+[543.00 - 548.00] The goals that I've accomplished the past few years especially.
+[548.00 - 550.00] Can you give me an example of that?
+[550.00 - 557.00] Oh, just the jobs.
+[557.00 - 562.00] Getting the GED, getting the job at LAX I always wanted.
+[562.00 - 564.00] That's great.
+[564.00 - 566.00] Thank you.
+[566.00 - 568.00] Is that even your address?
+[568.00 - 572.00] Yeah. Yes.
+[572.00 - 574.00] Can you give me an example of that?
+[574.00 - 578.00] Oh, just decisions I made, I guess, when I was younger in life.
+[578.00 - 585.00] Even up to the past few years, but nothing major in the past few years.
+[585.00 - 590.00] It's pretty much the decisions I made when I was young, you know, younger in life.
+[590.00 - 596.00] Okay. What advice would you give yourself 10 or 20 years ago?
+[596.00 - 604.00] Well, to stay in school and, I don't know, to not join a gang.
+[604.00 - 612.00] Just to stay in school pretty much and to control the anger issues I had back then.
+[612.00 - 615.00] What made you decide to do that?
+[615.00 - 619.00] To do what?
+[619.00 - 621.00] To do what?
+[621.00 - 625.00] Let's come back to that earlier.
+[625.00 - 628.00] When was the last time you were in the house?
+[628.00 - 631.00] I don't know. Today.
+[631.00 - 634.00] Happy to be here.
+[634.00 - 637.00] That's great.
+[637.00 - 641.00] What are some things that you really put into your life?
+[641.00 - 648.00] Um, going, exercising, going to the gym and working out.
+[648.00 - 655.00] Going to the beach, hanging out with family members of mine, you know.
+[655.00 - 656.00] Nice.
+[656.00 - 658.00] Friends, yeah.
+[658.00 - 662.00] What would you say is something you've best followed in?
+[662.00 - 668.00] My best qualities? Just that, uh, qualities. Just that I'm a neat person.
+[668.00 - 671.00] I'm outgoing, you know, I don't know. Qualities.
+[671.00 - 676.00] Qualities meaning what?
+[676.00 - 678.00] Whatever comes to your mind.
+[678.00 - 682.00] What do you mean by qualities? What comes to your mind?
+[682.00 - 687.00] Give me a definition of qualities.
+[687.00 - 689.00] Okay. I think I've asked everything on the phone.
+[689.00 - 692.00] Yeah.
+[692.00 - 695.00] Have a nice day.
+[695.00 - 706.00] Okay, bye.
+[706.00 - 708.00] Can I take her home with me?
+[708.00 - 714.00] Is she, um, is she supposed to be a psychiatrist or can I hire her?
+[719.00 - 721.00] Okay.

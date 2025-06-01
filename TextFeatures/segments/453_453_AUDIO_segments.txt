@@ -1,0 +1,153 @@
+[30.00 - 40.00] I'm not a therapist, but I'm very learning about people and I'd love to learn about you.
+[40.00 - 43.00] I'll ask you a question if you'd like to start.
+[43.00 - 45.00] And please feel free to contact me.
+[45.00 - 48.00] You can choose between anything.
+[48.00 - 50.00] Are you with me, sir?
+[50.00 - 51.00] Yes.
+[51.00 - 52.00] Okay.
+[52.00 - 55.00] So, are you doing good?
+[55.00 - 57.00] I'm doing good.
+[57.00 - 58.00] That's good.
+[58.00 - 60.00] Are there any families you're with?
+[60.00 - 62.00] Los Angeles.
+[62.00 - 63.00] Really?
+[63.00 - 64.00] Uh-huh.
+[64.00 - 67.00] What are some things you do that are not allowed?
+[67.00 - 69.00] Convenience.
+[69.00 - 71.00] Convenience.
+[71.00 - 73.00] Uh-huh.
+[73.00 - 76.00] What are some things you don't do that are allowed?
+[76.00 - 80.00] People, the crowd, traffic.
+[80.00 - 84.00] People that lack respect.
+[84.00 - 86.00] Yeah.
+[86.00 - 88.00] I'm sure you can tell by your shoes.
+[88.00 - 92.00] I'm not much of a goal explorer, but do you travel a lot?
+[92.00 - 95.00] Locally. Regionally.
+[95.00 - 100.00] Cool. What do you enjoy about traveling?
+[100.00 - 102.00] Meeting old people.
+[102.00 - 105.00] I love talking to old people.
+[105.00 - 108.00] I'd love to hear about your trip.
+[108.00 - 115.00] I work a lot with my elders in my reservation and other reservations here in California.
+[115.00 - 118.00] I spend a lot of time with the elders.
+[118.00 - 119.00] I talk with them.
+[119.00 - 121.00] They help me out a lot.
+[121.00 - 123.00] I get to hear good stories.
+[123.00 - 129.00] What's one thing you miss from your trip?
+[129.00 - 134.00] Going in the mountains and seeing waterfalls that no one else had seen except for my people.
+[134.00 - 138.00] That was the most beautiful thing I think I found.
+[138.00 - 141.00] Wow.
+[141.00 - 145.00] Do you consider yourself a child or a parent?
+[145.00 - 147.00] It depends on the situation.
+[147.00 - 153.00] If somebody comes to me looking for me to help them, I take control.
+[153.00 - 157.00] If I need help, I work out asking for help.
+[157.00 - 161.00] It depends on the situation.
+[161.00 - 163.00] What about your friends?
+[163.00 - 168.00] Sometimes when I'm doing things, I turn on the fish-tip-spring-fader.
+[168.00 - 172.00] I know it's not Hawaii, but it's the best they've got.
+[172.00 - 175.00] What do you do to relax?
+[175.00 - 177.00] I garden.
+[177.00 - 180.00] And I paint.
+[180.00 - 182.00] Nice.
+[182.00 - 184.00] How are you at controlling your senses?
+[184.00 - 186.00] I'm very good at it.
+[186.00 - 188.00] That's good.
+[188.00 - 191.00] When was the last time you argued with someone?
+[191.00 - 195.00] Three days ago, it was about communication.
+[195.00 - 199.00] It was the lack of communication on the other person's part.
+[199.00 - 204.00] I needed them to communicate better so that way I could understand.
+[204.00 - 208.00] They didn't communicate, so we had an argument.
+[208.00 - 210.00] We got it settled.
+[210.00 - 212.00] How did you feel about the situation?
+[212.00 - 220.00] I felt caught off guard because this is the individual that I spend pretty much almost every minute of my day with.
+[220.00 - 223.00] I was kept out.
+[223.00 - 226.00] I didn't like that.
+[226.00 - 232.00] How do you write a situation that you wish you had learned differently?
+[232.00 - 236.00] I'd rather pass.
+[236.00 - 242.00] What's something you feel like you wish you had learned?
+[243.00 - 247.00] What's something you feel like you wish you had learned?
+[261.00 - 264.00] Can you tell me about that?
+[273.00 - 276.00] I'm sorry to hear that.
+[279.00 - 284.00] What's something you feel like you wish you had learned?
+[302.00 - 307.00] I was my team captain, and I embarrassed my whole team.
+[307.00 - 310.00] That's one thing I truly regret.
+[310.00 - 313.00] I was a professional fighter.
+[313.00 - 316.00] Have you ever thought about other people besides yourself?
+[323.00 - 326.00] What did you study at school?
+[333.00 - 336.00] What's your dream job?
+[336.00 - 339.00] What's your dream job?
+[339.00 - 342.00] What's your dream job?
+[353.00 - 356.00] Are you happy with your job?
+[357.00 - 360.00] Are you still working at it?
+[360.00 - 363.00] What's your dream job?
+[368.00 - 375.00] Awesome. Tell me about the hardest decision you've ever made.
+[390.00 - 393.00] You find it easy to be a friend?
+[393.00 - 396.00] What's the best thing about being a friend?
+[397.00 - 400.00] You find it easy to be a friend?
+[400.00 - 402.00] Yeah.
+[402.00 - 405.00] What's the best thing about being a friend?
+[417.00 - 420.00] What's the hardest thing about being a friend?
+[426.00 - 432.00] What are some moments that you're the hardest at being a friend and you're the hardest?
+[457.00 - 460.00] How is your relationship with your family?
+[480.00 - 483.00] How many accounts do you have?
+[487.00 - 490.00] How do you feel about your family?
+[495.00 - 498.00] How do you feel about your family?
+[498.00 - 502.00] That's great. How easy is it for you to be a good night's sleep?
+[524.00 - 527.00] What are your dreams?
+[529.00 - 532.00] How do you feel about your family?
+[539.00 - 542.00] Are you afraid of something?
+[549.00 - 552.00] When do you think you'll be a friend?
+[558.00 - 561.00] When I'm not around.
+[563.00 - 566.00] What's your favorite thing to do?
+[566.00 - 569.00] What's your favorite place?
+[586.00 - 589.00] What's your biggest anxiety?
+[596.00 - 599.00] Have you ever seen a stranger in your daily life?
+[612.00 - 615.00] Have you ever been down some street places?
+[617.00 - 620.00] How long ago were you in the audience?
+[621.00 - 624.00] What got you into anxiety?
+[629.00 - 632.00] Do you still go to therapy?
+[641.00 - 644.00] Why did you stop?
+[645.00 - 648.00] Okay. What's your biggest anxiety?
+[650.00 - 653.00] What do you do to help you get better?
+[680.00 - 683.00] How long ago were you in the audience?
+[683.00 - 686.00] How long ago were you in the audience?
+[707.00 - 710.00] Do you have this feeling now?
+[714.00 - 717.00] When did you last see your family?
+[717.00 - 720.00] Can you tell me about that?
+[743.00 - 746.00] How did you feel about your family?
+[758.00 - 762.00] How did you feel about your last time you felt really happy?
+[773.00 - 776.00] How do your best friends describe you?
+[781.00 - 784.00] What's the feeling that you feel?
+[785.00 - 789.00] What are some things you wish you could change about yourself?
+[795.00 - 800.00] Tell me about a time when someone made you feel really bad about yourself.
+[803.00 - 806.00] What's the biggest anxiety?
+[810.00 - 813.00] Okay. Is there anything you regret?
+[833.00 - 837.00] What advice would you give yourself to help you get over it?
+[844.00 - 847.00] What would you say as an artist?
+[855.00 - 860.00] Tell me about something you think you can do to help you get over it.
+[863.00 - 867.00] Can you tell me about that?
+[893.00 - 897.00] Awesome. What are you most proud of in life?
+[923.00 - 928.00] Okay. I think that's all for this video. Thanks for sharing with us. Bye!
+[953.00 - 957.00] Her left clavicle needs adjustment.
+[960.00 - 964.00] Her clavicle sits higher. It makes her look like she's been in a car accident.
+[964.00 - 967.00] She's like this. Her left shoulder is like this.
+[967.00 - 970.00] Her right shoulder is like this.
+[970.00 - 973.00] Her left shoulder is like this.
+[973.00 - 976.00] Her right shoulder is like this.
+[976.00 - 979.00] Her left shoulder is like this.
+[979.00 - 982.00] Her right shoulder is like this.
+[982.00 - 985.00] Her left shoulder is up higher and it's squished in.
+[985.00 - 988.00] So you're off and it's drawing my attention to that.
+[988.00 - 991.00] So I don't know if you guys notice that too.
+[991.00 - 994.00] The other part of it too is the hand motions that she does.
+[994.00 - 997.00] Some of the hand motions are very aggressive in the wake.
+[997.00 - 1000.00] So it was very distracting in the beginning.
+[1000.00 - 1003.00] Because she was like fast moving.
+[1003.00 - 1008.00] Like my therapist, because we were working with the PTSD issues, he did everything slowly.
+[1008.00 - 1011.00] Because I set off on quick trigger movements.
+[1011.00 - 1014.00] So like with her hand movements like that.
+[1014.00 - 1017.00] Coming out like this, talking. It was distracting in the beginning.
+[1017.00 - 1020.00] But besides that, everything is just like...
+[1020.00 - 1023.00] I mean it's a computer, but it's...
+[1023.00 - 1026.00] And you feel comfortable. It's a good thing.
+[1026.00 - 1029.00] Yeah, yeah, yeah.
+[1029.00 - 1032.00] Right?

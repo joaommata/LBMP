@@ -1,0 +1,189 @@
+[0.00 - 1.00] She's hot.
+[1.00 - 2.00] Really?
+[2.00 - 3.00] That's kind of like joking.
+[3.00 - 4.00] Okay, so she's going to ask you some questions and then when she's done she'll say goodbye
+[4.00 - 5.00] and then you're going to press this button to let me know.
+[5.00 - 6.00] Got it.
+[6.00 - 7.00] Okay, thank you so much.
+[7.00 - 8.00] Okay.
+[8.00 - 9.00] Okay.
+[9.00 - 10.00] Okay.
+[10.00 - 11.00] Okay.
+[11.00 - 12.00] Okay.
+[12.00 - 13.00] Okay.
+[13.00 - 14.00] Okay.
+[14.00 - 15.00] Okay.
+[15.00 - 16.00] Okay.
+[16.00 - 17.00] Okay.
+[17.00 - 18.00] Okay.
+[18.00 - 19.00] Okay.
+[19.00 - 20.00] Okay.
+[20.00 - 21.00] Okay.
+[21.00 - 22.00] Okay.
+[22.00 - 23.00] Okay.
+[23.00 - 24.00] Okay.
+[24.00 - 25.00] Okay.
+[25.00 - 26.00] Okay.
+[26.00 - 27.00] Okay.
+[27.00 - 28.00] Okay.
+[28.00 - 29.00] Okay.
+[30.00 - 31.00] Hi, I'm Ali.
+[31.00 - 32.00] Please look on the user.
+[32.00 - 33.00] I was created to talk to people in state and security environment.
+[33.00 - 34.00] I'm not a therapist, but I'm very well aware of our cover and I love hearing about you.
+[34.00 - 35.00] I'll ask you a few questions in the next step.
+[35.00 - 36.00] And please feel free to send me a message.
+[36.00 - 37.00] The answers are clearly written in.
+[37.00 - 38.00] Are you okay with that?
+[38.00 - 39.00] Sure.
+[39.00 - 40.00] Okay.
+[40.00 - 41.00] So, are you ready to answer?
+[41.00 - 42.00] Yes.
+[42.00 - 43.00] Okay.
+[43.00 - 44.00] Okay.
+[44.00 - 45.00] Okay.
+[45.00 - 46.00] Okay.
+[46.00 - 47.00] Okay.
+[47.00 - 48.00] Okay.
+[48.00 - 49.00] Okay.
+[49.00 - 50.00] Okay.
+[50.00 - 51.00] Okay.
+[51.00 - 52.00] Okay.
+[52.00 - 53.00] Okay.
+[53.00 - 54.00] Okay.
+[54.00 - 55.00] Okay.
+[55.00 - 56.00] Okay.
+[56.00 - 57.00] Okay.
+[57.00 - 58.00] Okay.
+[59.00 - 60.00] Okay.
+[60.00 - 61.00] Okay.
+[61.00 - 62.00] Okay.
+[62.00 - 63.00] Where are you from originally?
+[63.00 - 64.00] Indiana.
+[64.00 - 65.00] Really?
+[65.00 - 66.00] What do you like about it?
+[66.00 - 67.00] The weather, I like the weather.
+[67.00 - 68.00] How often do you go back to your hometown?
+[68.00 - 69.00] Never.
+[69.00 - 70.00] Why?
+[70.00 - 71.00] I want to get back into the old groove.
+[71.00 - 72.00] Okay.
+[72.00 - 73.00] How is it that you stay in a group that's not related to anything?
+[73.00 - 75.00] Did you ever go back to your hometown?
+[75.00 - 76.00] Never.
+[76.00 - 77.00] Why?
+[77.00 - 83.00] Didn't want to get back into the old groove.
+[83.00 - 84.00] Okay.
+[84.00 - 89.00] How easy was it for you to get used to living there?
+[89.00 - 93.00] It took some time. It took a long time. It took a few years.
+[93.00 - 97.00] What are some things you really like about the weather?
+[97.00 - 107.00] It doesn't get very cold. I'm more comfortable with the environment than the Midwest.
+[107.00 - 111.00] What are some things you know about the weather?
+[111.00 - 123.00] The smog, the crowds, the dirt, the hustle.
+[123.00 - 125.00] I see what you mean.
+[125.00 - 126.00] Yeah.
+[126.00 - 129.00] I can tell by my shoes. I'm not much of a role at school.
+[129.00 - 131.00] Do you travel a lot?
+[131.00 - 136.00] No. No, I haven't for a while.
+[136.00 - 138.00] Why?
+[138.00 - 146.00] Money. It takes a lot of money. Or credit cards. Yeah.
+[146.00 - 149.00] What did you study at school?
+[149.00 - 153.00] Just the basics. I didn't go very long.
+[153.00 - 155.00] What's your dream job?
+[155.00 - 167.00] My dream job is developing land. Yeah.
+[167.00 - 169.00] Okay.
+[169.00 - 171.00] Building high-rise buildings.
+[171.00 - 175.00] What is your second child in a building?
+[175.00 - 178.00] Probably in the middle.
+[178.00 - 180.00] Why?
+[180.00 - 188.00] Well, I'm not really shy and I'm not really outgoing. So I'd say 50-50.
+[188.00 - 197.00] Okay. Sometimes when I'm doing things, I turn on the fishpins screen saver.
+[197.00 - 204.00] Hey, I know it's not Hawaii, but it's the best I've got. What do you do to relax?
+[204.00 - 211.00] I usually walk around the neighborhood or listen to music.
+[211.00 - 217.00] Okay. How do you do it in your time?
+[217.00 - 222.00] Above average.
+[222.00 - 227.00] What is the last thing I do in your time?
+[227.00 - 246.00] It's been a while. I think it was about very little. I don't remember the exact time, but it was something very little.
+[246.00 - 254.00] Okay. Tell me about a situation that you wish you had been in a different way.
+[254.00 - 268.00] Just instead of getting angry, just ignoring people, ignoring them.
+[268.00 - 271.00] How hard is that?
+[271.00 - 277.00] Hmm.
+[277.00 - 283.00] I guess it's 50-50. Sometimes.
+[283.00 - 287.00] What's something you feel guilty about?
+[287.00 - 292.00] What do I feel guilty about?
+[292.00 - 297.00] I can't think of anything right now.
+[297.00 - 304.00] What's something you feel guilty about?
+[304.00 - 315.00] Okay. Let's see. A career choice that I made years ago.
+[315.00 - 317.00] Can you tell me about that?
+[317.00 - 322.00] I got into the transportation business.
+[322.00 - 325.00] How did you decide to do it?
+[325.00 - 332.00] I went to school and got employed and I stayed with it for a few years.
+[332.00 - 334.00] What's your dream job?
+[334.00 - 340.00] My dream job is developing land construction. High-rise building.
+[340.00 - 344.00] What's the hardest decision you've ever made?
+[344.00 - 348.00] What's the hardest decision I've ever had to make?
+[348.00 - 351.00] Hmm.
+[351.00 - 355.00] I can't think of one.
+[355.00 - 361.00] Okay. Tell me about your relationship with your family.
+[361.00 - 368.00] Not much of one to speak of. It's kind of distant.
+[368.00 - 371.00] Can you tell me about that?
+[371.00 - 376.00] We talk a couple times a year. That's about it.
+[376.00 - 381.00] How many people do you have in your family?
+[381.00 - 386.00] Not many people.
+[386.00 - 392.00] Okay. How easy is it for you to get a good night's sleep?
+[392.00 - 396.00] Hmm.
+[396.00 - 405.00] Good night's sleep. Yeah. I'd say it's off and on.
+[405.00 - 408.00] Where do you go from bed to bed?
+[408.00 - 412.00] Tired.
+[412.00 - 415.00] How do you do your things?
+[415.00 - 428.00] Kind of like...
+[428.00 - 433.00] Here and there. Looking, searching.
+[433.00 - 435.00] Can you tell me about that?
+[435.00 - 440.00] Yeah. Looking for a job. Looking for employment.
+[440.00 - 446.00] How do you get jobs if you don't have a job?
+[446.00 - 451.00] Have you noticed any things that you're not doing regularly?
+[451.00 - 454.00] Not too much, no.
+[454.00 - 457.00] Have you been driving since you started school?
+[457.00 - 460.00] Have you been driving since you started school?
+[460.00 - 465.00] Tell me about the last time you felt really happy.
+[465.00 - 473.00] I had a dream a few weeks ago, a few days ago, and I was really happy in the dream.
+[473.00 - 475.00] Is that what you were saying?
+[475.00 - 476.00] Yeah.
+[476.00 - 478.00] Can you tell me about that?
+[478.00 - 483.00] I don't remember the dream. It was...
+[483.00 - 486.00] I'm not sure what it was about.
+[486.00 - 493.00] Okay. Tell me how you spend your day with them.
+[493.00 - 502.00] Don't do too much. Go to the library. Park. Not too much.
+[502.00 - 504.00] Yeah.
+[504.00 - 507.00] How are your best friends?
+[507.00 - 510.00] I don't have any.
+[510.00 - 514.00] What would you say is one of your best qualities?
+[514.00 - 520.00] Best qualities. Good listener.
+[520.00 - 524.00] What are some things you wish you could change about yourself?
+[524.00 - 526.00] Hmm.
+[526.00 - 530.00] My penis size.
+[530.00 - 536.00] Tell me about a time when someone made you feel really valued about yourself.
+[536.00 - 540.00] Hmm. Don't remember.
+[540.00 - 543.00] Is there anything they wrote?
+[543.00 - 547.00] Yeah. There's a few things. Yep.
+[547.00 - 550.00] You can't think of that?
+[550.00 - 562.00] I regret...
+[562.00 - 566.00] What do I regret?
+[566.00 - 569.00] I can't think of anything in particular.
+[569.00 - 572.00] There's probably a list somewhere.
+[572.00 - 577.00] What advice would you give yourself 10 years from now?
+[577.00 - 587.00] To meditate more.
+[587.00 - 597.00] What are some things that would be really important?
+[597.00 - 601.00] Smelly people.
+[601.00 - 613.00] They stink.
+[613.00 - 619.00] Music. Comedies.
+[619.00 - 640.00] Funny movies.
+[640.00 - 643.00] Really enjoyed.
+[643.00 - 648.00] Wow. That hasn't been too much of that.
+[648.00 - 652.00] Listening to music. Mostly.
+[652.00 - 655.00] When was the last time you had sex?
+[655.00 - 658.00] Yesterday.
+[658.00 - 662.00] Awesome.
+[662.00 - 665.00] When were you most proud of being a mother?
+[665.00 - 678.00] Very little.
+[678.00 - 701.00] Goodbye.

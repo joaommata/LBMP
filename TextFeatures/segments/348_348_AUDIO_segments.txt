@@ -1,0 +1,203 @@
+[0.00 - 3.00] Okay. Recording started.
+[3.00 - 6.00] Beep, beep.
+[11.00 - 13.00] So now I'm going to pull up the virtual human.
+[13.00 - 15.00] She's going to chat with you for a bit,
+[15.00 - 17.00] and then when she's done, she'll say goodbye,
+[17.00 - 19.00] and I will put the doorbell over here
+[19.00 - 21.00] so you can let me know when you're done, okay?
+[21.00 - 23.00] Thank you.
+[30.00 - 34.00] Hi, I'm Ellie. Thanks for coming in today.
+[34.00 - 38.00] I was created to talk to people in a safe and secure environment.
+[38.00 - 41.00] I'm not a therapist, but I'm here to learn about people,
+[41.00 - 43.00] and I'd love to learn about you.
+[43.00 - 46.00] I'll ask a few questions from the start.
+[46.00 - 48.00] And please feel free to tell me everything.
+[48.00 - 51.00] Your answers are totally confidential.
+[51.00 - 53.00] Are you okay with this?
+[53.00 - 54.00] Yes.
+[54.00 - 57.00] Okay. So, how are you doing today?
+[57.00 - 59.00] I'm okay.
+[59.00 - 62.00] That's good. Where are you from originally?
+[62.00 - 64.00] Born downtown Los Angeles.
+[64.00 - 68.00] Really? What are some things you really like about LA?
+[68.00 - 72.00] I love LA. I love the traffic on the 405.
+[72.00 - 74.00] I love the beach. I live near the beach.
+[74.00 - 76.00] I love...there's so much to do here.
+[76.00 - 78.00] I just love...and I love the weather.
+[78.00 - 80.00] I love it here.
+[80.00 - 84.00] That's great. What are some things you don't really like about LA?
+[84.00 - 87.00] Nothing.
+[87.00 - 90.00] Okay. Do you travel a lot?
+[90.00 - 92.00] A little bit.
+[92.00 - 95.00] What do you enjoy about traveling?
+[95.00 - 101.00] I guess visiting family and destinations.
+[101.00 - 104.00] I'd love to hear about all your trips.
+[104.00 - 109.00] I last flew to Cedar Rapids to visit a friend,
+[109.00 - 112.00] and was there for a couple weeks,
+[112.00 - 116.00] and I'm flying back February 11th to see him again.
+[116.00 - 118.00] He's an old friend.
+[118.00 - 120.00] Thanks.
+[122.00 - 125.00] Do you consider yourself an introvert?
+[125.00 - 127.00] No.
+[127.00 - 129.00] Why?
+[129.00 - 131.00] I'm pretty outgoing. I talk to people.
+[131.00 - 133.00] I enjoy talking to people.
+[133.00 - 136.00] I talk to people at the airport.
+[136.00 - 140.00] What do you do to relax?
+[140.00 - 143.00] I garden a little bit. I read a little bit.
+[143.00 - 145.00] I watch TV. I'm a basketball fan.
+[145.00 - 148.00] I go to the beach when the weather is nice.
+[148.00 - 150.00] I go to the pool.
+[150.00 - 152.00] Okay.
+[152.00 - 156.00] What are some things that make you a little mad?
+[156.00 - 162.00] Annoying people, rude people, people that drive.
+[162.00 - 166.00] They just have no consideration for others.
+[166.00 - 169.00] What do you do when you're annoyed?
+[169.00 - 171.00] I swear a lot.
+[172.00 - 176.00] How are you at controlling your temper?
+[176.00 - 180.00] Oh, I'm all right. I get mad once in a while.
+[180.00 - 183.00] When was the last time you argued with someone?
+[183.00 - 187.00] It was probably my daughter. She's 21, almost 22.
+[187.00 - 191.00] She lives at college, but comes home on the weekends,
+[191.00 - 193.00] and her room was probably a mess.
+[193.00 - 196.00] It's the same fight we've been having for years.
+[196.00 - 198.00] Uh-oh. That's not good.
+[198.00 - 200.00] Yeah, it does.
+[200.00 - 204.00] It's better now that we don't live together all the time, though.
+[204.00 - 206.00] That's good.
+[206.00 - 208.00] Do you find it easy to be a parent?
+[208.00 - 210.00] No.
+[210.00 - 212.00] What's the hardest thing about being a parent?
+[212.00 - 215.00] I guess making the right decisions.
+[215.00 - 219.00] It started out when she was little about education,
+[219.00 - 224.00] the right school to go to, the right activities to do,
+[224.00 - 229.00] setting a good example, being a good role model.
+[229.00 - 233.00] What's the best thing about being a parent?
+[233.00 - 238.00] Oh, everything. My kids are the greatest joy of my life.
+[238.00 - 240.00] I love them so much.
+[240.00 - 245.00] And you just get so enriched and fulfilled by them.
+[245.00 - 248.00] And when the kids are little, you see things through their eyes,
+[248.00 - 251.00] which is exciting. You want to share everything with them.
+[251.00 - 254.00] That's so good to hear.
+[254.00 - 257.00] Tell me about your kids.
+[257.00 - 261.00] I have an older son who's a financial analyst,
+[261.00 - 263.00] and then I have a daughter in college.
+[263.00 - 266.00] She's a liberal studies major. She's going to be a teacher.
+[266.00 - 270.00] Cool. What did you study at school?
+[270.00 - 272.00] A business.
+[272.00 - 274.00] Are you still working at that?
+[274.00 - 275.00] Yes.
+[275.00 - 277.00] What do you do now?
+[277.00 - 279.00] I'm an office manager.
+[279.00 - 282.00] What's your dream job?
+[282.00 - 289.00] My dream job? Wow, that's hard.
+[289.00 - 293.00] I don't know. I like my job. It's good.
+[293.00 - 296.00] I like the people. I enjoy it. It's fun.
+[296.00 - 298.00] Good.
+[298.00 - 301.00] What do you think of the names of the kids?
+[301.00 - 304.00] My son told me they're called the teacup generation
+[304.00 - 306.00] because they're fragile.
+[306.00 - 311.00] And I think their pain's in the ass, as most of them.
+[311.00 - 313.00] Yeah. I see what you mean.
+[313.00 - 316.00] Yeah.
+[316.00 - 320.00] When was the last time you felt really happy?
+[320.00 - 324.00] Not for a while. Maybe a month ago.
+[324.00 - 327.00] Can you tell me about that?
+[327.00 - 333.00] I have a new boyfriend, and things were going really great,
+[333.00 - 339.00] and now they're just going. It was great, and now it's just okay.
+[339.00 - 344.00] I guess the newness wore off.
+[344.00 - 346.00] How hard is that?
+[346.00 - 349.00] It's hard. It's hard.
+[349.00 - 351.00] How do you know them?
+[351.00 - 353.00] I'm sorry?
+[353.00 - 355.00] How do you know them?
+[355.00 - 359.00] How do I know them?
+[359.00 - 362.00] I don't know what you mean by them.
+[362.00 - 364.00] Let's come back to that later.
+[364.00 - 366.00] Okay.
+[366.00 - 368.00] Have you ever served in the military?
+[368.00 - 369.00] No.
+[369.00 - 371.00] Have you ever been diagnosed with PTSD?
+[371.00 - 372.00] No.
+[372.00 - 374.00] Have you been diagnosed with depression?
+[374.00 - 375.00] Yes.
+[375.00 - 377.00] How long ago were you diagnosed?
+[377.00 - 379.00] Oh, I don't know. A year or so.
+[379.00 - 381.00] What got you to this point?
+[381.00 - 385.00] I just didn't feel well. I just couldn't. I just didn't feel right.
+[385.00 - 387.00] I couldn't pull myself out of it.
+[387.00 - 390.00] Did you think you had a problem before you found out?
+[390.00 - 392.00] Yeah.
+[392.00 - 394.00] What were your symptoms?
+[394.00 - 397.00] Oh, just sad and just lack of energy and didn't really,
+[397.00 - 405.00] wasn't really motivated, didn't really, wasn't really my happy self.
+[405.00 - 407.00] Do you feel like there's a useful?
+[407.00 - 409.00] Therapy? Yes.
+[409.00 - 411.00] Do you still get a therapy now?
+[411.00 - 413.00] I do.
+[413.00 - 416.00] What sort of changes have you noticed since you've been on the therapy?
+[416.00 - 419.00] Well, not that many changes. I still don't feel that great,
+[419.00 - 424.00] but I just, it's good to talk to someone and tell them how you feel.
+[424.00 - 425.00] Yeah.
+[425.00 - 428.00] Even if it's just to get something off your chest.
+[428.00 - 430.00] How have you been feeling lately?
+[430.00 - 437.00] Tired, sad, depressed, blue.
+[437.00 - 442.00] Have you noticed any changes in your behavior or thoughts lately?
+[442.00 - 448.00] No, I'm just not happy. I don't feel good and I'm not happy.
+[448.00 - 451.00] How do you cope with that?
+[451.00 - 458.00] I don't just stay to myself, don't go out with friends as much as I used to.
+[458.00 - 460.00] That sounds really hard.
+[460.00 - 462.00] It's very hard.
+[462.00 - 465.00] How easy is it for you to get a good night's sleep?
+[465.00 - 467.00] Terrible. I don't sleep.
+[467.00 - 468.00] I'm sorry.
+[468.00 - 469.00] Thank you.
+[469.00 - 472.00] What are you like when you don't sleep well?
+[472.00 - 475.00] Crazy, distracted.
+[475.00 - 478.00] It's hard for me to cope with things.
+[478.00 - 483.00] Easy, mundane things are just difficult.
+[483.00 - 488.00] I see what you mean.
+[488.00 - 492.00] What are some things that usually put you in a good mood?
+[492.00 - 497.00] Well, being around my kids is fun.
+[497.00 - 501.00] What was something you did recently that you really enjoyed?
+[501.00 - 507.00] My son and daughter-in-law and my daughter and I went out to have Hawaiian food.
+[507.00 - 510.00] We got together. It's always fun to get together.
+[510.00 - 514.00] We got together at my house on Christmas. I enjoyed just getting together with them.
+[514.00 - 518.00] Awesome. Is there anything you regret?
+[518.00 - 520.00] No.
+[520.00 - 524.00] What advice would you give yourself 10 or 20 years ago?
+[524.00 - 528.00] I'll take better care of my health, I guess.
+[528.00 - 532.00] Have you done anything to avoid it?
+[532.00 - 537.00] I don't know. I don't know.
+[537.00 - 542.00] Okay. There's someone that's been a positive influence on your life.
+[542.00 - 548.00] Well, my daughter's pretty positive and upbeat.
+[548.00 - 554.00] My parents, they're both gone, but they were pretty positive.
+[554.00 - 561.00] What's on your mind when you're most memorable experience?
+[561.00 - 568.00] I suppose going on a trip to Canada with my daughter was very memorable.
+[568.00 - 571.00] Can you tell me about that?
+[571.00 - 575.00] We flew to Detroit, where I have my best friend lives there.
+[575.00 - 583.00] We stayed with her. We drove from Detroit through Canada, Niagara Falls.
+[583.00 - 586.00] We went to Buffalo, where she's from.
+[586.00 - 592.00] She has three girls. My daughter was, I think, third or fourth grade, something like that.
+[592.00 - 596.00] It was just fun for all of us to get together and do things.
+[596.00 - 599.00] That sounds like a great situation.
+[599.00 - 604.00] What would your best friend describe you?
+[604.00 - 609.00] Exactly like her. We're outgoing. We're outspoken. We tell it like it is.
+[609.00 - 619.00] We're high-energy people. We have a lot of anxiety. We like to do a lot of the same things.
+[619.00 - 624.00] Okay. When was the last time you felt really happy?
+[624.00 - 629.00] I don't know. About three or four weeks ago.
+[629.00 - 631.00] Tell me more about that.
+[631.00 - 636.00] Well, I say that my feeling is attributed to weather.
+[636.00 - 640.00] I don't like cold weather, and I'm not comfortable at all in it.
+[640.00 - 644.00] Whenever the weather changes, I sort of get down.
+[648.00 - 652.00] What would you say if somebody asked about you?
+[652.00 - 660.00] Well, I'm funny. I'm hardworking. I care about everyone.
+[660.00 - 665.00] I'm a very kind, compassionate person. I have sympathy for everyone.
+[665.00 - 671.00] I'll reach out to someone that I see in a store or anywhere that needs my help.
+[671.00 - 676.00] That's good. What are you most proud of in your life?
+[676.00 - 683.00] I suppose raising my kids and the good people they've turned out to be.
+[683.00 - 686.00] That's great.
+[686.00 - 694.00] Okay. I think I've asked everything I need to. Thanks for sharing your thoughts with me.
+[694.00 - 695.00] Sure.
+[695.00 - 696.00] Goodbye.
+[696.00 - 698.00] Bye.

@@ -1,0 +1,169 @@
+[0.00 - 4.00] Okay, this looks good.
+[4.00 - 8.00] Great.
+[8.00 - 12.00] Start this recording as well.
+[12.00 - 16.00] Maybe something for our system.
+[16.00 - 20.00] Now we start up the virtual human.
+[20.00 - 24.00] She's going to chat with you for a bit. When she's done, she'll let you know.
+[24.00 - 28.00] I'm going to put the doorbell right next to you. So when she's done, just let me know.
+[28.00 - 32.00] Hi, I'm Ellie.
+[32.00 - 36.00] I'm a student at the University of New York.
+[36.00 - 40.00] I'm not a very good student, but I'm very learning about people.
+[40.00 - 44.00] I'm a graduate of the University of New York.
+[44.00 - 48.00] I like to do research and research.
+[48.00 - 52.00] I'm a student here at the University of New York.
+[52.00 - 56.00] I like to do research and research.
+[56.00 - 60.00] Are you a student here at the University of New York?
+[60.00 - 64.00] Yes.
+[64.00 - 68.00] So, are you Indian?
+[68.00 - 72.00] Okay. Where are you from originally?
+[72.00 - 76.00] I'm originally from India.
+[76.00 - 80.00] Why do you miss the land?
+[80.00 - 84.00] Why do I miss the land?
+[84.00 - 88.00] Why do I miss LA?
+[88.00 - 90.00] When did you start?
+[90.00 - 94.00] Oh, about 20 years ago.
+[94.00 - 98.00] How often do you go back to LA?
+[98.00 - 102.00] Once every 3-4 years.
+[102.00 - 106.00] How did you get used to it?
+[106.00 - 112.00] I mean, the first 6 months it was a little difficult.
+[112.00 - 116.00] But then I got used to it and I feel very comfortable now.
+[116.00 - 120.00] That's good. Are you comfortable?
+[120.00 - 122.00] Yes.
+[122.00 - 126.00] What do you enjoy about traveling?
+[126.00 - 130.00] The food.
+[130.00 - 138.00] Actually, I enjoy flying, then meeting different people, different scenes.
+[138.00 - 146.00] Then I try to achieve my goals.
+[146.00 - 150.00] I'm sorry?
+[150.00 - 154.00] How did you get involved in the business?
+[154.00 - 160.00] I used to run a business. I used to travel to meet people, to get orders.
+[160.00 - 168.00] Traveling involved going to Northeast, Ohio and Pennsylvania, places like that.
+[168.00 - 176.00] Meet top people to get orders for my business.
+[176.00 - 186.00] I enjoyed listening to their problems. I used to take them out for dinner.
+[186.00 - 192.00] I genuinely enjoyed talking to them.
+[192.00 - 200.00] Many of them were open enough to tell me about their problems.
+[200.00 - 206.00] But my main goal, main objective was to get the orders for the business.
+[206.00 - 214.00] Nice. What do you do for a living?
+[214.00 - 222.00] I cook, watch movies, meet friends, throw a party.
+[222.00 - 226.00] What do you do now?
+[226.00 - 228.00] I'm talking to you.
+[228.00 - 232.00] What did you study before?
+[232.00 - 236.00] I'm an engineer. I did mechanical engineering. I'm also an MBA.
+[236.00 - 240.00] Are you still working on it?
+[240.00 - 244.00] Actually, I branched off to finance. I trade stocks now.
+[244.00 - 250.00] How did you get involved in the business?
+[250.00 - 260.00] A friend of mine was making a lot of money in stocks.
+[260.00 - 264.00] First, I used to interact with him.
+[264.00 - 272.00] I realized he was making a lot of money.
+[272.00 - 276.00] Then I did a formal course in it.
+[276.00 - 280.00] I attended a lot of seminars.
+[280.00 - 286.00] Lost a lot of money before I started making money.
+[286.00 - 294.00] What do you do for a living?
+[294.00 - 310.00] I watch movies, visit people, play basketball, do shopping, cook.
+[310.00 - 314.00] How are you doing?
+[314.00 - 324.00] I'm very good at controlling my temper.
+[324.00 - 332.00] When was the last time you argued with your brother?
+[332.00 - 336.00] The last time I argued was with my brother.
+[336.00 - 340.00] It was about my dad.
+[340.00 - 346.00] He's getting old. He lives in India.
+[346.00 - 350.00] I was planning on bringing him here.
+[350.00 - 360.00] My brother said it's going to be very expensive with respect to health bills.
+[360.00 - 366.00] I was arguing with him that we should all pull in the money and get them here.
+[366.00 - 372.00] They are quite old. I have a mom too. They are both old.
+[372.00 - 376.00] How close are you with your family?
+[376.00 - 382.00] I'm very close to my parents. Not so close with my brother and their family.
+[382.00 - 388.00] Why?
+[388.00 - 394.00] I tend to be judgmental.
+[394.00 - 406.00] I think sometimes that my niece and nephew should have been brought up in a different way.
+[406.00 - 412.00] My brother doesn't seem to think along the same lines.
+[412.00 - 418.00] We have disagreements and that's the reason.
+[418.00 - 420.00] Do you think it's going to happen?
+[420.00 - 424.00] It is.
+[424.00 - 428.00] Do you believe in their race?
+[428.00 - 432.00] No, not at this time.
+[432.00 - 434.00] What do you think is going to happen?
+[434.00 - 436.00] What do I think of what?
+[436.00 - 440.00] What do you think is going to happen?
+[440.00 - 444.00] Can you repeat that one more time?
+[444.00 - 448.00] What do you think is going to happen?
+[448.00 - 452.00] I still couldn't follow you.
+[452.00 - 454.00] What's the matter with you?
+[454.00 - 458.00] Have you ever served in the army?
+[458.00 - 460.00] No.
+[460.00 - 462.00] Have you ever been diagnosed with a disease?
+[462.00 - 464.00] No.
+[464.00 - 470.00] How long ago were you diagnosed?
+[470.00 - 472.00] About one to two years ago.
+[472.00 - 476.00] What made you decide to go into the army?
+[476.00 - 484.00] I was feeling down and I was not interested in things that I was normally interested in.
+[484.00 - 492.00] I was sort of withdrawn and I was not able to focus on my things.
+[492.00 - 496.00] I went to see a doctor and I ended up doing that.
+[496.00 - 500.00] Did you ever have trouble sleeping?
+[500.00 - 502.00] No.
+[502.00 - 506.00] What made you decide to go into the army?
+[506.00 - 510.00] I lost appetite. I was not sleeping well.
+[510.00 - 518.00] I had difficulty concentrating and focusing.
+[518.00 - 522.00] I was not getting my assignments done on time.
+[522.00 - 524.00] These were some of the problems.
+[524.00 - 526.00] How have you been doing lately?
+[526.00 - 528.00] I've been feeling good.
+[528.00 - 532.00] You've been doing yoga?
+[532.00 - 534.00] No, I don't.
+[534.00 - 536.00] Why didn't you stop doing yoga?
+[536.00 - 540.00] I started doing yoga and I've been doing that for about a year.
+[540.00 - 544.00] And meditation. That's helped a lot.
+[544.00 - 552.00] Awesome. What made you decide to do it?
+[552.00 - 558.00] It's just that when I was diagnosed with depression, I thought I shouldn't be taking any medication for it.
+[558.00 - 564.00] I was looking at other ways to get over the problem.
+[564.00 - 572.00] Then I realized some of my friends were doing meditation and I got influenced by them.
+[572.00 - 578.00] How easy is it to get rid of depression?
+[578.00 - 580.00] It's a little difficult.
+[580.00 - 584.00] But I've been able to sleep within half an hour.
+[584.00 - 590.00] There are days when it takes almost one or two hours to go to sleep.
+[590.00 - 594.00] Are you better by sleeping?
+[594.00 - 596.00] Are they what? Can you repeat that?
+[596.00 - 598.00] Are you better by sleeping?
+[598.00 - 600.00] No.
+[600.00 - 604.00] What are you working on these days?
+[624.00 - 628.00] When did you last do yoga?
+[630.00 - 634.00] Okay.
+[634.00 - 636.00] What are you most proud of?
+[636.00 - 640.00] What am I proud of?
+[640.00 - 646.00] I was among the top 2% in my MBA class.
+[646.00 - 658.00] When I used to run my business, I designed a product that was working really well.
+[658.00 - 666.00] I was happy that I was able to design something that was so useful for my business.
+[666.00 - 672.00] How are your best friends?
+[672.00 - 686.00] I'm thinking my friends would describe me as very friendly, very easy to get along with, very focused, very intelligent, and a good cook.
+[686.00 - 696.00] Who's your best friend?
+[696.00 - 704.00] Albert Einstein.
+[704.00 - 708.00] Can you tell me about that?
+[708.00 - 720.00] Some of his theories involve a lot of deep thinking.
+[720.00 - 732.00] The first few times I read about him, about his theories, I had difficulty in really understanding that.
+[732.00 - 752.00] When there are things that I really try to understand and I'm not able to, they're all the type of people I admire.
+[752.00 - 758.00] What advice would you give yourself?
+[758.00 - 762.00] I would say to be open to other people.
+[762.00 - 766.00] What is the thing you like about yoga?
+[766.00 - 776.00] It's diverse and I like the entertainment industry.
+[776.00 - 792.00] I like the fact that there are more women than men here.
+[792.00 - 798.00] There are certain areas where only Spanish is spoken.
+[798.00 - 810.00] I would like for all people who come to America to be able to understand English and be able to speak in English so that everybody can participate.
+[810.00 - 816.00] What is the thing you like about doing yoga?
+[816.00 - 820.00] In LA?
+[820.00 - 828.00] What is the thing you like about doing yoga?
+[828.00 - 836.00] Some of the things the political leaders do really make me mad.
+[836.00 - 844.00] Sometimes I think they're wasting their time, our time, and other countries are advancing.
+[844.00 - 852.00] These guys don't get things done and I feel very bad about it and sometimes it makes me angry.
+[852.00 - 856.00] What advice would you give to people?
+[856.00 - 872.00] The first four years of the Obama administration I think it was wasted because if Congress had acted together and got things done,
+[872.00 - 882.00] then maybe we could have made it much more difficult for China to catch up with us.
+[882.00 - 898.00] The fact that China is able to do things and get things done much faster and these people still argue and find faults with each other and not get things done.
+[898.00 - 908.00] They don't seem to realize that the clock keeps ticking. They have to get things done.
+[908.00 - 916.00] What's one thing that makes you feel bad?
+[916.00 - 930.00] One thing that comes to my mind is that I made a lot of money once in Los Angeles.
+[930.00 - 940.00] I remember that it happened during Christmas some 10 years ago and that made me very happy.
+[940.00 - 948.00] What is something that makes you feel bad?
+[948.00 - 970.00] Good music, good food, a party with friends that I like, and I also like cooking and I enjoy cooking with groups.
+[970.00 - 976.00] Those are things that really put me in a good mood.
+[976.00 - 980.00] What advice would you give to people?
+[1006.00 - 1018.00] I hope you enjoyed this video and I hope it was worth your time.
+[1018.00 - 1034.00] Thank you so much. You've been nice. Bye.
+[1036.00 - 1047.00] Thank you.

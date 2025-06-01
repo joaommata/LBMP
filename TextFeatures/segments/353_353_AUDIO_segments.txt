@@ -1,0 +1,61 @@
+[30.00 - 37.00] I'm okay.
+[37.00 - 51.00] Where are you from?
+[51.00 - 52.00] Pennsylvania.
+[52.00 - 53.00] Really?
+[53.00 - 54.00] Why?
+[55.00 - 57.00] How long have you been here?
+[65.00 - 67.00] How often do you go back?
+[73.00 - 75.00] How many times a year do you go back?
+[85.00 - 87.00] How do you manage to get to this point?
+[103.00 - 105.00] Okay.
+[105.00 - 107.00] Do you have a boyfriend?
+[109.00 - 111.00] What did you say was good?
+[115.00 - 117.00] Are you still working on it?
+[125.00 - 127.00] What do you want to be?
+[132.00 - 134.00] What do you want to be?
+[144.00 - 146.00] How did you get into medicine?
+[175.00 - 177.00] Do you socialize with people?
+[178.00 - 180.00] What do you do?
+[200.00 - 204.00] What do you do when you're not taking an account?
+[208.00 - 210.00] What do you do when you're not taking an account?
+[220.00 - 223.00] How are you doing when you're not taking an account?
+[230.00 - 234.00] What do you do when you're not taking an account?
+[237.00 - 241.00] How are you doing when you're not taking an account?
+[264.00 - 266.00] How are you best friends?
+[268.00 - 271.00] What do you do when you're not taking an account?
+[294.00 - 296.00] Do you have a boyfriend?
+[298.00 - 300.00] How long have you been here?
+[308.00 - 310.00] What kind of issues?
+[328.00 - 331.00] How have you been doing your meditation?
+[352.00 - 354.00] Have you been doing yoga?
+[357.00 - 361.00] What do you do when you're not taking an account?
+[361.00 - 365.00] What do you do when you're not taking an account?
+[383.00 - 387.00] What do you do when you're not taking an account?
+[391.00 - 395.00] How much do you do when you're not taking an account?
+[422.00 - 426.00] How do you feel about being at someone's house?
+[446.00 - 448.00] Do you feel that you're being ignored?
+[448.00 - 452.00] How do you feel about being ignored?
+[478.00 - 481.00] How easy is it to get better?
+[486.00 - 489.00] How easy is it to get better?
+[489.00 - 492.00] How do you feel about being ignored?
+[506.00 - 509.00] How do you feel about being ignored?
+[520.00 - 523.00] How do you feel about being ignored?
+[540.00 - 543.00] How do you feel about being ignored?
+[549.00 - 552.00] How close are you to nature?
+[563.00 - 565.00] How close are you to nature?
+[571.00 - 574.00] How do you feel about being ignored?
+[579.00 - 583.00] How do you feel about being ignored?
+[609.00 - 612.00] How do you feel about being ignored?
+[640.00 - 643.00] How do you feel about being ignored?
+[644.00 - 647.00] How do you feel about being ignored?
+[658.00 - 661.00] How do you feel about being ignored?
+[669.00 - 673.00] What advice would you give to people who are in an unsafe environment?
+[682.00 - 686.00] What advice would you give to people who are in an unsafe environment?
+[699.00 - 702.00] How do you feel about being ignored?
+[706.00 - 709.00] How do you feel about being ignored?
+[729.00 - 732.00] How do you feel about being ignored?
+[749.00 - 751.00] Awesome!
+[751.00 - 754.00] Okay, I think that's pretty much it.
+[754.00 - 756.00] Thank you for your time.
+[756.00 - 758.00] Bye!
+[759.00 - 761.00] Thank you for your time.

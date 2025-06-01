@@ -1,0 +1,114 @@
+[0.00 - 19.00] Okay.
+[19.00 - 20.00] Thank you.
+[20.00 - 29.00] Hi, I'm Ellie.
+[29.00 - 31.00] Thanks for coming in today.
+[31.00 - 35.00] I was created to talk to people in safe and secure environment.
+[35.00 - 40.00] I'm not a therapist, but I'm here to learn about people and would love to learn about you.
+[40.00 - 42.00] I'll ask you a few questions to get us started.
+[42.00 - 45.00] And please feel free to tell me anything.
+[45.00 - 48.00] Your answers are fully confidential.
+[48.00 - 50.00] Are you okay with this?
+[50.00 - 51.00] Yes.
+[51.00 - 52.00] Okay.
+[52.00 - 55.00] So, how are you doing today?
+[55.00 - 56.00] Okay.
+[56.00 - 60.00] That's good. Where are you from originally?
+[60.00 - 61.00] Virginia.
+[61.00 - 64.00] Really?
+[64.00 - 66.00] When did you move to LA?
+[66.00 - 73.00] I wanted to live somewhere different than Virginia with a little bit more diversity.
+[73.00 - 76.00] How often do you go back to your hometown?
+[76.00 - 79.00] Once a year maybe.
+[79.00 - 82.00] How does it compare to LA?
+[82.00 - 88.00] It's a lot slower and there's a lot less to do there.
+[88.00 - 91.00] Why did you move to LA?
+[91.00 - 104.00] I wanted to live somewhere different and a nicer, warmer climate and somewhere where there's a lot more to do and there's a lot more going on.
+[104.00 - 109.00] How easy was it for you to get used to living in LA?
+[109.00 - 115.00] For me it was really easy because I wanted something very different and I wanted something different.
+[115.00 - 119.00] What are some things you really like about LA?
+[119.00 - 130.00] I like all the things to do, like the museums, I like the beaches and the mountains and all the hiking and all the free things to do.
+[130.00 - 134.00] What are some things you don't really like about LA?
+[134.00 - 142.00] People that don't appreciate what they have here that just come here and want to take something but they don't want to give anything back and bad drivers.
+[142.00 - 151.00] I'm sure you can tell by my shoes. I'm not much of a world explorer. Do you travel a lot?
+[151.00 - 159.00] Not as much as I would like to. I travel whenever I can but usually can't afford to that much.
+[159.00 - 164.00] I understand. What do you enjoy about traveling?
+[164.00 - 181.00] I like taking pictures a lot and I just like exploring new places. My wife and I like to see wildlife and hike and monuments and just seeing different areas.
+[181.00 - 186.00] Cool. I'd love to hear about one of your trips.
+[186.00 - 200.00] We went to Central California. We'd like to be able to go more internationally but that takes a while to afford so we've gone more locally.
+[200.00 - 210.00] We went to Hearst Castle to see the elephant seals and things like that.
+[210.00 - 214.00] Nice. What's one of your most memorable experiences?
+[214.00 - 230.00] I guess our Palm Springs trip for our anniversary. We did the tram and a nice hotel on the Jacuzzi and romantic dinner and it was a good time overall.
+[230.00 - 239.00] That sounds like a great situation. Do you consider yourself more shy or outgoing?
+[239.00 - 242.00] I guess somewhere in between.
+[242.00 - 245.00] What did you study at school?
+[245.00 - 248.00] English and film.
+[248.00 - 253.00] That sounds interesting. How did you decide to do that?
+[253.00 - 264.00] Well, I was told I needed to go to college and I hadn't quite decided what to do yet so I just picked something I liked to do for the time being.
+[264.00 - 267.00] Are you happy you did that?
+[267.00 - 279.00] Well, I wish I had not been pressured so I had more time to figure out what I wanted to. I might have done something different like physical therapy.
+[279.00 - 282.00] Are you still working on that?
+[282.00 - 288.00] No, I've been teaching gymnastics which is something I used to do before.
+[288.00 - 294.00] Wow. What made you decide to do that?
+[294.00 - 304.00] I needed to not starve and it didn't end up being as bad as I thought it would be so I went for it and it ended up being kind of fun.
+[304.00 - 309.00] That's good. What's your dream job?
+[309.00 - 315.00] Dream job is to have money and not have to work for it.
+[315.00 - 320.00] Okay. How are you at controlling your temper?
+[320.00 - 323.00] Overall, pretty good.
+[323.00 - 328.00] When was the last time you argued with someone and what was it about?
+[328.00 - 336.00] I don't remember what it was about but it probably would have been a few weeks ago with my wife.
+[336.00 - 342.00] Tell me about a situation that you wish you would handle differently.
+[342.00 - 354.00] Well, anyone that I've ever actually gotten upset and yelled, I always wish I wouldn't do that but sometimes when someone's not listening it drives me crazy.
+[354.00 - 358.00] Can you give me an example of that?
+[358.00 - 366.00] If I just saying something over and over and they're just clearly not listening, it makes me really upset.
+[366.00 - 374.00] Tell me about the hardest decision you've ever had to make.
+[374.00 - 393.00] I don't know. I spend a lot of time on them but I don't know what the hardest one is because if I decide to go with something it's usually for a good reason.
+[393.00 - 397.00] Uh huh.
+[397.00 - 401.00] What's something you feel guilty about?
+[401.00 - 407.00] Well, I guess I feel guilty about moving to California and that I left my family in Virginia.
+[407.00 - 420.00] I mean, I know I shouldn't but they always seem to miss me and even though they don't like living there, you know, I'm the one that moved away so it's like I abandoned them.
+[420.00 - 423.00] How hard is that?
+[423.00 - 430.00] Well, I mean, I don't miss Virginia but I do miss them so I guess a little hard.
+[430.00 - 435.00] Tell me about your relationship with your family.
+[435.00 - 445.00] I have a good relationship with my wife, with my in-laws, with my mom, dad and sister. There's no problems. Everyone gets along well.
+[445.00 - 448.00] How close are you to your family?
+[448.00 - 450.00] Very close.
+[450.00 - 458.00] That's good. Tell me about an event or something that you wish you could erase from your memory.
+[458.00 - 469.00] Um, I mean anything where someone gets hurt either physically or otherwise.
+[469.00 - 473.00] How easy is it for you to get a good night's sleep?
+[473.00 - 479.00] Depends on how much exercise I have. I get a lot of exercise. It's pretty easy. If I don't, it's not.
+[479.00 - 482.00] What are you like when you don't sleep well?
+[482.00 - 493.00] Um, kind of like right now just a little bit slowing out of it but not really too different otherwise.
+[493.00 - 499.00] Uh huh. How have you been feeling lately?
+[499.00 - 513.00] Um, just kind of run down because my mother-in-law is dying and we just spent like three days in the hospital and we're going to go back after this so not a lot of time to sleep.
+[513.00 - 520.00] I'm sorry. Have you noticed any changes in your behavior or thoughts lately?
+[520.00 - 530.00] Just slower and more tired and a little more out of it. That's all.
+[530.00 - 533.00] Have you ever been diagnosed with PTSD?
+[533.00 - 534.00] No.
+[534.00 - 536.00] Have you been diagnosed with depression?
+[536.00 - 537.00] No.
+[537.00 - 543.00] Tell me about the last time you felt really happy.
+[543.00 - 560.00] Um, usually just when I'm having a fun day either on my own or with my wife that's pretty easy for me. Just getting outside and hiking or exercising is not hard for me.
+[560.00 - 567.00] How would your best friend describe you?
+[567.00 - 579.00] I'm not sure. Maybe um, maybe like eccentric but in a good way. Hopefully.
+[579.00 - 583.00] Is there anything you regret?
+[583.00 - 585.00] No.
+[585.00 - 590.00] What advice would you give yourself 10 or 20 years ago?
+[590.00 - 612.00] To be careful with your job to make sure you can keep from being injured and to, I don't know, just your normal kind of older kind of wisdom.
+[612.00 - 618.00] Can you tell me about that?
+[618.00 - 628.00] Not much to say really. Everyone realizes things when they get older that they wish they had when they were younger.
+[628.00 - 632.00] What are some things you wish you could change about yourself?
+[632.00 - 643.00] I wish I could get rid of my back injury so I could get back in the shape like I used to be. That's the biggest thing right now.
+[643.00 - 647.00] Can you tell me more about that?
+[647.00 - 659.00] Um, not much to say. Just hurt my back at work and I just like to get past it because it's you know holding me back from doing a lot of things. That's all.
+[659.00 - 662.00] Like what?
+[662.00 - 671.00] Well like I used to do gymnastics and trampoline and used to be a lot more active or work out more and now I can only work out a little bit because it hurts too much.
+[671.00 - 680.00] That sucks. Tell me how you spend your entire weekend.
+[680.00 - 704.00] Um, probably like during the day going on a hike or to a park with my wife and enjoying taking pictures and wildlife and exercising and then at night you know we watch a movie or go dancing or just something like that.
+[704.00 - 709.00] What are you most proud of in your life?
+[709.00 - 733.00] Um, I'm most proud of um, proud of moving here. I mean I came here without knowing anyone and I was at a point where I could have stayed in Virginia and gotten comfortable and you know ended up doing something I regretted but I came out and I've always thought that was a good decision.
+[733.00 - 738.00] That's good. There's some of it that's been a positive influence in your life.
+[738.00 - 745.00] My parents, my grandparents, my wife, most people in my life have been.
+[745.00 - 753.00] Okay, I think I've asked everything I need to. Thanks for sharing your thoughts with me. Goodbye.
+[753.00 - 755.00] Bye bye.
+[763.00 - 776.00] Okay.
+[776.00 - 780.00] I'm going to switch to the other computer where we're going to have you do a quick post-script about your experience.

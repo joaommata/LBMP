@@ -1,0 +1,218 @@
+[0.00 - 19.90] So, once again, when she says goodbye, don't press this button and I'll come back over there.
+[19.90 - 26.90] Hi, I'm Ellie.
+[26.90 - 33.90] Thanks for coming in today.
+[33.90 - 38.90] I was created to talk to people in a safe and secure environment.
+[38.90 - 43.90] I'm not a therapist, but I'm here to learn about people and I'd love to learn about you.
+[43.90 - 46.90] I'll ask a few questions and start it.
+[46.90 - 53.90] And please feel free to tell me anything. Your answers are totally confidential. Are you okay with this?
+[53.90 - 54.90] Yes, thanks.
+[54.90 - 59.90] Okay. So, how are you doing today?
+[59.90 - 61.90] I'm well, thank you. How are you?
+[61.90 - 66.90] That's good. I'm great, thanks. Where are you from originally?
+[66.90 - 68.90] I grew up in Oklahoma.
+[68.90 - 72.90] Really? When did you move to LA?
+[72.90 - 79.90] I moved to LA about five and a half years ago. So I used to be on the East Coast and then I decided I wanted to come out here.
+[79.90 - 82.90] How often do you go back to your hometown?
+[82.90 - 91.90] My hometown? Not very often. Most of my family's moved away, so I visit them, but I don't actually get back to Oklahoma much.
+[91.90 - 93.90] How does it compare to LA?
+[93.90 - 107.90] Oklahoma's very different. LA's a lot more exciting. There's a lot more to do here and the ocean obviously is very nice.
+[107.90 - 110.90] Where did you move to LA?
+[110.90 - 124.90] That's a good question. I wanted to try something new and I've always loved the beach and I also like big cities, so I thought LA might be a good place for me to come.
+[124.90 - 125.90] Are you happy you did that?
+[125.90 - 129.90] Very. It's probably one of the best decisions I ever made.
+[129.90 - 134.90] That's so good to hear. How easy was it for you to get used to living in LA?
+[134.90 - 141.90] Pretty easy, I think. It seemed kind of natural. It seemed like a good fit. I just really like it here.
+[141.90 - 143.90] How do you like your living situation?
+[143.90 - 149.90] It's great. I have a couple of roommates and we get along really well. I live a couple of blocks from the beach.
+[149.90 - 159.90] Every day I get to walk on the beach or hang out with friends. It's kind of like being on vacation all the time. It's really nice.
+[159.90 - 164.90] Awesome. What did you study at school?
+[164.90 - 173.90] I studied philosophy and political theory and government and did a little bit of English literature on the side.
+[173.90 - 176.90] How did you decide to do that?
+[176.90 - 185.90] It kind of just happened naturally, I think. I went to liberal arts school and got kind of an exposure to a lot of different areas.
+[185.90 - 192.90] I just followed what I liked and was interested in and ended up spending a lot of time studying that.
+[192.90 - 195.90] Are you still working on that?
+[195.90 - 203.90] Not exactly. I work for an educational nonprofit, so I work with graduate students in the social sciences and humanities.
+[203.90 - 208.90] But I don't actually use my philosophy background very often.
+[208.90 - 211.90] What's your dream job?
+[211.90 - 223.90] I have actually studied to become a success coach. Working with students is kind of a nice aspect of doing that.
+[223.90 - 230.90] But I'd really like to work with other people, so not just students, but help them to achieve their goals and realize their dreams.
+[230.90 - 233.90] How hard is that?
+[233.90 - 250.90] I'd say it's fairly hard in the sense that it can be challenging for people to actually be motivated and do all the work that needs to be undertaken in order to realize their dreams.
+[250.90 - 265.90] Do you consider yourself more shy or outgoing?
+[265.90 - 268.90] I'm definitely on the shyer side. I'm an introvert.
+[268.90 - 270.90] Why?
+[270.90 - 279.90] I'm pretty good in one-on-one situations with people, but when you get me in a group with more than a couple of people, I'm very much an observer.
+[279.90 - 282.90] I tend to listen a lot and I'm not as engaged.
+[282.90 - 292.90] I think that is something that is noticed by others and it maybe is a little bit odd to them, especially if they're not introverted.
+[292.90 - 301.90] It's also a challenge for me. I tend not to be the person who introduces myself in a room full of strangers.
+[301.90 - 305.90] How are you at controlling your temper?
+[305.90 - 312.90] Pretty good, I think. But I do have a temper, so I can get upset from time to time.
+[312.90 - 315.90] Has that gotten you in trouble?
+[315.90 - 321.90] Not really. It can be a challenge when I'm driving, but other than that, no.
+[321.90 - 325.90] When was the last time you argued with someone and what was it about?
+[326.90 - 331.90] Hmm. I'm not sure.
+[331.90 - 342.90] It would have probably been a discussion over politics, and it probably would have been a friendly argument, probably with one of my liberal friends.
+[342.90 - 345.90] But I actually can't remember the specific time.
+[355.90 - 359.90] You're a good guy. What do you do to relax?
+[378.90 - 384.90] That's good. Tell me about a situation that you wish you would handle differently.
+[385.90 - 391.90] Well, let me think about that for a minute.
+[403.90 - 411.90] I'm having a hard time coming up with anything. I'm sure there are plenty of things. Just nothing comes to mind.
+[411.90 - 424.90] Let's come back to that.
+[424.90 - 427.90] Okay, I'm sorry.
+[427.90 - 432.90] Tell me about an event or something that you wish you could erase from your memory.
+[441.90 - 447.90] Well, this isn't exactly an event. It's a dream.
+[447.90 - 457.90] It's not a particularly traumatic dream as far as dreams go, but I do have it sometimes, probably more often than I'd like.
+[457.90 - 460.90] I wouldn't be upset if I didn't have it.
+[460.90 - 464.90] It's just a version of a dream that I think a lot of people probably have.
+[464.90 - 486.90] But it's usually me in school somewhere at the end of the semester, haven't gone to class, taking the exams, know I'm going to fail, and really unhappy about it, wishing why didn't I study and attend class the way I should have, which actually wasn't really a problem for me in school.
+[486.90 - 489.90] But now I have the stream sometimes, and it's kind of frustrating.
+[489.90 - 500.90] And I'm not exactly sure why. I mean, I know why, but I don't know what it applies to because it's not like I am worried consciously at least about failing things.
+[500.90 - 516.90] No, I don't think so. At least not that I'm aware of.
+[516.90 - 523.90] I feel guilty. I have a brother and a sister-in-law and a nephew, and they live on the East Coast.
+[523.90 - 526.90] And I love my nephew. He's eight. He's adorable.
+[526.90 - 533.90] And I, when I used to live there when he was younger, spent a lot of time with them.
+[533.90 - 538.90] And since I've been in California and particularly in the last year, I've spent a lot less time visiting them.
+[539.90 - 545.90] So, for example, I saw them for a week at Christmas, and then I went back at the beginning of May.
+[545.90 - 550.90] So it was four months between the last time I'd seen them.
+[550.90 - 555.90] And that I felt bad about because we really enjoy each other's company.
+[555.90 - 563.90] And he really likes me to be there, but then he gets upset when I leave and he asks, when am I coming back?
+[563.90 - 567.90] So that's, that makes me feel bad sometimes.
+[576.90 - 585.90] Well, I have a brother. I'm very close to him. He's younger and he's like four, four and a half years younger.
+[585.90 - 591.90] He's married. I have a nephew. My, both of my parents have passed away.
+[591.90 - 599.90] So it's just the two of us. And we have a large extended family, but we're not that close with them, with most of them.
+[599.90 - 606.90] On my father's side, there's one brother and he's married and has a few kids.
+[606.90 - 614.90] So I have a few cousins on that side. But then on my mother's side, there are five, four or five other kids.
+[614.90 - 619.90] Most of them with several children of their own. So I have a lot of cousins on that side.
+[619.90 - 625.90] But they live all over the country. And so we stay in touch a little bit through Facebook.
+[625.90 - 629.90] And there are a couple that I talk to on the phone and visit every now and then.
+[629.90 - 632.90] But, you know, we're not that close with our extended family.
+[640.90 - 646.90] Say, well, I mean, I have a lot of friends, I think, that have been positive influences.
+[650.90 - 658.90] When I came out to California, I started working at a nonprofit and it was kind of a strange place.
+[658.90 - 663.90] It was very different from what I was used to. It was a little bit challenging.
+[663.90 - 669.90] And she also worked there. So we worked on a program together over the summer and got to know one another.
+[669.90 - 673.90] And we just established this really strong friendship.
+[673.90 - 678.90] And she's kind of, I would say, my best friend probably here and probably just in general.
+[678.90 - 682.90] And now she's moved to Vegas, which is a little bit tough for me.
+[682.90 - 686.90] But we're going to Napa this weekend, so that should be good.
+[686.90 - 691.90] But she's been a very she has a very positive influence because when I came out here and didn't really know anybody.
+[691.90 - 695.90] And, you know, since I'm an introvert, it's not that easy for me to make friends.
+[695.90 - 700.90] It was really nice because we share a lot of the same values and we have a lot of fun together.
+[700.90 - 705.90] And, you know, I think she kind of gets me. So it's a lot of fun to hang out with her.
+[705.90 - 707.90] And that's been nice.
+[713.90 - 716.90] I'm a sleeper, so it's pretty easy.
+[716.90 - 724.90] Sometimes my, you know, depending on how long I've been awake, I can be a little wound up.
+[724.90 - 726.90] And so sometimes I have to take a little while to decompress.
+[726.90 - 729.90] But I usually meditate right before I go to bed.
+[729.90 - 731.90] And that's very helpful.
+[731.90 - 734.90] And I can sleep.
+[734.90 - 738.90] I generally sleep in 90 minute cycles.
+[738.90 - 745.90] So, you know, usually six or seven and a half hours, but I can easily sleep nine hours if I have the time and inclination.
+[745.90 - 750.90] I usually don't wake up in the middle of the night, or at least if I do, I don't remember it.
+[750.90 - 755.90] Well, I actually don't sleep very well when I travel.
+[755.90 - 761.90] So one of the things I do for work is I travel quite a bit because I work for a company that's back east.
+[761.90 - 766.90] So I work from home most of the time, but then I travel like one week a month.
+[766.90 - 771.90] And when I travel, I'll take the red eye and then I'll visit with a lot of friends in the evening.
+[771.90 - 772.90] So I don't sleep that much.
+[772.90 - 776.90] It's not that I sleep poorly or badly.
+[777.90 - 780.90] It's just that I don't have that much time to sleep.
+[780.90 - 785.90] And the first day after not sleeping or not sleeping much is OK.
+[785.90 - 788.90] Usually the second day is not very good.
+[788.90 - 792.90] So I get a lot more tired and it's harder to concentrate.
+[792.90 - 797.90] And I don't know, it just feels like more of a struggle.
+[797.90 - 800.90] OK.
+[800.90 - 803.90] How have you been feeling lately?
+[804.90 - 807.90] I'd say good.
+[807.90 - 812.90] Summer is a busy time for the organization that I work for.
+[812.90 - 816.90] So I'm a little, I don't know if stressed is the right word,
+[816.90 - 820.90] but I'm a little anxious about everything going well this summer.
+[820.90 - 823.90] But in general, I'm feeling pretty good.
+[823.90 - 828.90] Have you noticed any changes in your behavior or thoughts lately?
+[828.90 - 830.90] Not really.
+[830.90 - 833.90] I can't think of anything.
+[833.90 - 834.90] There is one thing.
+[834.90 - 837.90] I do struggle with exercise.
+[837.90 - 842.90] I like to walk a lot and I hike with friends.
+[842.90 - 846.90] And I had been really motivated about it for a couple of months.
+[846.90 - 850.90] But then I went away to the East Coast and when I came back,
+[850.90 - 854.90] I was a lot less motivated because I didn't really exercise when I was there.
+[854.90 - 858.90] And I'd gotten out of the habit, even though it had only been about 10 days.
+[858.90 - 861.90] And so now I'm struggling to try and get back in the routine.
+[861.90 - 865.90] And it's not going as well as I would like.
+[865.90 - 866.90] I'm sorry.
+[866.90 - 868.90] It's OK. Thank you.
+[868.90 - 871.90] Have you ever been diagnosed with PTSD?
+[871.90 - 872.90] No.
+[872.90 - 874.90] Have you been diagnosed with depression?
+[874.90 - 875.90] No.
+[875.90 - 878.90] Tell me about the last time you felt really happy.
+[878.90 - 884.90] Well, he's a lot of fun.
+[884.90 - 888.90] He really likes me and I really like him.
+[888.90 - 891.90] And we play a lot of games and talk a lot.
+[891.90 - 893.90] And we're actually doing a book club now.
+[893.90 - 897.90] So we're going to Skype and maybe I'll get some more time with him that way.
+[897.90 - 901.90] But just being around him is fun.
+[901.90 - 908.90] How would your best friend describe you?
+[908.90 - 914.90] Well, she'd probably say that I know how to have fun, but that I can be serious.
+[914.90 - 923.90] And that I care about others and that I'm loyal.
+[923.90 - 928.90] And I'm not sure what else.
+[928.90 - 933.90] I think those are probably the main things.
+[933.90 - 935.90] OK.
+[935.90 - 940.90] What are some things you wish you could change about yourself?
+[940.90 - 943.90] I wish I had more self-discipline.
+[943.90 - 952.90] So I wish that I could diet or eat healthier foods and not have a problem with sugar because I love to eat sugar.
+[952.90 - 956.90] I wish that I would not procrastinate because I've gotten a lot better about that.
+[956.90 - 957.90] But I still do.
+[957.90 - 960.90] And that can be challenging.
+[960.90 - 966.90] And I wish that I...
+[966.90 - 969.90] I don't know.
+[969.90 - 972.90] I think I wish that I was in a relationship.
+[972.90 - 975.90] So probably those things.
+[975.90 - 977.90] OK.
+[977.90 - 981.90] Tell me about a time when someone made you feel really badly about yourself.
+[991.90 - 996.90] So at the last organization I used to work at, I had a boss.
+[996.90 - 1002.90] And she was...I don't feel like she was...
+[1002.90 - 1004.90] I don't think we were very compatible.
+[1004.90 - 1010.90] And she used to push my buttons or so I thought.
+[1010.90 - 1019.90] And so one day she was really upset about something because a board member had called her up and asked her a question.
+[1019.90 - 1021.90] And she didn't have the answer.
+[1021.90 - 1024.90] And he was upset about something.
+[1024.90 - 1027.90] And it was something to do with my department.
+[1027.90 - 1033.90] So she called me into her office and let me know how unhappy she was.
+[1033.90 - 1036.90] But it wasn't...I've been a manager for many years.
+[1036.90 - 1045.90] And I have very strong opinions about how you handle challenges with staff members.
+[1045.90 - 1050.90] And the way that she handled the situation with me was really inappropriate, I thought.
+[1050.90 - 1056.90] And she clearly was trying to frighten me and make me feel incompetent.
+[1056.90 - 1059.90] Or at least that's the way that I felt about it.
+[1059.90 - 1066.90] And I tried to be very calm and said that I would take care of it.
+[1066.90 - 1068.90] And I did take care of it.
+[1068.90 - 1071.90] But after that our relationship wasn't really the same.
+[1071.90 - 1076.90] And I ended up leaving there to go back to the old organization that I'd worked for.
+[1076.90 - 1081.90] Not that long afterwards because I just didn't really have a lot of respect for her after she did that to me.
+[1081.90 - 1083.90] Or after we had that interaction.
+[1093.90 - 1099.90] So I heard this piece of advice the other day or this thing that I thought was really profound.
+[1099.90 - 1103.90] And I wish that I had read it back then.
+[1103.90 - 1111.90] Which is when you think about buying something, instead of thinking, oh, here's this beautiful coat.
+[1111.90 - 1114.90] It's $100. I want it. I'm going to buy it.
+[1114.90 - 1116.90] Don't think of it as costing $100.
+[1116.90 - 1118.90] Think of it as costing 10 times that.
+[1118.90 - 1123.90] Because that's effectively what your money could do if you didn't spend it on that coat.
+[1123.90 - 1126.90] But instead invested it intelligently.
+[1126.90 - 1129.90] Intelligently you would have 10 times that much money eventually.
+[1129.90 - 1132.90] So you should really think about it in those terms.
+[1132.90 - 1135.90] And I think I've been much more consumer than a saver.
+[1135.90 - 1140.90] And so I wish that I had been more aware of that 10 or 20 years ago.
+[1148.90 - 1150.90] Probably.
+[1156.90 - 1161.90] They asked me to be his godparent and his guardian if anything should happen to them.
+[1161.90 - 1167.90] And that meant a lot to me because it made me feel like they trusted me and thought that I was a good person.
+[1167.90 - 1172.90] The kind of person that could take care of their child should something happen to them.
+[1183.90 - 1185.90] Let's see.
+[1185.90 - 1189.90] Well, it wasn't really recently, but in February I went.
+[1189.90 - 1196.90] I like to travel and a friend and I went to Singapore and I got to fly first class.
+[1196.90 - 1202.90] We used miles, frequent flyer miles to get the tickets.
+[1202.90 - 1207.90] And so that was really enjoyable because the seats fold down.
+[1207.90 - 1209.90] You get to sleep. The food is delicious.
+[1209.90 - 1211.90] You get special attention.
+[1211.90 - 1215.90] And I also hadn't been to Singapore before, so that was kind of cool too.
+[1222.90 - 1225.90] Sure. Thank you. Bye.
+[1235.90 - 1237.90] Hey.
+[1241.90 - 1243.90] Okay.

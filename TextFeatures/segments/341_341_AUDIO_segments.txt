@@ -1,0 +1,232 @@
+[0.00 - 2.00] How long you guys gonna do this
+[2.76 - 4.76] Yeah
+[6.76 - 8.88] Oh really so I should be looking now
+[18.96 - 21.44] Okay got it, thank you
+[21.44 - 23.44] Okay
+[37.12 - 39.12] Okay, thank you
+[42.36 - 48.16] So I just hit that doorbell when I'm finished, okay got it, thank you
+[51.44 - 53.44] I'm Ellie, thanks for coming in today
+[53.44 - 57.44] I was created to talk to people in a safe and secure environment
+[57.44 - 62.44] I'm not a therapist, but I'm here to learn about people and I'd love to learn about you
+[62.44 - 65.44] I'll ask a few questions and get started
+[65.44 - 67.44] And please feel free to tell me anything
+[67.44 - 70.44] Your answers are fully confidential
+[70.44 - 72.44] Are you okay with this?
+[72.44 - 73.44] Sure
+[73.44 - 76.44] Okay, so how are you doing today?
+[76.44 - 79.44] I'm doing fine, just a little tired
+[81.44 - 83.44] Where are you from originally?
+[83.44 - 85.44] California
+[85.44 - 87.44] Really?
+[87.44 - 88.44] Yes
+[88.44 - 90.44] What are some things you really like about LA?
+[90.44 - 92.44] Um, the weather
+[92.44 - 95.44] Not last week, but yeah the weather
+[95.44 - 99.44] What are some things you don't really like about LA?
+[99.44 - 102.44] Fear of earthquakes
+[102.44 - 106.44] I see what you mean
+[106.44 - 109.44] What did you study at school?
+[110.44 - 112.44] Psychology
+[112.44 - 116.44] Cool, are you still working on that?
+[116.44 - 120.44] I am, I go to Harbor College
+[120.44 - 122.44] Are you happy you did that?
+[122.44 - 124.44] I am
+[124.44 - 129.44] I wish I would have went sooner, but better late than never
+[129.44 - 133.44] Yeah, what's your dream job?
+[133.44 - 136.44] Probably
+[136.44 - 138.44] I'm not sure, I never really thought about it
+[138.44 - 140.44] I want to work in the field of psychology
+[140.44 - 144.44] But I'm not sure if I want to work with children or adults
+[144.44 - 147.44] So I haven't really decided
+[147.44 - 149.44] Okay, do you travel a lot?
+[149.44 - 151.44] No
+[151.44 - 153.44] Why?
+[153.44 - 155.44] I don't know
+[155.44 - 157.44] I just don't
+[157.44 - 159.44] Maybe once a year
+[159.44 - 162.44] When was the last time you traveled?
+[162.44 - 166.44] June actually, I went to Orlando, Florida
+[166.44 - 172.44] Awesome, do you consider yourself an introvert?
+[172.44 - 175.44] Sometimes
+[175.44 - 177.44] But not as relaxed
+[177.44 - 179.44] I'm sorry
+[179.44 - 181.44] What do you do to relax?
+[181.44 - 185.44] Watch TV, read a book
+[185.44 - 188.44] Talk on the phone
+[188.44 - 191.44] What are some things that make you really mad?
+[191.44 - 193.44] Mad?
+[195.44 - 198.44] My mom gets in my business
+[201.44 - 208.44] Other than that, I guess just frustrations with my son
+[210.44 - 212.44] Do you find it easy to be a parent?
+[212.44 - 214.44] No
+[214.44 - 217.44] What's the hardest thing about being a parent?
+[217.44 - 223.44] The hardest thing is raising a child with a disability
+[223.44 - 226.44] Not knowing how you can help him
+[226.44 - 230.44] That sounds really hard
+[230.44 - 232.44] It is, it's very hard
+[232.44 - 234.44] I don't sugarcoat it at all
+[234.44 - 237.44] What's the best thing about being a parent?
+[237.44 - 243.44] Just having my children, they're a blessing, I love them
+[244.44 - 248.44] With all the good and the bad, it's a part of me
+[248.44 - 255.44] I just love the fact that I'm helping mold them into good human beings
+[255.44 - 258.44] How close are you to your family?
+[258.44 - 260.44] We're really close
+[260.44 - 264.44] My family's small, we live within blocks of each other
+[264.44 - 266.44] But yeah, we're close
+[266.44 - 268.44] Okay
+[268.44 - 272.44] What's one of your most memorable experiences?
+[272.44 - 274.44] Good or bad
+[274.44 - 276.44] What comes to your mind?
+[276.44 - 278.44] Most memorable?
+[280.44 - 282.44] Just giving birth for the first time
+[282.44 - 284.44] It was just amazing
+[284.44 - 288.44] My son is nine now, so I still remember it like it was yesterday
+[288.44 - 291.44] How did you feel in that moment?
+[291.44 - 296.44] Like I was being born again myself
+[296.44 - 298.44] I don't know how to explain it
+[298.44 - 302.44] It's just very emotional
+[304.44 - 306.44] Okay
+[306.44 - 309.44] Is there anything you regret?
+[313.44 - 315.44] I don't know
+[315.44 - 318.44] I guess I have a lot of regrets
+[318.44 - 322.44] But none that I really want to mention I guess
+[324.44 - 326.44] I understand
+[326.44 - 330.44] What advice would you give yourself 10 or 20 years ago?
+[330.44 - 332.44] Stay in school
+[334.44 - 337.44] Don't get emotionally involved
+[337.44 - 343.44] And let people deter you from your goals
+[344.44 - 347.44] Have you done anything to avoid it?
+[347.44 - 351.44] Oh yeah, definitely
+[352.44 - 354.44] Did you want me to...
+[354.44 - 356.44] I'm okay
+[356.44 - 360.44] I'm okay, I mean, I'm pretty easy going
+[360.44 - 362.44] For the most part
+[362.44 - 364.44] I don't really have a temper per se
+[364.44 - 368.44] Things frustrate me more than they anger me
+[368.44 - 372.44] What's the last thing you argue with someone?
+[372.44 - 374.44] Oh, that's easy
+[374.44 - 377.44] With my mother, she's like
+[378.44 - 384.44] I guess the argument stemmed from me wanting to socialize
+[384.44 - 388.44] She feels that I'm married with children
+[388.44 - 393.44] So I should stay at home like 99% of the time
+[393.44 - 397.44] And I wanted to go out and socialize with some ex-co-workers
+[397.44 - 403.44] And she basically kind of put me down for it
+[403.44 - 406.44] As if I don't spend enough time with my children
+[406.44 - 408.44] It does
+[408.44 - 410.44] And I love my mom
+[410.44 - 414.44] I hate even having the thoughts of being frustrated with her
+[414.44 - 417.44] Because I always think, gosh, I don't want to get mad at her
+[417.44 - 419.44] And then something happens to her the next day
+[419.44 - 423.44] But she gets kind of intrusive, I don't know
+[427.44 - 431.44] When was the last time you felt really happy?
+[431.44 - 433.44] Oh, I know
+[433.44 - 438.44] After the semester ended when I noted that I did well in school
+[438.44 - 441.44] Because it had been a long time since I went to school
+[441.44 - 447.44] So when I received my grades, A and a B, I was like, wow, okay
+[447.44 - 448.44] I can do this
+[448.44 - 450.44] And it made me happy
+[450.44 - 453.44] And that was about a few weeks ago, I guess
+[453.44 - 455.44] That's great
+[455.44 - 457.44] Thank you
+[457.44 - 459.44] There's some of it that's been impossible to do
+[459.44 - 463.44] There's some of it that's been a positive influence in your life
+[466.44 - 469.44] My mom, I know, it's good and bad
+[471.44 - 474.44] I mean, for the most part, my mom's been a positive influence
+[474.44 - 478.44] You know, it's just sometimes, you know, she gets a little
+[478.44 - 481.44] Like she wants to re-raise me or something
+[481.44 - 484.44] Like she doesn't understand that I'm an adult
+[484.44 - 486.44] I'm going to make my own decisions now
+[486.44 - 489.44] Pretty much have to let me do what I need to do
+[494.44 - 497.44] A lot of heavy breathing
+[500.44 - 502.44] I mean, I walk sometimes when I get a little frustrated
+[502.44 - 504.44] Whatever, I'll just go take a walk
+[504.44 - 508.44] You know, or just try not to think about it
+[510.44 - 512.44] Thank you
+[516.44 - 518.44] Yes
+[519.44 - 521.44] Yes, the Navy
+[522.44 - 524.44] I was 19
+[526.44 - 529.44] Yeah, yes
+[530.44 - 533.44] I didn't have any other options
+[535.44 - 538.44] I am, I probably should have stayed in a little longer
+[538.44 - 541.44] I was only in for four years, but
+[541.44 - 544.44] You know, I wanted to experience life outside the military
+[544.44 - 547.44] So I did my enlistment and then I got out
+[553.44 - 557.44] It made me a little bit more responsible than some of my friends that
+[557.44 - 559.44] You know, did not join the military
+[559.44 - 565.44] I could notice a big difference as far as, you know, how I lived my life and how they lived theirs
+[566.44 - 569.44] Just made me a little bit more responsible
+[570.44 - 572.44] Thank you
+[573.44 - 577.44] I worked in the medical field for about five years
+[578.44 - 580.44] And, oh, thank you
+[582.44 - 586.44] But it wasn't for me, I wanted to do something a little bit different
+[586.44 - 588.44] I didn't want to do patient care
+[588.44 - 593.44] I wanted to work with people, but not necessarily as a patient care provider
+[593.44 - 597.44] So I started going to school and then I met my husband
+[597.44 - 599.44] I stopped going to school
+[599.44 - 603.44] Got married and I started working in the telecommunications field
+[604.44 - 608.44] And then we, you know, conceived our child and after that
+[609.44 - 611.44] You know
+[612.44 - 614.44] That's it
+[620.44 - 623.44] I think I'm caring, well, I know I am, I'm very caring
+[623.44 - 626.44] You know, I'm very honest to a fault sometimes
+[626.44 - 630.44] You know, I try to be as honest as possible with people
+[630.44 - 632.44] Sometimes it can hurt their feelings, but
+[632.44 - 634.44] You know, you gotta be honest
+[634.44 - 640.44] You can't let people think that, you know, you're not trusting
+[640.44 - 642.44] And if
+[643.44 - 646.44] Yeah, probably, I never really thought about it
+[647.44 - 649.44] I don't know
+[650.44 - 652.44] Maybe, I don't really think about it
+[652.44 - 654.44] I just try to be the best person that I can be
+[654.44 - 656.44] You know, so
+[656.44 - 659.44] That's all I can do, I can't live for what other people think
+[659.44 - 661.44] I can only do what I need to do
+[673.44 - 675.44] I don't know
+[676.44 - 678.44] I never really thought about it
+[679.44 - 681.44] I guess it's just, you know, being around my kids
+[681.44 - 683.44] You know, I just love being around my children
+[685.44 - 687.44] That always puts me in a good mood
+[689.44 - 691.44] Thank you
+[692.44 - 695.44] Okay, like I said, a little tired, you know, but
+[696.44 - 698.44] You know, for the most part, okay
+[698.44 - 700.44] You know, dealing with situations different
+[701.44 - 703.44] Well, I go to bed really early, so
+[704.44 - 706.44] As long as I go to bed early, I get a good night's sleep
+[706.44 - 708.44] But I wake up early as well, so
+[708.44 - 710.44] It's kind of like
+[710.44 - 713.44] Get in bed a little bit, I go to bed at like 8, 8.30
+[713.44 - 715.44] And then I wake up at like 1, 1.30
+[717.44 - 719.44] So
+[720.44 - 722.44] Very moody
+[723.44 - 726.44] Very irritable, short tempered, I guess
+[735.44 - 737.44] If you're a little bit more sensitive
+[738.44 - 740.44] If anything, I think I'm thinking more positively
+[741.44 - 744.44] You know, like I said, especially with my son having a disability
+[744.44 - 746.44] You know, I look at it as if
+[747.44 - 749.44] You know, it's not all bad
+[750.44 - 752.44] I mean, he has challenges
+[752.44 - 754.44] But I'm dealing with them a lot better
+[755.44 - 757.44] You know, as opposed to feeling sorry for him
+[757.44 - 759.44] Or feeling sorry for myself
+[759.44 - 762.44] You know, I'm just finding more avenues to work with him
+[762.44 - 765.44] You know, different resources to help him
+[765.44 - 769.44] As opposed to just feeling guilty or sad or depressed about it
+[771.44 - 773.44] Thank you
+[777.44 - 779.44] No
+[781.44 - 783.44] Occasionally
+[784.44 - 786.44] Who does it?
+[795.44 - 797.44] What color is your best friend?
+[799.44 - 801.44] I don't know, can we skip that question?
+[804.44 - 806.44] What color is your best friend?
+[808.44 - 810.44] Green
+[811.44 - 813.44] Seems to be the word, kind of like
+[817.44 - 819.44] Yeah, probably green, like
+[821.44 - 823.44] Naive a little
+[825.44 - 827.44] But at the same time, smart
+[827.44 - 829.44] I think she'll describe me as smart
+[832.44 - 834.44] Thank you
+[835.44 - 837.44] Okay
+[838.44 - 840.44] No problem
+[840.44 - 842.44] Bye
+[844.44 - 846.44] Oh, I'm sorry, I gotta push the button
+[855.44 - 860.44] It was fine, I kind of skipped one question though

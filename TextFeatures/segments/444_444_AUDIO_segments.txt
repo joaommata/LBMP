@@ -1,0 +1,358 @@
+[0.00 - 1.00] Okay.
+[1.00 - 20.00] So she's going to ask you some questions and then when she's done she'll let you know,
+[20.00 - 21.00] okay?
+[21.00 - 22.00] Okay.
+[22.00 - 23.00] All right.
+[23.00 - 24.00] Great.
+[24.00 - 25.00] Hi, I'm Ali.
+[25.00 - 26.00] Thanks for coming in today.
+[26.00 - 27.00] I was created to talk to people and think and prepare environment.
+[27.00 - 28.00] I'm not a therapist, but I'm here to learn about people and I'd love to learn about you.
+[28.00 - 29.00] I'll ask a few questions to get us started.
+[29.00 - 30.00] And please feel free to comment anything.
+[30.00 - 31.00] Your answers are free to me.
+[31.00 - 32.00] I'm Ali.
+[32.00 - 33.00] I'm a therapist.
+[33.00 - 34.00] I'm a therapist.
+[34.00 - 35.00] I'm a therapist.
+[35.00 - 36.00] I'm a therapist.
+[36.00 - 37.00] I'm a therapist.
+[37.00 - 38.00] I'm a therapist.
+[38.00 - 39.00] I'm a therapist.
+[39.00 - 40.00] I'm a therapist.
+[40.00 - 41.00] I'm a therapist.
+[41.00 - 42.00] I'm a therapist.
+[42.00 - 43.00] I'm a therapist.
+[43.00 - 44.00] I'm a therapist.
+[44.00 - 45.00] I'm a therapist.
+[45.00 - 46.00] I'm a therapist.
+[46.00 - 47.00] I'm a therapist.
+[47.00 - 48.00] I'm a therapist.
+[49.00 - 50.00] Your answers are free to me.
+[50.00 - 52.00] Are you okay with this?
+[52.00 - 53.00] Yes, I'm fine.
+[53.00 - 54.00] Okay.
+[54.00 - 58.00] So, how are you doing today?
+[58.00 - 60.00] I'm doing very well today.
+[60.00 - 61.00] I feel good today.
+[61.00 - 62.00] Where are you from?
+[62.00 - 64.00] Where did you learn about this?
+[64.00 - 65.00] Born in Indiana.
+[65.00 - 66.00] Really?
+[66.00 - 67.00] Mm-hmm.
+[67.00 - 68.00] Grew up in Bloomington.
+[68.00 - 69.00] Oh, right.
+[69.00 - 72.00] I moved to LA for a job working with the CDC.
+[72.00 - 76.00] How often do you go back to your hometown?
+[76.00 - 80.00] I've only been back twice in the past 20 years.
+[80.00 - 81.00] Why?
+[81.00 - 84.00] My family's not there anymore.
+[84.00 - 87.00] I went back for high school reunions.
+[87.00 - 92.00] How does it compare to LA?
+[92.00 - 94.00] It's much greener.
+[94.00 - 103.00] It's very green, very small, very wooded areas.
+[103.00 - 106.00] That's where I played in the woods when I was a kid.
+[106.00 - 108.00] We'd swim in the quarries.
+[108.00 - 111.00] I rode my bicycle everywhere.
+[111.00 - 117.00] And here it's a little more cement and traffic.
+[117.00 - 121.00] How easy was it for you to get used to living in LA?
+[121.00 - 129.00] It just seemed like cement at first, but I love it now.
+[129.00 - 134.00] I have friends and I love being able to do so many different things.
+[134.00 - 137.00] I go to the beach a lot.
+[137.00 - 140.00] I go up to the mountains.
+[140.00 - 142.00] I go camping all the time.
+[142.00 - 144.00] I love it.
+[144.00 - 146.00] Always opportunities.
+[146.00 - 149.00] I'm sure you can tell by my shoes.
+[149.00 - 151.00] I'm not much of a world explorer.
+[151.00 - 153.00] Do you travel a lot?
+[153.00 - 155.00] I have traveled quite a bit.
+[155.00 - 157.00] I was in the Peace Corps.
+[157.00 - 159.00] I was in South America.
+[159.00 - 161.00] I was in Paraguay for three years.
+[161.00 - 163.00] I traveled all through South America.
+[163.00 - 167.00] Brazil, Peru, Chile, Bolivia.
+[167.00 - 169.00] I also spent a year in London.
+[169.00 - 171.00] I traveled all through Europe.
+[171.00 - 173.00] I used to go to Canada often.
+[173.00 - 176.00] I'd love to get to Asia one of these days.
+[176.00 - 182.00] What do you enjoy about traveling?
+[182.00 - 185.00] Meeting new people, the food.
+[185.00 - 187.00] I love trying new food.
+[187.00 - 191.00] And just getting a different perspective on the world
+[191.00 - 195.00] and different people's outlook on the world.
+[195.00 - 200.00] Because America tends to become isolated.
+[200.00 - 203.00] I'd love to hear about one of your trips.
+[203.00 - 209.00] I hiked the Inca Trail when I was in Peru.
+[209.00 - 213.00] That was a five-day hike starting out of Cusco.
+[213.00 - 217.00] We hiked for four or five days.
+[217.00 - 224.00] And woke up the last morning at the Sun Gate of Machu Picchu.
+[224.00 - 227.00] That was just the most amazing experience.
+[227.00 - 232.00] I'd seen it in National Geographic all my life.
+[232.00 - 237.00] To be there and experience that was phenomenal.
+[237.00 - 242.00] What did you study at school?
+[242.00 - 245.00] Philosophy. I had my degree in philosophy.
+[245.00 - 247.00] I minored in art.
+[247.00 - 249.00] How did you decide to do that?
+[249.00 - 251.00] I started out in business.
+[251.00 - 254.00] I got very disenchanted with it very quickly.
+[254.00 - 259.00] I decided to study what I wanted to study while I was in college.
+[259.00 - 261.00] And had the opportunity.
+[261.00 - 263.00] That's what I wanted to do.
+[263.00 - 265.00] Everyone advised me against it.
+[265.00 - 268.00] You can't get a job as a philosopher.
+[268.00 - 271.00] I had the idea of getting my philosophy degree.
+[271.00 - 273.00] Then going to law school.
+[273.00 - 276.00] And being a professor of ethics.
+[276.00 - 279.00] That kind of fell apart.
+[279.00 - 283.00] That's how I ended up joining the Peace Corps.
+[283.00 - 285.00] It all worked out.
+[285.00 - 287.00] Are you Machu Picchu?
+[287.00 - 288.00] I'm sorry?
+[288.00 - 290.00] Are you Machu Picchu?
+[290.00 - 291.00] Yeah.
+[291.00 - 294.00] What's your dream job?
+[294.00 - 297.00] I'm sorry, my alarm is going off on my phone.
+[297.00 - 299.00] It will die in a second.
+[299.00 - 300.00] I'm sorry.
+[300.00 - 303.00] It's still going.
+[303.00 - 307.00] I turned off the phone but I forgot to turn off the alarm.
+[307.00 - 311.00] That should go.
+[311.00 - 313.00] I'm sorry, what was your question?
+[313.00 - 315.00] What's your dream job?
+[315.00 - 317.00] My dream job?
+[317.00 - 320.00] Gosh.
+[320.00 - 325.00] Writing.
+[325.00 - 329.00] I've done a few scripts.
+[329.00 - 332.00] Some screenplays with a friend of mine.
+[332.00 - 335.00] But I don't really want to do the Hollywood thing.
+[335.00 - 338.00] But writing and teaching.
+[338.00 - 340.00] And traveling.
+[340.00 - 345.00] If I could do that overseas.
+[345.00 - 348.00] Do you think you should do something shy or outgoing?
+[348.00 - 351.00] Should I turn off my alarm?
+[351.00 - 354.00] It keeps going.
+[354.00 - 356.00] I can't move.
+[356.00 - 358.00] I can't get to my purse.
+[358.00 - 360.00] I'm sorry.
+[360.00 - 361.00] Yes.
+[361.00 - 365.00] I turned off my phone but the alarm is like...
+[365.00 - 368.00] I forgot.
+[368.00 - 372.00] It's my alarm to go to yoga class.
+[372.00 - 377.00] I'm terribly sorry about that.
+[377.00 - 382.00] Sorry for the interruption.
+[382.00 - 385.00] Okay.
+[385.00 - 390.00] Sometimes when I'm doing ten, I turn on the fish tank screen saver.
+[390.00 - 394.00] Hey, I know it's not Hawaii but it's the best I've got.
+[394.00 - 397.00] What do you do to relax?
+[397.00 - 400.00] I have an actual fish tank at my house.
+[400.00 - 402.00] I do the same thing.
+[402.00 - 405.00] I do that with my children when they get upset.
+[405.00 - 409.00] I sit them in front of the fish tank and it's very relaxing.
+[409.00 - 412.00] I also try and meditate.
+[412.00 - 415.00] I try and just sit down and be quiet.
+[415.00 - 418.00] And gather my thoughts.
+[418.00 - 420.00] I like to read.
+[420.00 - 422.00] Or sometimes I walk.
+[422.00 - 425.00] I'll take my dog for a walk.
+[425.00 - 428.00] How do you do it to control your time?
+[428.00 - 431.00] I wish I could say I was good at it.
+[431.00 - 436.00] I'm not good at it but usually I tend to have outbursts every once in a while.
+[436.00 - 443.00] When things are getting too chaotic at my house and I'm feeling very underappreciated,
+[443.00 - 448.00] I will have a burst of anger.
+[448.00 - 451.00] Does that come in your head?
+[451.00 - 455.00] Yeah, my husband doesn't appreciate that.
+[455.00 - 459.00] I've never done it at work or in a social situation.
+[459.00 - 462.00] But at home with my family I've done it.
+[462.00 - 466.00] And then instead of recognizing that I'm upset about it,
+[466.00 - 470.00] my husband tends to get mad at me for being mad.
+[470.00 - 472.00] And then that escalates.
+[472.00 - 476.00] And sometimes I just end up walking out the door.
+[476.00 - 479.00] Or going to my room.
+[479.00 - 481.00] I'm sorry?
+[481.00 - 483.00] How do you cope with that?
+[483.00 - 490.00] Usually after I have an outburst and I isolate myself for a little bit,
+[490.00 - 499.00] I can come back relaxed and deal with the situation in a more calm manner.
+[499.00 - 501.00] How hard is that?
+[501.00 - 503.00] Sometimes it's very hard.
+[503.00 - 509.00] But I've gotten to the point where I know just to stop and get myself out of there.
+[509.00 - 512.00] And go take some deep breaths.
+[512.00 - 516.00] And then really try and figure out what I'm feeling.
+[516.00 - 518.00] Why I'm being angry.
+[518.00 - 523.00] Why am I being so tense?
+[523.00 - 526.00] And then be able to verbalize that.
+[526.00 - 536.00] Tell me about a situation that you wish you were able to put in.
+[536.00 - 540.00] Well, it happens a few times when I start getting...
+[540.00 - 542.00] I've had a very tense day.
+[542.00 - 545.00] And things haven't gone right.
+[545.00 - 550.00] I tend to have outbursts in the kitchen while I'm making dinner.
+[550.00 - 555.00] And the kids are all home and they're asking me questions about their homework.
+[555.00 - 557.00] Or they're turning on the TV.
+[557.00 - 563.00] And my husband's bothering me about things that I just don't need to think about right then.
+[563.00 - 567.00] And one time I just said, okay, everyone out of the kitchen.
+[567.00 - 569.00] Leave me alone. Get out.
+[569.00 - 571.00] Just let me finish dinner.
+[571.00 - 573.00] And nobody would.
+[573.00 - 577.00] And I just had more pressure building up and building up.
+[577.00 - 581.00] And I actually took one of the pots and just banged it against the stove.
+[581.00 - 586.00] Really hard to just get people to pay attention to what I was saying.
+[586.00 - 589.00] And I actually made a dent in my stove.
+[589.00 - 591.00] Which is still there.
+[591.00 - 599.00] So that I should have walked out sooner and taken my deep rest before I did that.
+[613.00 - 617.00] It was probably when I was pregnant with my first child.
+[617.00 - 620.00] I wasn't married.
+[620.00 - 624.00] I had a very good friend.
+[624.00 - 630.00] I was 32 at the time.
+[630.00 - 633.00] So I wasn't young.
+[633.00 - 637.00] I think if I was younger I probably would have decided to have an abortion.
+[637.00 - 641.00] But at that point in my life I'm like, okay, I'm going to have this child.
+[641.00 - 648.00] And I got pregnant by the man I actually married and still marry to.
+[648.00 - 652.00] But we had only been dating like three months.
+[652.00 - 658.00] And I was living with a good friend of mine who I'd been in the Peace Corps with.
+[658.00 - 662.00] And so I didn't know this guy very well.
+[662.00 - 665.00] I didn't know if we could raise a child together.
+[665.00 - 670.00] I didn't know if I wanted to get married and have a child.
+[670.00 - 674.00] Or if I wanted to get married and raise a child with somebody else.
+[674.00 - 679.00] And my friend suggested that we raise the child together.
+[679.00 - 684.00] Even suggested moving to Costa Rica to raise the child together.
+[684.00 - 699.00] And so it was a lot of huge decisions that were going to determine the rest of my life.
+[699.00 - 709.00] And I made the decision based on more common sense and practicality.
+[709.00 - 712.00] But I don't regret that decision.
+[712.00 - 721.00] I think I made a good decision to marry my husband and raise our child.
+[721.00 - 725.00] They're older now. My eldest is 17.
+[725.00 - 729.00] He is at DaVinci Science School.
+[729.00 - 732.00] He's very much into engineering.
+[732.00 - 737.00] He is getting his pilot's license, which I'm very proud of him for.
+[737.00 - 743.00] My daughter is 15. And she loves acting.
+[743.00 - 751.00] She has a boyfriend who they see just once a week at church basically.
+[751.00 - 753.00] And they text each other constantly.
+[753.00 - 756.00] She's a very, very typical 15 year old.
+[756.00 - 759.00] And then I have a 12 year old.
+[759.00 - 764.00] He is extremely active.
+[764.00 - 767.00] And is in constant motion and is always making noises.
+[767.00 - 769.00] But I love him dearly.
+[769.00 - 771.00] He is into rock climbing.
+[771.00 - 774.00] And there's a rock climbing gym near our house.
+[774.00 - 775.00] So he has a membership there.
+[775.00 - 779.00] So he goes over there and rock climbs almost on a daily basis.
+[784.00 - 787.00] No, I find it extremely difficult.
+[787.00 - 790.00] My mother had a very difficult...
+[790.00 - 792.00] My dad died when I was young.
+[792.00 - 797.00] And my mother kind of disconnected when that happened.
+[797.00 - 803.00] So I didn't have a very warm or loving relationship with my mother or growing up.
+[803.00 - 805.00] And I basically raised myself.
+[805.00 - 811.00] I was kind of on my own from a very young age.
+[811.00 - 815.00] I mean she was at the house but really I had no interaction with her.
+[815.00 - 823.00] So I really didn't have parenting skills that most people are raised with.
+[823.00 - 825.00] I know what not to do.
+[825.00 - 828.00] But sometimes it's very difficult.
+[828.00 - 835.00] And I see my friends that have these very innate parenting skills.
+[835.00 - 839.00] These very warm and they're making cookies and everything's organic.
+[839.00 - 843.00] And they knit everything and their house is always perfect.
+[843.00 - 846.00] And it's like I'm just not that person.
+[846.00 - 850.00] So I try and be...
+[850.00 - 852.00] I think I am a very good mother.
+[852.00 - 857.00] But I'm not a typical mother.
+[857.00 - 861.00] I think I'm more creative a lot of times.
+[861.00 - 864.00] And we do a lot of things.
+[864.00 - 869.00] But it's not a warm, fuzzy, cozy kind of thing.
+[869.00 - 872.00] Actually when we go camping it's more...
+[872.00 - 875.00] I'm more homey when I go camping than I am at home.
+[875.00 - 878.00] I think I'm more tense when I'm at home.
+[878.00 - 879.00] But I'm trying to...
+[879.00 - 884.00] Like through meditation and things of that sort I'm trying to become calmer and more patient.
+[884.00 - 889.00] I think my patience is what I need to work on the most.
+[894.00 - 897.00] I've been an insomniac all my life.
+[897.00 - 903.00] I remember as a child laying in my bed watching the stars go across my bedroom window.
+[903.00 - 907.00] And I haven't slept well for a long time.
+[907.00 - 915.00] But I realized that if I exercise and I do something with my brain intellectually during the day,
+[915.00 - 921.00] I have to be physically tired and intellectually tired to sleep well.
+[921.00 - 924.00] And sometimes that's hard to do.
+[924.00 - 927.00] And so a lot of times I stay awake reading.
+[927.00 - 931.00] I'll read till midnight and then I'll try and go to sleep.
+[931.00 - 935.00] And usually I won't get back up even if I...
+[935.00 - 938.00] I'll wake up at three again and things of that sort.
+[938.00 - 940.00] But I'll try to go back to sleep.
+[940.00 - 943.00] How have you been feeling lately?
+[943.00 - 945.00] Yesterday I didn't feel so good.
+[945.00 - 948.00] I think a lot of it has to depend on the weather.
+[948.00 - 953.00] It was all cloudy and gray yesterday because I planned on working in my garden.
+[953.00 - 957.00] And then I'm making a butterfly garden in my front yard.
+[957.00 - 962.00] So I had some more planting to do and I just didn't kind of feel like doing it.
+[962.00 - 966.00] So I just sort of piddled about and wasted a lot of time yesterday.
+[966.00 - 968.00] But today I feel really good.
+[968.00 - 970.00] So I feel more positive.
+[970.00 - 972.00] I feel more energy.
+[972.00 - 975.00] Have you ever been diagnosed with post-epidemic?
+[975.00 - 976.00] No.
+[976.00 - 978.00] Have you been diagnosed with depression?
+[978.00 - 979.00] No.
+[979.00 - 983.00] Tell me about the last time you felt really happy.
+[983.00 - 985.00] Um...
+[987.00 - 989.00] I don't know.
+[989.00 - 993.00] I just got a new mattress actually that hasn't really helped me sleep.
+[993.00 - 998.00] But it was really good because I needed one for a really long time.
+[998.00 - 1002.00] And I was just kind of excited about being delivered and set up.
+[1002.00 - 1005.00] And that sounds like sort of mundane.
+[1005.00 - 1009.00] But it was just like I'm finally doing something positive
+[1009.00 - 1013.00] because it's something that I put off doing and put off doing and put off doing.
+[1013.00 - 1017.00] And it was finally there and concrete.
+[1017.00 - 1022.00] And it's like, okay, I've done this task that I can check off my list.
+[1022.00 - 1028.00] But also I took the kids camping over spring break and we just had a fabulous time.
+[1028.00 - 1033.00] And we sat around telling stories on the campfire and making some moors and things like that.
+[1033.00 - 1036.00] And those kind of times make me very happy.
+[1036.00 - 1038.00] That's great.
+[1038.00 - 1041.00] How are your best friends going to know?
+[1041.00 - 1044.00] I don't know.
+[1044.00 - 1046.00] Um...
+[1046.00 - 1057.00] I think she believes that I'm more intellectual and smarter than I think that I am at times.
+[1057.00 - 1060.00] So she comes to me with a lot of issues.
+[1060.00 - 1064.00] She always solicits advice from me.
+[1064.00 - 1066.00] She thinks I give her good advice.
+[1066.00 - 1070.00] And when she doesn't know what to do, she'll ask me.
+[1070.00 - 1077.00] And then sometimes she just calls me to run things by or just like to complain about because I'm sympathetic.
+[1077.00 - 1080.00] Or empathetic.
+[1080.00 - 1082.00] And I'm just there to listen.
+[1082.00 - 1084.00] And I don't need to give her any advice.
+[1084.00 - 1088.00] So I think a good listener and good advice giver.
+[1088.00 - 1094.00] What are some things you wish you could change about yourself?
+[1094.00 - 1096.00] I procrastinate a lot.
+[1096.00 - 1100.00] I start projects and I don't finish them.
+[1100.00 - 1106.00] So that's what I'm working on right now is finishing up a lot of projects that I've started over the past few months.
+[1106.00 - 1108.00] A lot of them are really creative projects.
+[1108.00 - 1112.00] And I'm very enthusiastic about them when I start them.
+[1112.00 - 1115.00] And I'll get almost finished.
+[1115.00 - 1117.00] And then I don't know what happens.
+[1117.00 - 1120.00] I just completely lose interest.
+[1120.00 - 1124.00] Sometimes I think it's because I'm afraid to finish them, which sounds a little strange.
+[1124.00 - 1130.00] But I'm working on that.
+[1130.00 - 1132.00] I'm trying to get this done.
+[1132.00 - 1134.00] Is there anything you regret?
+[1134.00 - 1139.00] Oh, gosh.
+[1139.00 - 1145.00] Not following through on the opportunities I had when I got out of the Peace Corps.
+[1145.00 - 1147.00] There was a lot of things that I could go into.
+[1147.00 - 1153.00] I could have gone to get my master's degree on a grant and things of that sort.
+[1153.00 - 1156.00] But instead I got pregnant and got married.
+[1156.00 - 1161.00] And I had a wonderful job that I really liked and really enjoyed.
+[1161.00 - 1168.00] But then when I got pregnant the second time, it was right at a time where I had to fight for a directorship.
+[1168.00 - 1176.00] And I realized my limitations where I couldn't be pregnant and have this child and do everything I needed to do to get a directorship.
+[1176.00 - 1183.00] And so I really wish I had stuck with that.
+[1183.00 - 1191.00] Because then I would have had a much more fulfilling and rewarding and solid career.
+[1192.00 - 1201.00] What advice would you give yourself 10 or 15 years ago?
+[1201.00 - 1206.00] Not to base decisions on emotions sometimes.
+[1206.00 - 1210.00] I've had some really bad bosses.
+[1210.00 - 1214.00] The jobs were wonderful.
+[1214.00 - 1218.00] But my ego got in the way.
+[1219.00 - 1224.00] And I would have told myself to let go of that aspect of the job.
+[1224.00 - 1235.00] Let go of the egotistical reactions that I had to the bosses and concentrate on the job and doing that really well.
+[1235.00 - 1240.00] What are the most proud of in your life?
+[1240.00 - 1243.00] My children actually.
+[1244.00 - 1249.00] And also my Peace Corps experience was just phenomenal.
+[1249.00 - 1253.00] And people are actually really interested in that.
+[1253.00 - 1258.00] And they're like in awe that they actually know someone who actually did that.
+[1258.00 - 1267.00] So that's I always when I was a little girl, my neighbor was one of the first people to go into the Peace Corps when it first started.
+[1267.00 - 1271.00] And I always said, oh, I want to do that one day. I want to do that one day. I want to do that one day.
+[1271.00 - 1275.00] And then finally I got to the point where I said I either have to shut up or do it.
+[1275.00 - 1282.00] So that's that was one of my prouder experiences.
+[1288.00 - 1292.00] OK, thank you. Bye.
+[1301.00 - 1305.00] Thank you.

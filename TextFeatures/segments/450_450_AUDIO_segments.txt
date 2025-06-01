@@ -1,0 +1,419 @@
+[0.00 - 1.00] Okay.
+[1.00 - 2.00] Hi, I'm Ellie.
+[2.00 - 3.00] Thanks for coming in today.
+[3.00 - 4.00] I'm screwing up my computer.
+[4.00 - 5.00] I'm sorry.
+[5.00 - 6.00] I'm sorry.
+[6.00 - 7.00] I'm sorry.
+[7.00 - 8.00] I'm sorry.
+[8.00 - 9.00] I'm sorry.
+[9.00 - 10.00] I'm sorry.
+[10.00 - 11.00] I'm sorry.
+[11.00 - 12.00] I'm sorry.
+[12.00 - 13.00] I'm sorry.
+[13.00 - 14.00] I'm sorry.
+[14.00 - 15.00] I'm sorry.
+[15.00 - 16.00] I'm sorry.
+[16.00 - 17.00] I'm sorry.
+[17.00 - 18.00] I'm sorry.
+[18.00 - 19.00] I'm sorry.
+[19.00 - 20.00] I'm sorry.
+[20.00 - 21.00] I'm sorry.
+[21.00 - 22.00] I'm sorry.
+[22.00 - 23.00] I'm sorry.
+[23.00 - 24.00] I'm sorry.
+[24.00 - 25.00] I'm sorry.
+[25.00 - 26.00] I'm sorry.
+[26.00 - 27.00] I'm sorry.
+[27.00 - 28.00] I'm sorry.
+[28.00 - 29.00] I'm sorry.
+[30.00 - 31.00] I was created to talk to people
+[31.00 - 32.20] in a safe and secure environment.
+[34.00 - 35.00] I'm not a therapist,
+[35.00 - 36.00] but I'm here to learn about people
+[36.00 - 38.00] and love to learn about you.
+[39.00 - 40.00] I'll ask a few questions
+[40.00 - 41.00] to get us started.
+[42.00 - 43.00] And please feel free
+[43.00 - 44.00] to tell me anything.
+[44.00 - 45.00] Your answers are totally confidential.
+[46.00 - 47.00] Okay.
+[47.00 - 48.00] Are you okay with this?
+[48.00 - 49.00] I'm okay with that.
+[49.00 - 50.00] Sure.
+[50.00 - 51.00] Okay.
+[51.00 - 52.00] So, how are you
+[52.00 - 53.00] doing today?
+[53.00 - 54.00] I'm doing well.
+[54.00 - 56.00] Reasonably well.
+[56.00 - 57.00] That's good.
+[57.00 - 59.92] Where are you from originally?
+[59.92 - 61.92] I'm from Santa Monica, California.
+[61.92 - 62.92] Really?
+[62.92 - 63.92] Born and raised.
+[63.92 - 67.52] What are some things you really like about LA?
+[67.52 - 70.16] I love the ocean.
+[70.16 - 72.00] I love the hiking.
+[72.00 - 78.24] I love you can have a little bit of every world here.
+[78.24 - 83.48] The ocean, the sea, the desert, the weather's great.
+[83.48 - 86.92] I get to wear shorts a lot of times out of the year.
+[86.92 - 87.92] That's great.
+[87.92 - 92.56] What are some things you don't really like about LA?
+[92.56 - 103.92] The smog, the cement, road rage, traffic.
+[103.92 - 104.92] It's a lonely town.
+[104.92 - 105.92] I see what you mean.
+[105.92 - 106.92] I'm sure you can tell by my shoes.
+[106.92 - 112.76] I'm not much of a world explorer.
+[112.80 - 114.80] I haven't seen your shoes.
+[114.80 - 117.32] Well I haven't seen your shoes.
+[117.32 - 119.32] But I have traveled, yes.
+[119.32 - 124.16] What do you enjoy about traveling?
+[124.16 - 126.84] Well it depends where you're going.
+[126.84 - 129.12] I love going to Hawaii.
+[129.12 - 142.04] I love the beach, change of scenery, the temperature of the water, different foods, the airports.
+[142.72 - 144.72] I love traveling.
+[144.72 - 148.00] I love to hear about your trips.
+[148.00 - 149.88] I recently went to Europe.
+[149.88 - 154.84] I was in Belgium for two weeks.
+[154.84 - 162.08] I ate some great food and saw family and visited some museums.
+[162.08 - 166.80] It rained, which it doesn't do in California, in Los Angeles very much.
+[166.84 - 175.00] I got to take the train and lots of trains and public transportation.
+[175.00 - 177.28] That was fun for me.
+[177.28 - 181.44] That's normal for them, but it's fun for me.
+[181.44 - 185.48] I got to see family and it was very, very nice.
+[185.48 - 188.48] That sounds like a great situation.
+[188.48 - 190.48] Yes, it was.
+[190.48 - 194.48] Do you consider yourself more shy or outgoing?
+[194.48 - 196.48] Outgoing.
+[197.16 - 199.16] Why?
+[199.16 - 201.16] I'm gregarious.
+[201.16 - 205.16] I do well in crowds and groups.
+[205.16 - 209.16] I am a good public speaker.
+[209.16 - 211.16] Yeah.
+[211.16 - 215.16] I'm not so shy.
+[215.16 - 217.16] I don't think.
+[217.16 - 219.16] Okay.
+[219.16 - 225.16] Sometimes when I'm feeling tense, I turn on the fish tank screen saver.
+[225.84 - 229.84] Hey, I know it's not Hawaii, but it's the best I've got.
+[229.84 - 231.84] What do you do to relax?
+[231.84 - 233.84] I go fishing.
+[233.84 - 237.84] When was the last time that happened?
+[237.84 - 239.84] Two days ago.
+[239.84 - 241.84] Nice.
+[241.84 - 243.84] How do you feel in that moment?
+[243.84 - 245.84] I also meditate.
+[245.84 - 247.84] How do I feel in that moment?
+[247.84 - 249.84] Relaxed.
+[249.84 - 251.84] At peace.
+[251.84 - 253.84] Calm.
+[254.52 - 260.52] How are you at controlling your temper?
+[260.52 - 262.52] Depends on the situation.
+[262.52 - 268.52] When was the last time you argued with someone and what was it about?
+[268.52 - 270.52] Hmm.
+[274.52 - 282.52] I argued with the Los Angeles parking people over a ticket that I got
+[283.20 - 289.20] that I didn't agree with and has morphed into a horrible situation.
+[289.20 - 297.20] And I ended the conversation with accepting the situation as it was
+[297.20 - 301.20] and not really wanting to deal with it.
+[301.20 - 303.20] Sort of like, fuck you.
+[303.20 - 305.20] That sucked.
+[305.20 - 307.20] No, it was good.
+[307.20 - 311.20] Tell me about a situation that you wish you would handle differently.
+[311.88 - 313.88] Oh my gosh.
+[313.88 - 319.88] The sale of my business, I wish I would have handled that differently.
+[319.88 - 323.88] I didn't have to really sell the business, but I got scared and I sold it
+[323.88 - 327.88] and I could have handled it in a much different way.
+[327.88 - 329.88] What made you decide to do that?
+[329.88 - 331.88] Fear.
+[331.88 - 333.88] Can you tell me about that?
+[333.88 - 335.88] Um.
+[336.56 - 338.56] I was afraid of mounting debts.
+[338.56 - 344.56] I was afraid of the economy wasn't good.
+[344.56 - 346.56] This is 2007, 2008.
+[346.56 - 350.56] I was not thinking clearly.
+[350.56 - 354.56] I was afraid of mounting debts.
+[354.56 - 358.56] I was afraid of being sued by employees.
+[358.56 - 362.56] I was afraid of being sued by employees.
+[363.24 - 369.24] I was afraid of not having enough money.
+[369.24 - 373.24] I was afraid to be embarrassed.
+[373.24 - 379.24] I was embarrassed for running out of money.
+[379.24 - 385.24] Yeah, I would have handled that much differently knowing what I know today.
+[385.24 - 387.24] That sounds really hard.
+[387.24 - 389.24] It was.
+[389.24 - 391.24] You've done anything to avoid it?
+[391.92 - 393.92] Yes, I could have.
+[393.92 - 395.92] I could have downsized.
+[395.92 - 399.92] I could have downsized.
+[399.92 - 403.92] Sold cars, got rid of cars.
+[403.92 - 407.92] I could have cut hours.
+[407.92 - 411.92] I could have reduced my expenses.
+[411.92 - 415.92] And sat tight with it and not, and just worked through it
+[415.92 - 419.92] and not have reacted out of fear.
+[420.60 - 422.60] What did you study at school?
+[422.60 - 424.60] When?
+[424.60 - 428.60] Whatever comes to your mind.
+[428.60 - 432.60] I got my bachelor's degree in political science from UCLA
+[432.60 - 436.60] and I just finished a master's degree in education.
+[436.60 - 440.60] What's your dream job?
+[440.60 - 442.60] My dream job?
+[442.60 - 448.60] My dream job is
+[449.28 - 453.28] to not work.
+[453.28 - 455.28] That's my dream job.
+[455.28 - 457.28] To not work.
+[457.28 - 461.28] To be of service to people.
+[461.28 - 465.28] To, you know, to
+[469.28 - 473.28] wear casual clothes.
+[473.28 - 477.28] Not have to be at a particular place at a particular time.
+[477.96 - 483.96] To have time to enjoy, you know, the things that I like to do.
+[483.96 - 485.96] Like fishing and hiking.
+[485.96 - 487.96] Being with my nephews.
+[487.96 - 489.96] Being with kids.
+[489.96 - 493.96] Yeah, and not having to work.
+[493.96 - 495.96] I understand.
+[495.96 - 499.96] Tell me about your relationship with your family.
+[499.96 - 501.96] Well, relationship with family.
+[501.96 - 505.96] Okay, so who's alive today is my mom.
+[506.64 - 510.64] My father died when I was 16.
+[510.64 - 512.64] My stepfather died three years ago.
+[512.64 - 514.64] So my mom's alive.
+[514.64 - 516.64] We have a good relationship.
+[516.64 - 518.64] She's like, and it took a lot of work.
+[518.64 - 520.64] It took years, you know, but she's a, we're friends.
+[520.64 - 522.64] You know, we do stuff together.
+[522.64 - 524.64] My sister, she lives a half a block away from me.
+[524.64 - 526.64] My sister lives a block away from me.
+[526.64 - 528.64] She's got five kids and a husband and a family to contend with.
+[528.64 - 530.64] And my sister and I don't live together.
+[530.64 - 532.64] We're not married.
+[532.64 - 534.64] We're not married.
+[535.32 - 537.32] My sister and I don't get to spend a lot of time together anymore.
+[537.32 - 539.32] She's got her life, you know.
+[539.32 - 541.32] She's a busy life.
+[541.32 - 547.32] The rest of my family lives in Belgium, who I went to go see.
+[547.32 - 551.32] And that's all the family that I have.
+[551.32 - 555.32] I have an aunt that is very, I'm estranged to.
+[555.32 - 557.32] And she lives in Northern California.
+[557.32 - 559.32] And we never talk.
+[559.32 - 561.32] Why?
+[561.32 - 563.32] Because my sister and I are very close.
+[564.00 - 572.00] Because she ripped off the family estate.
+[572.00 - 574.00] My grandparents' estate.
+[574.00 - 586.00] She took all the money and all the stuff and left her grandkids and her, and my, you know,
+[586.68 - 596.68] her sister and my grandmother's daughter and grandkids and great grandkids got zero.
+[596.68 - 602.68] And it was a few million dollars.
+[602.68 - 604.68] So we don't talk.
+[604.68 - 606.68] I don't talk.
+[606.68 - 608.68] We don't talk.
+[608.68 - 610.68] And it's sad.
+[610.68 - 612.68] Excuse me?
+[612.68 - 614.68] Can you repeat that?
+[615.36 - 617.36] Who's son has been a positive influence?
+[617.36 - 619.36] Wow.
+[619.36 - 621.36] My father was a positive influence.
+[621.36 - 623.36] He was a really genuine man.
+[623.36 - 625.36] Honest.
+[625.36 - 627.36] Funny.
+[627.36 - 629.36] Handsome.
+[629.36 - 637.36] I have a business man that I worked for who was an extremely positive influence, at least in my professional life.
+[638.04 - 650.04] I've had a counselor at UCLA who was totally, I think of her often, and some of the little things that she said to me,
+[650.04 - 654.04] keep me going in my life now.
+[654.04 - 656.04] Like what?
+[656.04 - 658.04] Trust the process.
+[658.04 - 662.04] She told me to trust the process.
+[662.72 - 670.72] And when people are having trouble and I'm having trouble, I take it, step back and say, you know, just trust the process.
+[670.72 - 674.72] It all works out the way it's supposed to be.
+[674.72 - 676.72] They're always pretty awesome, aren't they?
+[676.72 - 678.72] Mm-hmm.
+[678.72 - 690.72] And there's one more positive influence that I knew in Hawaii that taught me, a friend of mine that lives on Kauai that taught me how to enjoy nature
+[691.40 - 695.40] and taught me how to fish and I love her a lot.
+[695.40 - 697.40] A great positive influence.
+[697.40 - 699.40] Healthy influence.
+[707.40 - 709.40] It's not.
+[709.40 - 711.40] I have back problems.
+[711.40 - 713.40] So it's hard to sleep at night.
+[713.40 - 719.40] And I wake up in the middle of the night sort of,
+[720.08 - 724.08] stretching and straightening out my back.
+[724.08 - 732.08] I have a back issue that sometimes, more often than not, keeps me from sleeping good.
+[732.08 - 734.08] I'm sorry to hear that.
+[734.08 - 736.08] That's okay. I'm dealing with it.
+[736.08 - 738.08] How have you been feeling lately?
+[738.08 - 740.08] I'm a little depressed.
+[740.08 - 742.08] I've been a little depressed.
+[742.08 - 744.08] I haven't been working as much.
+[744.08 - 746.08] And I have been feeling a little depressed.
+[746.76 - 752.76] And I have pain in the mornings and in the evenings.
+[752.76 - 754.76] I have pain throughout the day with my back.
+[754.76 - 758.76] And it is a little depressing.
+[758.76 - 770.76] I get depressed also just thinking about my business that I sold and where I would have been if I hadn't have done that.
+[771.44 - 775.44] A general feeling of...
+[775.44 - 781.44] I've been a little depressed over the past couple of years actually.
+[781.44 - 783.44] Have you been diagnosed with depression?
+[783.44 - 785.44] Yes.
+[785.44 - 787.44] How long ago were you diagnosed?
+[787.44 - 791.44] Well, I've been diagnosed many, many years ago.
+[791.44 - 795.44] And I guess depression stays with you, although it gets treated.
+[796.12 - 802.12] And I was diagnosed about two years ago, I think.
+[802.12 - 804.12] I don't know.
+[804.12 - 806.12] It asked me that on the questionnaire as well.
+[806.12 - 808.12] And I sought treatment for it.
+[808.12 - 812.12] And then my insurance ran out.
+[812.12 - 814.12] And the prescriptions...
+[814.12 - 816.12] I couldn't do my prescriptions anymore.
+[816.12 - 818.12] But now I'm back on medication.
+[818.12 - 820.12] And, you know, so I take medication.
+[820.12 - 822.12] And I'm back on medication.
+[822.12 - 824.12] And I'm back on medication.
+[824.80 - 826.80] So I take medication for my depression.
+[826.80 - 828.80] Do you feel like therapy is useful?
+[830.80 - 832.80] Therapy? Absolutely.
+[834.80 - 836.80] I love therapy.
+[836.80 - 838.80] What are some changes you've noticed since you've been going into therapy?
+[838.80 - 840.80] Wow, that's huge.
+[840.80 - 842.80] Confidence in self.
+[844.80 - 846.80] Confidence in myself.
+[846.80 - 848.80] Confidence in my decision making.
+[848.80 - 850.80] A general feeling of...
+[851.48 - 853.48] A general feeling of overall content.
+[857.48 - 859.48] A sounding board.
+[859.48 - 861.48] You know, when I have stuff that's bothering me that I can't go to the...
+[863.48 - 865.48] I feel that I can't go to the person with.
+[867.48 - 869.48] I can go to my therapist.
+[869.48 - 871.48] And a lot of times the issue is resolved there.
+[875.48 - 877.48] It wasn't a big issue.
+[877.48 - 879.48] Or I worked through it.
+[880.16 - 884.16] So the therapist allowed me to look at a different way of looking at the situation.
+[886.16 - 890.16] And in that way I find therapy to be invaluable actually.
+[892.16 - 894.16] That's great.
+[894.16 - 896.16] Have you ever been diagnosed with PTSD?
+[898.16 - 900.16] I believe so.
+[900.16 - 902.16] Yes, I was.
+[904.16 - 908.16] I believe it was told to me by a psychiatrist that that's what I was having.
+[910.16 - 912.16] And this was within the last five years.
+[914.16 - 916.16] I think it was looking back now...
+[919.16 - 921.16] What are we? 2013?
+[921.16 - 923.16] It was 2009.
+[925.16 - 927.16] So four years ago.
+[927.16 - 929.16] What were your symptoms?
+[929.16 - 931.16] Not able to deal...
+[931.16 - 933.16] Like shell shocked.
+[933.16 - 935.16] Not able to deal with anything.
+[935.16 - 937.16] Irritable on the phone.
+[937.16 - 939.16] I mean just...
+[939.84 - 941.84] I was trying to fly off the handle.
+[941.84 - 943.84] And just shell shocked.
+[945.84 - 947.84] Hiding in my house.
+[947.84 - 949.84] Not opening mail.
+[949.84 - 951.84] Not being able to concentrate.
+[951.84 - 957.84] Not being able to deal with things that were bombarding me.
+[959.84 - 961.84] I felt overcome.
+[961.84 - 965.84] And the psychiatrist said that it was post-traumatic stress disorder.
+[966.52 - 968.52] And I was given some medication.
+[968.52 - 970.52] Which I stayed on for a year or so.
+[974.52 - 976.52] And I don't know.
+[976.52 - 978.52] Through psychiatry and therapist and medication.
+[982.52 - 984.52] I was able to come out of my shell a little bit.
+[986.52 - 988.52] Tell me about the last time you felt really happy.
+[989.20 - 991.20] Hmm...
+[995.20 - 997.20] About a week ago.
+[997.20 - 999.20] I was on a hike.
+[999.20 - 1001.20] Up in Malibu.
+[1001.20 - 1003.20] And at this beautiful labyrinth.
+[1003.20 - 1005.20] That looked over the Pacific Ocean.
+[1005.20 - 1007.20] And I was with a friend.
+[1007.20 - 1009.20] And we were having lunch.
+[1009.20 - 1011.20] And I laid down in the grass.
+[1011.20 - 1013.20] And took a nap.
+[1013.20 - 1015.20] And I felt really happy.
+[1015.20 - 1017.20] And I was able to come out of my shell.
+[1017.88 - 1019.88] And I felt content.
+[1019.88 - 1021.88] I was happy at that moment.
+[1021.88 - 1023.88] At that moment.
+[1023.88 - 1025.88] That time.
+[1025.88 - 1027.88] About a week ago.
+[1027.88 - 1029.88] How would your best friend describe you?
+[1029.88 - 1031.88] Hmm...
+[1031.88 - 1033.88] Honest.
+[1033.88 - 1035.88] Sincere.
+[1035.88 - 1037.88] Smart.
+[1037.88 - 1039.88] Um...
+[1041.88 - 1043.88] Caring.
+[1043.88 - 1045.88] Um...
+[1047.88 - 1049.88] Smart.
+[1049.88 - 1051.88] Smart.
+[1051.88 - 1053.88] Hmm...
+[1053.88 - 1055.88] What are some things you wish you could change about yourself?
+[1057.88 - 1059.88] Um...
+[1065.88 - 1067.88] Good question.
+[1067.88 - 1069.88] I'd have to think about that.
+[1073.88 - 1075.88] Okay. Is there anything you regret?
+[1076.56 - 1078.56] Uh...
+[1078.56 - 1080.56] Yeah. I have regrets in life.
+[1080.56 - 1082.56] You know, everything works out.
+[1082.56 - 1084.56] So, um...
+[1084.56 - 1086.56] You know, if I could change the past.
+[1086.56 - 1088.56] I would have never dropped out of school.
+[1088.56 - 1090.56] When I did.
+[1090.56 - 1092.56] A long time ago.
+[1092.56 - 1094.56] I mean, I've since gone back and completed lots of stuff.
+[1094.56 - 1096.56] Um...
+[1096.56 - 1098.56] I probably would have gone into the military.
+[1098.56 - 1100.56] I think I was going to do that in my early 20s.
+[1100.56 - 1102.56] I'm 55 now.
+[1102.56 - 1104.56] I'm 55 now.
+[1105.24 - 1107.24] I'm 55 now.
+[1107.24 - 1109.24] I sort of regret not doing that.
+[1109.24 - 1111.24] Um...
+[1111.24 - 1113.24] At that time.
+[1113.24 - 1115.24] Um...
+[1115.24 - 1117.24] I regret, uh...
+[1117.24 - 1119.24] Selling my business.
+[1119.24 - 1121.24] I regret...
+[1121.24 - 1123.24] And of course, I can't control this.
+[1123.24 - 1125.24] But I regret that my father died when I was so young.
+[1125.24 - 1127.24] And...
+[1127.24 - 1129.24] He never really got to know me and my family.
+[1129.24 - 1131.24] And I regret that.
+[1131.24 - 1133.24] I regret that.
+[1133.92 - 1135.92] He never really got to know me and I never really got to know him.
+[1135.92 - 1137.92] I regret, uh...
+[1137.92 - 1147.92] I regret not seeing my grandmother enough before she passed away.
+[1147.92 - 1149.92] I regret, uh...
+[1153.92 - 1155.92] I mean, those are the things that I can think of right now.
+[1155.92 - 1157.92] Not putting away for retirement.
+[1157.92 - 1159.92] I regret.
+[1159.92 - 1161.92] When I had the money to do it.
+[1162.60 - 1164.60] Um...
+[1164.60 - 1166.60] Yeah.
+[1166.60 - 1168.60] I mean, just here.
+[1168.60 - 1170.60] That's what I would say.
+[1170.60 - 1172.60] What advice would you give yourself 10 or 20 years ago?
+[1172.60 - 1174.60] Stick with it.
+[1174.60 - 1176.60] Just stick with it.
+[1176.60 - 1178.60] Because in order to get out, you have to go through.
+[1178.60 - 1180.60] And...
+[1180.60 - 1182.60] I...
+[1182.60 - 1184.60] When it comes to fear or flight, I get the fear and I get the fear.
+[1184.60 - 1186.60] And I get the fear.
+[1186.60 - 1188.60] And I get the fear.
+[1188.60 - 1190.60] And I get the fear.
+[1191.28 - 1193.28] And I get the fear and I flight.
+[1193.28 - 1195.28] So sometimes you just have to sit in fear.
+[1195.28 - 1197.28] And then...
+[1197.28 - 1199.28] Everything works out.
+[1203.28 - 1205.28] What are you most proud of in your life?
+[1205.28 - 1207.28] Wow.
+[1211.28 - 1217.28] I'm most proud that I have remained genuine.
+[1217.28 - 1219.28] Um...
+[1219.96 - 1221.96] I'm most proud of...
+[1225.96 - 1227.96] Being who I am.
+[1227.96 - 1229.96] And being basically comfortable with that.
+[1229.96 - 1231.96] And I'm proud of that.
+[1231.96 - 1233.96] I haven't changed...
+[1233.96 - 1235.96] To the wor- to the world.
+[1235.96 - 1237.96] You know, for the world.
+[1237.96 - 1239.96] I haven't changed.
+[1239.96 - 1241.96] I've stayed...
+[1241.96 - 1243.96] Who I am.
+[1243.96 - 1245.96] That's so good to hear.
+[1245.96 - 1247.96] Thank you.
+[1248.64 - 1250.64] Thank you.
+[1250.64 - 1252.64] Bye.

@@ -1,0 +1,90 @@
+[0.00 - 1.00] Okay.
+[1.00 - 20.00] I'm going to move this behind your arm if you know what I mean.
+[20.00 - 21.00] Okay.
+[21.00 - 22.00] Okay.
+[22.00 - 23.00] Okay.
+[23.00 - 24.00] Okay.
+[24.00 - 25.00] Okay.
+[25.00 - 26.00] Okay.
+[26.00 - 27.00] Okay.
+[27.00 - 28.00] Okay.
+[28.00 - 29.00] Okay.
+[29.00 - 30.00] Okay.
+[30.00 - 31.00] Okay.
+[31.00 - 32.00] Okay.
+[32.00 - 33.00] Okay.
+[33.00 - 34.00] Okay.
+[34.00 - 35.00] Okay.
+[35.00 - 36.00] Okay.
+[36.00 - 37.00] Okay.
+[37.00 - 38.00] Okay.
+[38.00 - 39.00] Okay.
+[39.00 - 40.00] Okay.
+[40.00 - 41.00] Okay.
+[41.00 - 42.00] Okay.
+[42.00 - 43.00] Okay.
+[43.00 - 44.00] Okay.
+[44.00 - 45.00] Okay.
+[45.00 - 46.00] Okay.
+[46.00 - 47.00] Okay.
+[47.00 - 48.00] Okay.
+[48.00 - 49.00] Okay.
+[49.00 - 50.00] Okay.
+[50.00 - 64.32] Um
+[64.32 - 65.32] pretty good.
+[65.32 - 69.92] Uh As far as my parents Ethiopia?
+[69.92 - 70.92] Really?
+[70.92 - 71.92] Yes.
+[71.92 - 75.24] What's the opinion on the West?
+[75.24 - 79.04] Um, They know…
+[79.04 - 85.04] The beaches, the warm weather, the diverse environment.
+[85.04 - 89.04] What are some things you don't really like about Africa?
+[89.04 - 91.04] Traffic.
+[91.04 - 97.04] Yeah. I feel you know.
+[97.04 - 99.04] When did you study at school?
+[99.04 - 103.04] Well I'm currently in school. I'm studying African Studies.
+[103.04 - 109.04] How did you get interested in African Studies?
+[119.04 - 121.04] That's great.
+[121.04 - 127.04] Do you think you're something shy or outgoing?
+[133.04 - 139.04] Sometimes when I'm doing things, I turn on the fish and the screen saver.
+[139.04 - 143.04] Hey, I know it's not Hawaii, but it's the best it's got.
+[143.04 - 145.04] What do you do to relax?
+[153.04 - 157.04] How are you at completing your homework?
+[163.04 - 177.04] When was the last time you argued with someone? And how did it happen?
+[177.04 - 187.04] Okay. What's something you feel, feels you have?
+[187.04 - 189.04] Can you tell me about that?
+[193.04 - 205.04] How did you get into a better situation?
+[205.04 - 209.04] How did you get into a better situation?
+[223.04 - 247.04] Tell me about the hardest decision you've ever made.
+[247.04 - 265.04] Okay. Tell me about your life or the things you feel you should be doing.
+[265.04 - 267.04] Tell me about that.
+[277.04 - 287.04] Yeah. I can't really talk about it.
+[287.04 - 291.04] Tell me about your relationship with your family.
+[307.04 - 327.04] What do you think your students feel?
+[337.04 - 365.04] How easy is it for you to get into sleep?
+[365.04 - 387.04] What are you looking for in sleep?
+[387.04 - 391.04] How have you been doing lately?
+[395.04 - 415.04] Why?
+[415.04 - 419.04] Have you ever been diagnosed with insomnia?
+[419.04 - 423.04] Have you been diagnosed with insomnia?
+[423.04 - 435.04] Tell me about the last time you felt really happy.
+[435.04 - 437.04] Tell me more about that.
+[453.04 - 473.04] How do you feel about your best friend describing you?
+[473.04 - 495.04] What's your favorite thing to do?
+[495.04 - 507.04] Is there anything you regret?
+[507.04 - 519.04] What advice would you give yourself?
+[519.04 - 531.04] Tell me how you spend your year with them.
+[531.04 - 545.04] What are some things you wish you could change about yourself?
+[545.04 - 569.04] Tell me about a time someone made you feel really bad about yourself.
+[569.04 - 579.04] What's something that's been happening to you?
+[579.04 - 583.04] Can you tell me about that?
+[599.04 - 617.04] I'm sure you can tell them too. I'm not much of a world explorer. Do you travel a lot?
+[617.04 - 627.04] What are you enjoying about traveling?
+[627.04 - 641.04] I enjoy discovering new people, new cultures, new things that go against what's normal for us and for myself.
+[641.04 - 655.04] When did you last come to the desert?
+[655.04 - 673.04] Nice! How did you feel around there?
+[673.04 - 677.04] What are you most proud of in your life?
+[677.04 - 681.04] I'm most proud that I've always been different.
+[681.04 - 695.04] That despite how many people have told me that I'm really weird or I'm odd or I think weird things, I've always maintained my original mentality.
+[695.04 - 723.04] I think I've lost everything in me. Thank you for being with me. Goodbye.
+[723.04 - 733.04] Bye!

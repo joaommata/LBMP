@@ -1,0 +1,121 @@
+[0.00 - 2.00] Okay.
+[9.00 - 11.00] Beep beep.
+[11.00 - 14.00] So once again, when she says goodbye, just press that button.
+[14.00 - 15.00] Okay.
+[15.00 - 17.00] Thank you.
+[22.00 - 26.00] Hi. I'm Ellie. Thanks for coming in today.
+[26.00 - 30.00] I was created to talk to people in a safe and secure environment.
+[30.00 - 35.00] I'm not a therapist, but I'm here to learn about people and would love to learn about you.
+[35.00 - 37.00] I'll ask a few questions to get us started.
+[37.00 - 43.00] And please feel free to tell me anything. Your answers are totally confidential.
+[43.00 - 44.00] Are you okay with this?
+[44.00 - 45.00] Yeah.
+[45.00 - 49.00] Okay. So, how are you doing today?
+[49.00 - 51.00] I'm doing alright. How are you doing?
+[51.00 - 55.00] That's good. Where are you from originally?
+[55.00 - 57.00] Northern Illinois.
+[57.00 - 61.00] Really? When did you move to LA?
+[61.00 - 63.00] Two and a half years ago.
+[63.00 - 66.00] How often do you go back to your hometown?
+[66.00 - 69.00] I haven't yet, since I've been here.
+[69.00 - 70.00] Why?
+[70.00 - 74.00] I haven't had a chance to. I'm going to go back later this year.
+[74.00 - 78.00] Cool. How does it compare to LA?
+[78.00 - 82.00] Colder. Or warmer.
+[82.00 - 86.00] I see what you mean. Why did you move to LA?
+[86.00 - 88.00] Work.
+[88.00 - 90.00] Are you happy you did that?
+[90.00 - 91.00] Yeah.
+[91.00 - 95.00] How easy was it for you to get used to living in LA?
+[95.00 - 98.00] It took a little while, but I got used to it.
+[98.00 - 101.00] Can you tell me about that?
+[101.00 - 110.00] No weather, variations, comparative, traffic, sunlight.
+[110.00 - 118.00] I'm sure you can tell by my shoes. I'm not much of a world explorer. Do you travel a lot?
+[118.00 - 120.00] A little bit.
+[120.00 - 123.00] What do you enjoy about traveling?
+[123.00 - 125.00] Seeing different things.
+[125.00 - 129.00] I'd love to hear about your trips.
+[129.00 - 136.00] Been to Europe a couple of times. Been around the country.
+[136.00 - 140.00] What's one of your most memorable experiences?
+[153.00 - 160.00] Cool. Do you consider yourself more shy or outgoing?
+[167.00 - 172.00] What do you do when you're annoyed?
+[172.00 - 177.00] I try to relax and breathe through it and move on.
+[177.00 - 180.00] How are you at controlling your temper?
+[180.00 - 183.00] Depends on the context.
+[183.00 - 188.00] When was the last time you argued with someone? And what was it about?
+[189.00 - 195.00] Probably yesterday and my children about them not doing what they were told to do.
+[195.00 - 201.00] Tell me about a situation that you wish you would handle differently.
+[201.00 - 208.00] Arguments with my wife where I should have probably been more patient and understanding.
+[208.00 - 211.00] Can you give me an example of that?
+[212.00 - 220.00] Hmm. Sometimes when it's more of a hormonal period like this week,
+[220.00 - 227.00] I should just probably breathe through things and recognize that she's going through things and I should just be more patient.
+[227.00 - 234.00] Okay. Tell me about the hardest decision you've ever had to make.
+[234.00 - 242.00] What I was going to do with my life.
+[244.00 - 248.00] How did you decide to do that?
+[248.00 - 257.00] It was easy when I was 19. I could just decide to do strange, difficult things and had the boldness to follow through with them.
+[257.00 - 260.00] What did you study at school?
+[260.00 - 264.00] Hebrew and Semitic studies and Classics.
+[264.00 - 268.00] That sounds interesting. Are you still working on that?
+[268.00 - 270.00] Kind of.
+[270.00 - 272.00] What's your dream job?
+[272.00 - 278.00] I'm in ministry and that's working out the way I kind of want it to be.
+[278.00 - 282.00] That's good.
+[282.00 - 288.00] Tell me about an event or something that you wish you could erase from your memory.
+[290.00 - 292.00] Hmm.
+[297.00 - 303.00] Some embarrassing things when I was a teenager probably.
+[303.00 - 310.00] Okay. Tell me about your relationship with your family.
+[310.00 - 313.00] It's pretty strong.
+[313.00 - 316.00] How close are you to your family?
+[316.00 - 321.00] I talk to my parents about once a day, maybe once every other day.
+[321.00 - 326.00] I constantly talk with my wife and children.
+[326.00 - 329.00] Tell me about your kids.
+[329.00 - 338.00] I've got four of them. They keep me very busy. They're between nine and three.
+[338.00 - 342.00] Do you find it easy to be a parent?
+[342.00 - 346.00] Sometimes. Most of the time, no.
+[346.00 - 350.00] What's the hardest thing about being a parent?
+[352.00 - 360.00] Character development, recognizing that they need space to grow.
+[360.00 - 365.00] Yeah. What's the best thing about being a parent?
+[365.00 - 373.00] When it works and you see character development and growth and exploration.
+[373.00 - 380.00] What are some ways that you're different as a parent than your parents?
+[380.00 - 386.00] I have more standards, more willingness to enforce standards.
+[386.00 - 392.00] Who's someone that's been a positive influence in your life?
+[392.00 - 397.00] My wife.
+[397.00 - 400.00] Can you tell me about that?
+[400.00 - 414.00] She's been there for me for 15 years now and helped give me the self-confidence to be who I am.
+[414.00 - 420.00] That's so good to hear. How easy is it for you to get a good night's sleep?
+[420.00 - 425.00] Better now that I'm not drinking as much pop at night.
+[425.00 - 428.00] What are you like when you don't sleep long?
+[428.00 - 433.00] Irritable, shorter temper.
+[433.00 - 438.00] How have you been feeling lately?
+[438.00 - 448.00] Pretty good. I've been making some better decisions with my diet. It's doing better.
+[448.00 - 456.00] That's great. Have you noticed any changes in your behavior or thoughts lately?
+[460.00 - 468.00] I feel a little bit more empowered. Not as defeatist as I was in a process where I wasn't eating very well, wasn't exercising.
+[468.00 - 474.00] Wasn't able to get doing those things. I've been doing a little better at that recently in the past few weeks.
+[474.00 - 479.00] Have you ever been diagnosed with PTSD?
+[479.00 - 482.00] No.
+[482.00 - 485.00] Have you been diagnosed with depression?
+[485.00 - 487.00] Nope.
+[487.00 - 493.00] Tell me about the last time you felt really happy.
+[493.00 - 503.00] Really happy? Probably a few weeks ago at the beach when everybody was having a good time.
+[503.00 - 509.00] How would your best friend describe you?
+[509.00 - 522.00] Hmm. Confident, loud, intelligent.
+[522.00 - 523.00] Okay.
+[523.00 - 525.00] I guess.
+[525.00 - 532.00] What are some things you wish you could change about yourself?
+[532.00 - 548.00] Hmm. More patient. More able to automatically engage with people as opposed to being hesitant at first.
+[548.00 - 558.00] Hmm. Tell me about a time when someone made you feel really badly about yourself.
+[558.00 - 573.00] Oh, middle school when I was always the low man on the totem pole socially. Being the constant butt of jokes.
+[573.00 - 580.00] What advice would you give yourself 10 or 20 years ago?
+[580.00 - 589.00] Don't fall in the trap of thinking that middle and high school is life.
+[589.00 - 596.00] Tell me how you spend your ideal weekend.
+[596.00 - 604.00] Um, sometime, you know, with children and family doing some fun activity. Beach or museum or something.
+[604.00 - 612.00] Sometime with the wife. Sometime just by myself to read and kind of refocus.
+[612.00 - 622.00] Okay. Tell me about something you did recently that you really enjoyed.
+[622.00 - 627.00] Hmm.
+[627.00 - 635.00] Participate in some high level academic discussions.
+[635.00 - 646.00] Cool. What are you most proud of in your life?
+[646.00 - 654.00] Hmm.
+[654.00 - 664.00] That I've been able to maintain the standard and quality of life for myself and my family that I've been able to do so far.
+[664.00 - 672.00] That's great. Okay. I think I've asked everything I need to. Thanks for sharing your thoughts with me.
+[672.00 - 685.00] Goodbye.
+[685.00 - 690.00] Okay.

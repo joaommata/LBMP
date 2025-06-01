@@ -1,0 +1,151 @@
+[0.00 - 10.00] I'm going to start up the virtual human.
+[10.00 - 12.00] She's going to chat with you for a bit.
+[12.00 - 14.00] And when she sends, she'll let you know.
+[14.00 - 16.00] I'll put the doorbell over here.
+[16.00 - 18.00] You can let me know when she sends.
+[18.00 - 19.00] Okay?
+[19.00 - 24.00] Thank you.
+[24.00 - 26.00] Hi, I'm Ellie.
+[26.00 - 28.00] Thanks for coming in today.
+[28.00 - 36.00] I'm not a therapist, but I'm here to learn about people and I'd love to learn about you.
+[36.00 - 38.00] I'll ask a few questions to get us started.
+[38.00 - 40.00] And please feel free to tell me anything.
+[40.00 - 42.00] Your answers are fully confidential.
+[42.00 - 44.00] Are you okay with this?
+[44.00 - 46.00] Yes.
+[46.00 - 48.00] Okay. So, how are you doing today?
+[48.00 - 50.00] I'm okay.
+[50.00 - 52.00] That's good. Where are you from originally?
+[52.00 - 54.00] I was born in San Bernardino, California.
+[54.00 - 56.00] Really?
+[56.00 - 58.00] Yes.
+[58.00 - 60.00] Where do you live?
+[60.00 - 62.00] I'm staying with a sister in North Hollywood.
+[62.00 - 64.00] What's it like for you living with them?
+[64.00 - 66.00] She makes it as comfortable as possible.
+[66.00 - 68.00] Okay. What are some things you really like about LA?
+[68.00 - 70.00] I love the weather.
+[70.00 - 72.00] And the air is so nice.
+[72.00 - 74.00] I love the weather.
+[74.00 - 76.00] I love the weather.
+[76.00 - 78.00] I love the weather.
+[78.00 - 80.00] I love the weather.
+[80.00 - 82.00] I love the weather.
+[82.00 - 86.00] And the entertainment.
+[86.00 - 88.00] And the public transportation.
+[88.00 - 94.00] What are some things you don't really like about LA?
+[94.00 - 98.00] It's very difficult to find full-time employment.
+[98.00 - 104.00] And some of the people aren't as friendly as people from the South.
+[104.00 - 106.00] Because I lived in the South before.
+[106.00 - 110.00] And those are the only two things.
+[110.00 - 116.00] Do you travel a lot?
+[116.00 - 118.00] No, I don't.
+[118.00 - 120.00] What did you study at school?
+[120.00 - 124.00] I was an English major in college.
+[124.00 - 126.00] Are you still working on that?
+[126.00 - 128.00] I haven't finished. Yes, I am.
+[128.00 - 130.00] What's your dream job?
+[130.00 - 134.00] I'd like to be a recording singer.
+[134.00 - 136.00] Really?
+[136.00 - 138.00] Yes.
+[138.00 - 140.00] When did you decide to do that?
+[140.00 - 148.00] I've always loved to sing from the time that I was a child.
+[148.00 - 150.00] Do you consider yourself an introvert?
+[150.00 - 154.00] At times.
+[154.00 - 156.00] Can you tell me about that?
+[156.00 - 164.00] When I'm alone, I am extremely...
+[164.00 - 170.00] I guess I would say...
+[170.00 - 172.00] Inter-minded.
+[172.00 - 180.00] I have a lot of thoughts and I keep them to myself.
+[180.00 - 186.00] So if I'm in that mode, then I don't really interact with people.
+[186.00 - 192.00] But I can also interact with people if I change modes.
+[192.00 - 194.00] Okay.
+[194.00 - 196.00] Okay, listen.
+[196.00 - 198.00] What do you do to relax?
+[198.00 - 204.00] I've just started doing yoga a couple of weeks ago.
+[204.00 - 206.00] Cool.
+[206.00 - 208.00] When was the last time that happened?
+[208.00 - 210.00] Last week on Thursday.
+[210.00 - 212.00] No, on Tuesday.
+[212.00 - 216.00] What do you do when you're annoyed?
+[216.00 - 232.00] Usually I just try to remain quiet and listen to the situation, if it's a person or if it's a situation that I'm dealing with myself that's annoying.
+[232.00 - 240.00] I try to think of alternate ways that would make the situation better.
+[240.00 - 244.00] Come up with alternate plans so I won't be annoyed.
+[244.00 - 250.00] How are you able to control your temper?
+[250.00 - 252.00] Pretty good.
+[252.00 - 260.00] When was the last time you argued with someone and what was it about?
+[260.00 - 268.00] I may have had an argument a few weeks ago just about timeliness.
+[268.00 - 272.00] Meeting on time and showing up on time.
+[272.00 - 280.00] It was actually last Monday.
+[280.00 - 282.00] Is there anything you regret?
+[282.00 - 284.00] No.
+[284.00 - 286.00] What advice would you give yourself?
+[286.00 - 288.00] I don't know.
+[288.00 - 290.00] I don't know.
+[290.00 - 292.00] I don't know.
+[292.00 - 294.00] Is there anything you regret?
+[294.00 - 296.00] No.
+[296.00 - 300.00] What advice would you give yourself 10 or 20 years ago?
+[300.00 - 308.00] To just be cautious of people's intentions.
+[308.00 - 318.00] And to listen really well because people usually tell you what their intentions are without even realizing it.
+[318.00 - 326.00] How would your best friend describe you?
+[326.00 - 328.00] A good listener.
+[328.00 - 330.00] Patient.
+[330.00 - 332.00] Fun.
+[332.00 - 334.00] Loving.
+[334.00 - 336.00] Generous.
+[336.00 - 342.00] Depressed sometimes.
+[342.00 - 348.00] But generally a good person.
+[348.00 - 350.00] That's good.
+[350.00 - 354.00] Have you ever served in the military?
+[354.00 - 356.00] No I have not.
+[356.00 - 358.00] Have you ever been diagnosed with PTSD?
+[358.00 - 360.00] Yes.
+[360.00 - 362.00] How long ago were you diagnosed?
+[362.00 - 366.00] Within a year and a half ago.
+[366.00 - 370.00] Did you think you had a problem before you found out?
+[370.00 - 382.00] I just knew that I often thought about situations that happened in the past and kind of blamed the situation for my future.
+[382.00 - 384.00] Can you verify something?
+[384.00 - 390.00] Certain settings.
+[390.00 - 392.00] Can you tell me about that?
+[392.00 - 406.00] If I see certain types of individuals in certain settings it just reminds me of when I was younger when things happened and changed my future plans.
+[406.00 - 416.00] So I used to just try to avoid those types of situations and certain types of people at that time.
+[416.00 - 438.00] Do you still go to therapy now?
+[438.00 - 440.00] I do.
+[440.00 - 444.00] Is going to therapy helping you?
+[444.00 - 448.00] I'd like to believe that it does.
+[448.00 - 452.00] What sort of changes have you noticed since you've been on the therapy?
+[452.00 - 456.00] I don't worry as much.
+[456.00 - 462.00] How has seeing a therapist affected you?
+[462.00 - 478.00] It's just allowed me to know that actually speaking about the issues relieves me of the tension of holding them inside.
+[478.00 - 482.00] So that's how it's helped me.
+[482.00 - 484.00] How hard is that?
+[484.00 - 512.00] At first it was difficult just being open with my internal emotions but now it actually is good because I know that when things are occurring if I'm able to communicate about them with a certain individual it relieves me of the stress of trying to figure out everything alone.
+[512.00 - 532.00] And oftentimes by speaking about the issues it allows me to come up with an alternative plan that may be better just because I'm hearing myself speak of the issue.
+[532.00 - 548.00] Are you happy you did that?
+[548.00 - 560.00] Okay. How easy is it for you to get a good night's sleep?
+[562.00 - 574.00] I'm planning things and if I'm planning things it affects my sleep. I might wake up in the middle of the night. So sometimes it's easy and sometimes it isn't.
+[574.00 - 577.00] What are you like when you don't sleep well?
+[577.00 - 584.00] Irritable. Just very irritable.
+[584.00 - 588.00] Okay. How have you been feeling lately?
+[588.00 - 598.00] I was feeling anxious but now I'm calmer.
+[598.00 - 603.00] Today I don't but I have in the past week.
+[603.00 - 621.00] I was in the midst of searching for a stable place to live and it was just taking so long to find a stable place to live so I was becoming anxious.
+[621.00 - 626.00] Thank you.
+[626.00 - 638.00] Yes.
+[638.00 - 643.00] Maybe in October.
+[643.00 - 649.00] When my mother first came she came to visit me in October and when she first got here we had a good time.
+[649.00 - 663.00] The first couple of days. So I was happy to see her. I hadn't seen her in over a year.
+[663.00 - 680.00] I'm proud that I'm able to adjust to different situations. The older I've gotten the more adaptable I am in different environments and different situations.
+[680.00 - 695.00] I've learned how to be more resourceful. So I'm proud of that.
+[695.00 - 702.00] I'm sorry?
+[702.00 - 722.00] My dad, my sister, she's positive because she's finished her master's degree. My mom sometimes. My best friend is very positive because she just started her new business two years ago and she's very enthusiastic about it.
+[722.00 - 732.00] So that's an inspiration.
+[732.00 - 747.00] When someone lies consistently.
+[747.00 - 764.00] I listen very very well. Sometimes I give good advice. I'm a good friend. I normally do the things that I say I'm going to do so I'm dependable.
+[764.00 - 784.00] I communicate well and I enjoy people's company most of the time especially if they're in good moods.
+[784.00 - 802.00] Being around positive people. Music puts me in a good mood. Comedy shows put me in a good mood. Good food puts me in a good mood.
+[802.00 - 813.00] When I graduated from high school. It was a really, I will never forget it. It was a wonderful day.
+[813.00 - 832.00] Very confident, accomplished and I was extremely optimistic and hopeful for the future.
+[832.00 - 852.00] You're welcome. Bye.
+[862.00 - 872.00] Thank you.

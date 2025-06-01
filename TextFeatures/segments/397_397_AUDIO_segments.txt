@@ -1,0 +1,153 @@
+[0.00 - 28.62] cup of
+[28.62 - 29.62] it
+[30.00 - 37.00] I'm not a therapist, but I'm here to learn about people and would love to learn about
+[37.00 - 38.00] you.
+[38.00 - 39.00] I'll ask a few questions as we get started.
+[39.00 - 40.00] And please feel free to tell me everything.
+[40.00 - 41.00] Your answers are totally confidential.
+[41.00 - 42.00] Are you okay with this?
+[42.00 - 43.00] Sure.
+[43.00 - 44.00] Okay.
+[44.00 - 45.00] So, how are you doing today?
+[45.00 - 46.00] I'm good.
+[46.00 - 47.00] I'm about to cut a cold.
+[47.00 - 48.00] That's good.
+[48.00 - 49.00] What are you from originally?
+[49.00 - 50.00] LA.
+[50.00 - 51.00] Born and raised.
+[51.00 - 52.00] I'm from LA.
+[52.00 - 53.00] I'm a college student.
+[53.00 - 54.00] I'm a college student.
+[54.00 - 55.00] I'm a college student.
+[55.00 - 56.00] I'm a college student.
+[56.00 - 57.00] I'm a college student.
+[57.00 - 58.00] I'm a college student.
+[58.00 - 59.00] I'm a college student.
+[59.00 - 60.00] Born and raised.
+[60.00 - 61.00] Born and raised.
+[61.00 - 64.00] What are some things you really like about LA?
+[64.00 - 68.00] It's home, food, people, culture, traffic.
+[68.00 - 71.00] What are some things you don't really like about LA?
+[71.00 - 74.00] There's a lot of us.
+[74.00 - 75.00] Too many of us probably.
+[75.00 - 76.00] Yeah.
+[76.00 - 77.00] I see what you mean.
+[77.00 - 78.00] I'm sure you can tell by my shoes.
+[78.00 - 79.00] I'm not much of a world explorer.
+[79.00 - 80.00] Do you travel a lot?
+[80.00 - 81.00] I have in the past.
+[81.00 - 82.00] I haven't traveled lately.
+[82.00 - 83.00] I'm not a world explorer.
+[83.00 - 84.00] I'm not a world explorer.
+[84.00 - 85.00] I'm not a world explorer.
+[85.00 - 86.00] I'm not a world explorer.
+[86.00 - 87.00] I'm not a world explorer.
+[87.00 - 88.00] I'm not a world explorer.
+[89.00 - 91.00] What do you enjoy about traveling?
+[91.00 - 92.00] The destination.
+[92.00 - 94.00] I don't enjoy the traveling anymore at all.
+[94.00 - 96.00] I did when I was young, but no longer.
+[96.00 - 98.00] It's the destination point.
+[98.00 - 100.00] I'd love to hear about all your trips.
+[100.00 - 101.00] Okay.
+[101.00 - 105.00] In 92, I went to Spain.
+[105.00 - 108.00] My grandma, my father's mother was born in Spain.
+[108.00 - 110.00] I went back to trace her roots.
+[110.00 - 115.00] I spent a week in Madrid, a week in Barcelona, and a week in Mallorca.
+[115.00 - 117.00] I had a great time.
+[117.00 - 118.00] That's great.
+[120.00 - 122.00] What's the best memorable experiences?
+[127.00 - 129.00] It was an everyday thing.
+[129.00 - 130.00] People were friendly.
+[130.00 - 135.00] Finding out some of the things about my grandmother and her family were interesting.
+[138.00 - 140.00] What did you study at school?
+[140.00 - 144.00] I studied polysci and sociology.
+[145.00 - 147.00] How did you decide to do that?
+[153.00 - 155.00] Are you still working on that?
+[157.00 - 159.00] What's your dream job?
+[175.00 - 178.00] Are you still shy or outgoing?
+[197.00 - 201.00] Sometimes when I'm feeling tense, I turn on the fish tank screensaver.
+[202.00 - 206.00] Hey, I know it's not Hawaii, but it's the best I've got.
+[206.00 - 208.00] What do you do to relax?
+[212.00 - 213.00] Cool.
+[213.00 - 215.00] Like what?
+[222.00 - 225.00] How are you at controlling your temper?
+[225.00 - 230.00] When was the last time you argued with someone and what was it about?
+[245.00 - 247.00] Can you tell me about that?
+[255.00 - 257.00] How did you feel in that moment?
+[267.00 - 268.00] Yeah.
+[269.00 - 271.00] Tell me about your kids.
+[286.00 - 289.00] Do you find it easy to be a parent?
+[308.00 - 311.00] What's the hardest thing about being a parent?
+[315.00 - 318.00] What's the best thing about being a parent?
+[326.00 - 330.00] What are some ways that you're different as a parent than your parents?
+[346.00 - 349.00] Tell me about your relationship with your family.
+[349.00 - 352.00] Tell me about your relationship with your family.
+[374.00 - 375.00] Okay.
+[376.00 - 378.00] Who's someone that's been a positive influence in your life?
+[380.00 - 382.00] Can you tell me about that?
+[383.00 - 385.00] Can you tell me about that?
+[403.00 - 405.00] That's sad, but it's a fear.
+[408.00 - 411.00] What's something you feel guilty about?
+[413.00 - 415.00] Have you done anything to avoid it?
+[436.00 - 440.00] Tell me about a situation that you wish you had had a different room.
+[442.00 - 445.00] My second marriage probably.
+[446.00 - 449.00] She wanted to have children.
+[449.00 - 451.00] I already had my children with my first wife.
+[451.00 - 457.00] I had told her initially that I did not want to have children.
+[457.00 - 459.00] I had three.
+[459.00 - 461.00] I was good with that.
+[461.00 - 465.00] She indicated that she did not want to have children.
+[465.00 - 469.00] So we got married and then her best friend got pregnant.
+[469.00 - 472.00] And our relationship changed.
+[472.00 - 476.00] I basically wouldn't relent and we ended up getting divorced.
+[476.00 - 485.00] I don't know that I would have had children with her, but I wasn't very flexible in the process.
+[485.00 - 487.00] How hard is that?
+[487.00 - 489.00] What, to be flexible?
+[489.00 - 491.00] I don't know.
+[491.00 - 494.00] Sometimes I am, sometimes I'm not.
+[494.00 - 496.00] Okay.
+[497.00 - 501.00] Tell me about the hardest decision you've ever had to make.
+[510.00 - 512.00] What made you decide to do that?
+[526.00 - 528.00] Okay.
+[531.00 - 535.00] Tell me about an event or something that you wish you could erase from your memory.
+[547.00 - 549.00] Can you tell me about that?
+[556.00 - 558.00] I see.
+[561.00 - 564.00] How easy is it for you to get a good night's sleep?
+[579.00 - 582.00] What are you like when you don't sleep well?
+[586.00 - 588.00] How have you been feeling lately?
+[616.00 - 620.00] Wow.
+[620.00 - 624.00] Have you noticed any changes in your behavior or thoughts lately?
+[632.00 - 634.00] Have you ever been diagnosed with PTSD?
+[638.00 - 640.00] Have you been diagnosed with depression?
+[647.00 - 650.00] Tell me about the last time you felt really happy.
+[672.00 - 674.00] That's great.
+[674.00 - 676.00] Is there anything you regret?
+[680.00 - 682.00] Can you give me an example of that?
+[698.00 - 700.00] Like what?
+[704.00 - 708.00] What advice would you give yourself 10 or 20 years ago?
+[708.00 - 712.00] What advice would you give yourself 10 or 20 years ago?
+[733.00 - 737.00] What are some things you wish you could change about yourself?
+[738.00 - 740.00] About myself?
+[751.00 - 756.00] If I don't like you, it can be very difficult if I don't like you.
+[757.00 - 759.00] I'd very much like to change that.
+[761.00 - 763.00] It has in the past, yeah.
+[768.00 - 770.00] What do you think about yourself?
+[798.00 - 800.00] Yeah.
+[806.00 - 809.00] What would you say are some of your best qualities?
+[828.00 - 832.00] Okay. Tell me about something you did recently that you really enjoyed.
+[858.00 - 860.00] What do you think of today's kids?
+[888.00 - 890.00] What are you most proud of in your life?
+[914.00 - 916.00] Okay. I think I've asked everything I need to.
+[916.00 - 918.00] I appreciate it.
+[918.00 - 920.00] Thanks for sharing your thoughts with me.
+[920.00 - 922.00] Okay. Nice chatting with you.
+[922.00 - 924.00] Goodbye.
+[926.00 - 928.00] Alrighty.
+[936.00 - 938.00] Should I take a picture of you?
+[938.00 - 940.00] She looks like a girl who went to high school.
+[940.00 - 942.00] Sorry?
+[942.00 - 944.00] She looks like a girl.
+[944.00 - 946.00] She looks like a girl.
+[948.00 - 950.00] Wow. You have good memory.
+[950.00 - 952.00] Now you can head back over to the other...

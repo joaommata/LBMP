@@ -1,0 +1,429 @@
+[0.00 - 2.00] Okay, that looks good.
+[8.00 - 14.00] Okay, when she says goodbye, we're just going to press this button and I'll come back over.
+[14.00 - 17.00] Okay? So she'll start asking questions after.
+[23.00 - 27.00] Hi, I'm Ali. Thanks for coming in today.
+[27.00 - 31.00] I was created to talk to people in a safe and secure environment.
+[31.00 - 36.00] I'm not a therapist, but I'm here to learn about people and I'd love to learn about you.
+[36.00 - 39.00] I'll ask a few questions to get us started.
+[39.00 - 44.00] And please feel free to tell me anything. Your answers are fully confidential.
+[44.00 - 46.00] Are you okay with this?
+[46.00 - 47.00] Sure.
+[47.00 - 51.00] Okay. So, how are you doing today?
+[51.00 - 54.00] Good, I guess.
+[54.00 - 58.00] That's good. Where are you from originally?
+[60.00 - 64.00] Really? When did you move to LA?
+[66.00 - 69.00] How often do you go back to your hometown?
+[73.00 - 74.00] Why?
+[78.00 - 82.00] Okay. Why did you move to LA?
+[85.00 - 92.00] Well, I guess you're not programmed with this knowledge, but Katrina happened in 2005.
+[93.00 - 100.00] Wow. How easy was it for you to get used to living in LA?
+[101.00 - 104.00] Not really.
+[105.00 - 107.00] Want to tell me about that?
+[108.00 - 110.00] Um...
+[111.00 - 112.00] Where to begin?
+[112.00 - 117.00] Uh, just LA is different culturally. I have a different culture out here.
+[117.00 - 120.00] It's just a different place.
+[120.00 - 125.00] Mm-hmm. What are some things you really like about LA?
+[125.00 - 130.00] Um, it's bike-friendly. Louisiana isn't.
+[130.00 - 133.00] New Orleans, for that matter, really isn't.
+[133.00 - 137.00] Now they're trying to be, but it just isn't that successful.
+[138.00 - 141.00] What are some things you know about LA?
+[142.00 - 144.00] The drivers. They're crazy.
+[144.00 - 148.00] I see what you mean.
+[149.00 - 155.00] I'm sure you can tell by my shoes. I'm not much of a world explorer. Do you travel a lot?
+[156.00 - 160.00] Not really, kind of, but not much anymore.
+[160.00 - 162.00] Why?
+[162.00 - 165.00] I don't have the money. Kind of broke.
+[165.00 - 169.00] I understand. What do you enjoy about traveling?
+[170.00 - 174.00] Just being able to go on an adventure.
+[175.00 - 178.00] I'd love to hear about all your trips.
+[179.00 - 186.00] Um, let's see. I once went to Comic-Con on a bicycle, like a three-wheel bike.
+[187.00 - 192.00] Um, and that was pretty fun. Kind of scary and dangerous.
+[192.00 - 196.00] Nearly got killed. It was scary.
+[199.00 - 202.00] What's one of your most memorable experiences?
+[203.00 - 205.00] Traveling or just in general.
+[205.00 - 207.00] Whatever comes to your mind.
+[208.00 - 215.00] Hmm. Um, I gotta say...
+[216.00 - 221.00] I gotta say we were heading out of, um...
+[223.00 - 229.00] We were heading off the PCH and going into Laguna.
+[230.00 - 234.00] And Laguna has this really steep hill and on Sundays it's full of traffic.
+[235.00 - 244.00] And I remember going down the hill and my brakes weren't working.
+[244.00 - 248.00] And I was trying to hit my brakes and trying to hit my brakes and they just wouldn't click.
+[249.00 - 252.00] And I was like, oh god.
+[252.00 - 256.00] And I'm on a three-wheel bike so I'm larger than most bikes.
+[256.00 - 259.00] And I'm like zipping in between gridlock traffic.
+[259.00 - 263.00] Going down a hill, unable to brake.
+[264.00 - 272.00] And I'm going down and suddenly there's this car that veers right into...
+[272.00 - 275.00] Essentially where I'm trying to go.
+[275.00 - 280.00] So I turn sharply in front of...
+[280.00 - 282.00] Between this bus and this truck.
+[282.00 - 288.00] And literally end up going sideways through traffic, through oncoming traffic.
+[288.00 - 294.00] And then looping back through oncoming traffic, back into the right traffic.
+[294.00 - 296.00] Still without any brakes.
+[296.00 - 305.00] And not managing to keep my bike from rolling, which is painful when your bike rolls.
+[305.00 - 308.00] It kind of hurts. A lot.
+[310.00 - 312.00] So, yeah.
+[313.00 - 315.00] Yeah, that's it.
+[321.00 - 324.00] Various different things. Anthropology, visual effects.
+[326.00 - 328.00] Kind of weird, but yeah.
+[335.00 - 339.00] I've always had a fascination with film.
+[339.00 - 346.00] And I think the way people do things and go about things is fascinating.
+[347.00 - 350.00] Just as like the mob mentality of people.
+[351.00 - 352.00] Yeah.
+[353.00 - 355.00] You're a dream job.
+[364.00 - 366.00] Okay.
+[367.00 - 371.00] Do you consider yourself in shy or outgoing?
+[377.00 - 378.00] Why?
+[381.00 - 386.00] You know, I've never been afraid of what people think of me.
+[386.00 - 389.00] Like people I don't know.
+[390.00 - 393.00] I'm not afraid of what they think.
+[394.00 - 398.00] I'm more concerned with the people I know and what they think of me.
+[398.00 - 399.00] I guess.
+[399.00 - 403.00] So being outgoing just doesn't really affect me.
+[411.00 - 415.00] Hey, I know it's not Hawaii, but it's the best I've got.
+[415.00 - 418.00] What do you do to relax?
+[440.00 - 441.00] That's fine.
+[441.00 - 444.00] How are you at controlling your temper?
+[448.00 - 450.00] Not good.
+[450.00 - 452.00] Does that often happen to you, sometimes?
+[453.00 - 455.00] Frequently.
+[456.00 - 458.00] Can you tell me about that?
+[458.00 - 459.00] Um.
+[463.00 - 464.00] Uh.
+[465.00 - 469.00] In high school, I shoved somebody's head through a locker.
+[471.00 - 472.00] Um.
+[473.00 - 474.00] Yeah.
+[475.00 - 477.00] Yeah, that's not good.
+[477.00 - 480.00] Don't ever shove someone's head into a locker.
+[480.00 - 482.00] That's a great way to get suspended.
+[483.00 - 484.00] Um.
+[484.00 - 485.00] I don't know.
+[485.00 - 486.00] Yeah, things like that.
+[486.00 - 489.00] Just getting into fights.
+[498.00 - 499.00] Um.
+[499.00 - 501.00] Like a serious argument?
+[502.00 - 504.00] What are the things you like?
+[505.00 - 506.00] Um.
+[506.00 - 507.00] Chhh.
+[509.00 - 510.00] Uh.
+[511.00 - 512.00] I guess?
+[512.00 - 513.00] Like.
+[513.00 - 516.00] This argument over.
+[519.00 - 520.00] Over.
+[521.00 - 522.00] Um.
+[523.00 - 530.00] I guess over like, uh, like viewpoints on like gun control and gun control laws.
+[532.00 - 533.00] I mean.
+[534.00 - 535.00] I was like.
+[535.00 - 537.00] Yesterday evening.
+[537.00 - 539.00] How did you feel about that?
+[539.00 - 540.00] It was.
+[542.00 - 546.00] It was an argument about, you know, gun control regulation.
+[546.00 - 549.00] I mean, it doesn't really affect me personally.
+[550.00 - 553.00] But that was like the last argument I got into.
+[553.00 - 555.00] That's kind of what you specified, I think.
+[555.00 - 556.00] Okay.
+[557.00 - 560.00] Tell me about a situation that you wish you would have in a different room.
+[561.00 - 562.00] Ooh.
+[564.00 - 565.00] I don't know.
+[566.00 - 567.00] Ooh.
+[570.00 - 571.00] Um.
+[573.00 - 574.00] Uh, my entire life?
+[574.00 - 575.00] Um.
+[576.00 - 577.00] Ha ha.
+[578.00 - 579.00] Uh.
+[581.00 - 582.00] Ah.
+[583.00 - 584.00] Um.
+[587.00 - 590.00] About two years ago.
+[590.00 - 592.00] I broke up with.
+[592.00 - 593.00] With.
+[593.00 - 594.00] Like.
+[594.00 - 596.00] As everyone calls her my evil ex.
+[597.00 - 598.00] And um.
+[601.00 - 602.00] Yeah.
+[602.00 - 603.00] It was just.
+[604.00 - 605.00] It was bad.
+[606.00 - 608.00] The whole, the whole thing went down bad.
+[608.00 - 609.00] I mean.
+[610.00 - 611.00] Uh.
+[611.00 - 612.00] Uh.
+[613.00 - 616.00] I think I've calmed down a lot since then.
+[617.00 - 619.00] Like just as a person as a whole.
+[619.00 - 620.00] But.
+[620.00 - 621.00] I mean.
+[621.00 - 624.00] I was angry and stuff.
+[624.00 - 627.00] I think I like went riding my bike for like.
+[628.00 - 631.00] Hundreds plus miles in a singular day.
+[631.00 - 633.00] And I was in a ton of pain.
+[634.00 - 635.00] Like.
+[635.00 - 638.00] Later in the evening I got home I was like oh god.
+[638.00 - 639.00] Like I could barely walk.
+[639.00 - 640.00] Um.
+[641.00 - 642.00] And yeah.
+[642.00 - 644.00] I think running off and.
+[644.00 - 649.00] Like going on like extreme cycling spree was not good.
+[649.00 - 650.00] But it was better than like.
+[651.00 - 653.00] Eating too much and like.
+[653.00 - 654.00] Just.
+[654.00 - 656.00] Over eating because I was depressed.
+[657.00 - 658.00] But yeah.
+[658.00 - 659.00] Like we.
+[659.00 - 661.00] We fought and screamed and it was.
+[661.00 - 662.00] It was not good.
+[662.00 - 663.00] Like we didn't physically fight.
+[663.00 - 666.00] It was more like a screaming match of death.
+[675.00 - 676.00] Hmm.
+[676.00 - 677.00] Um.
+[677.00 - 682.00] I don't think I've had a singular hard decision.
+[682.00 - 685.00] I've ever had to make.
+[685.00 - 686.00] Because.
+[686.00 - 689.00] My my biggest thing.
+[689.00 - 692.00] In life.
+[692.00 - 694.00] Is.
+[694.00 - 695.00] Don't.
+[695.00 - 697.00] You know don't regret.
+[697.00 - 699.00] Don't regret.
+[699.00 - 702.00] The the things you do.
+[702.00 - 704.00] Just regret the odds.
+[704.00 - 707.00] Just regret the opportunities you've missed.
+[707.00 - 709.00] And that's like had to come with me.
+[709.00 - 711.00] That's like had to.
+[711.00 - 714.00] I've had to like learn that in the past like two years.
+[714.00 - 719.00] Like two years ago I totally just could not grasp that concept.
+[719.00 - 722.00] And to answer your question.
+[722.00 - 724.00] I think thinking about it.
+[724.00 - 727.00] The hardest decision I've had to make.
+[727.00 - 730.00] Is.
+[730.00 - 732.00] I'd say.
+[732.00 - 733.00] Probably.
+[733.00 - 737.00] Probably.
+[737.00 - 739.00] Probably to break up with my ex.
+[739.00 - 741.00] Probably.
+[741.00 - 743.00] Um.
+[743.00 - 745.00] Ooh.
+[745.00 - 747.00] Um.
+[747.00 - 749.00] Where do I begin?
+[749.00 - 751.00] Um.
+[751.00 - 754.00] My ex was not a good person.
+[754.00 - 757.00] Just in any way shape or form of the word.
+[757.00 - 759.00] Um.
+[759.00 - 762.00] She did some things that I wasn't entirely comfortable with.
+[762.00 - 764.00] Um.
+[764.00 - 767.00] Just to the people around her and to me.
+[767.00 - 769.00] Um.
+[769.00 - 771.00] I was just.
+[771.00 - 773.00] I was just.
+[773.00 - 775.00] I was just.
+[775.00 - 777.00] I was just.
+[777.00 - 779.00] I was just.
+[779.00 - 782.00] To the people around her and to me.
+[782.00 - 785.00] And.
+[785.00 - 791.00] I.
+[791.00 - 793.00] You know.
+[793.00 - 796.00] They say you're supposed to forgive people.
+[796.00 - 798.00] For making mistakes.
+[798.00 - 801.00] Or doing things.
+[801.00 - 805.00] And I just I think there's some things you can't forgive people for.
+[805.00 - 808.00] No matter how hard you try.
+[808.00 - 813.00] And I think there's some things that once done.
+[813.00 - 817.00] They can't be undone.
+[817.00 - 819.00] They just.
+[819.00 - 822.00] They're the way that they are.
+[822.00 - 824.00] And I think.
+[824.00 - 830.00] I think after what she did.
+[830.00 - 833.00] I like I just.
+[833.00 - 835.00] Things just fell apart after that.
+[835.00 - 836.00] It just.
+[836.00 - 837.00] We.
+[837.00 - 840.00] Despite us trying.
+[840.00 - 842.00] It just it didn't work out.
+[842.00 - 845.00] I mean.
+[845.00 - 846.00] I don't know.
+[846.00 - 850.00] I don't really want to talk about exactly what happened.
+[850.00 - 853.00] Okay.
+[853.00 - 858.00] Tell me about an event or something that you or she erased from your memory.
+[858.00 - 860.00] Oh geez.
+[860.00 - 864.00] Oh man.
+[864.00 - 865.00] I don't know.
+[865.00 - 873.00] Erase from my memory or just erase from ever happening.
+[873.00 - 874.00] Huh.
+[874.00 - 875.00] I don't.
+[875.00 - 877.00] You know that's hard.
+[877.00 - 882.00] Katrina.
+[882.00 - 887.00] Just the experience of Katrina for starters.
+[887.00 - 890.00] My ex.
+[890.00 - 892.00] I guess between those two.
+[892.00 - 893.00] It's kind of hard.
+[893.00 - 897.00] I'd actually rather lean towards Katrina.
+[897.00 - 899.00] Because that was just that.
+[899.00 - 901.00] That was not.
+[901.00 - 908.00] I mean I guess you don't exactly know about it but.
+[908.00 - 913.00] In 2005.
+[913.00 - 918.00] This giant storm hit.
+[918.00 - 921.00] New Orleans Louisiana.
+[921.00 - 923.00] Killed a whole bunch of people.
+[923.00 - 928.00] Leveled the town.
+[928.00 - 930.00] And.
+[930.00 - 936.00] I lost a lot of friends during the storm.
+[936.00 - 938.00] I mean I'm kind of.
+[938.00 - 939.00] I'm getting over it.
+[939.00 - 941.00] But.
+[941.00 - 943.00] It's still.
+[943.00 - 945.00] It's still there.
+[945.00 - 948.00] And I think.
+[948.00 - 950.00] I don't know.
+[950.00 - 952.00] I mean.
+[952.00 - 953.00] You can try and look at.
+[953.00 - 958.00] You can try your best to try and find something positive.
+[958.00 - 959.00] In that.
+[959.00 - 960.00] But there's just there's nothing.
+[960.00 - 961.00] The only.
+[961.00 - 962.00] Thing.
+[962.00 - 965.00] You can do.
+[965.00 - 967.00] Is.
+[967.00 - 972.00] Just think that was like a freak accident and it will never happen again.
+[972.00 - 973.00] So.
+[973.00 - 976.00] I live in LA and you know.
+[976.00 - 978.00] Earthquakes.
+[978.00 - 979.00] They could happen.
+[979.00 - 980.00] I just think.
+[980.00 - 981.00] Rather.
+[981.00 - 994.00] Rather know that it's coming than not know it's coming.
+[994.00 - 999.00] Yes.
+[999.00 - 1006.00] Yeah.
+[1006.00 - 1011.00] Depression it's reoccurred multiple times.
+[1011.00 - 1015.00] That's no surprise.
+[1015.00 - 1021.00] First time I was diagnosed was in middle school.
+[1021.00 - 1027.00] Which would have been.
+[1027.00 - 1029.00] Ten.
+[1029.00 - 1032.00] Well ten between ten twelve years ago.
+[1032.00 - 1034.00] I don't know.
+[1034.00 - 1036.00] I don't know whenever I was in the sixth grade.
+[1036.00 - 1037.00] That's.
+[1037.00 - 1039.00] That's why first was.
+[1039.00 - 1045.00] Told that I was depressed.
+[1045.00 - 1052.00] As far as PTSD goes.
+[1052.00 - 1057.00] Post Katrina.
+[1057.00 - 1059.00] And then.
+[1059.00 - 1063.00] You know.
+[1063.00 - 1065.00] Post Katrina mostly.
+[1065.00 - 1071.00] That was the big thing.
+[1071.00 - 1076.00] I guess having been diagnosed.
+[1076.00 - 1080.00] Previously as being depressed and still being in high school.
+[1080.00 - 1084.00] It kind of wasn't I wasn't really seeking help.
+[1084.00 - 1086.00] It's kind of.
+[1086.00 - 1088.00] I got I kind of got into my high school.
+[1088.00 - 1090.00] And they were like.
+[1090.00 - 1091.00] Here's help.
+[1091.00 - 1094.00] Because we know you're going to need it.
+[1094.00 - 1097.00] And I was like oh well thanks.
+[1097.00 - 1104.00] I didn't really ask for it but okay I'll take it.
+[1104.00 - 1106.00] You know.
+[1106.00 - 1111.00] Just kind of happened.
+[1111.00 - 1116.00] No not not anymore.
+[1116.00 - 1126.00] That's a good question.
+[1126.00 - 1128.00] Geez.
+[1128.00 - 1130.00] You know I really don't know.
+[1130.00 - 1132.00] I guess it just kind of stopped.
+[1132.00 - 1134.00] Just kind of was like.
+[1134.00 - 1139.00] I'm not going to do this anymore.
+[1139.00 - 1141.00] Sometimes.
+[1141.00 - 1146.00] Sometimes it's a lot of like how are you feeling today.
+[1146.00 - 1147.00] And stuff.
+[1147.00 - 1150.00] And.
+[1150.00 - 1151.00] You know.
+[1151.00 - 1154.00] It's kind of well I'm feeling fine right now.
+[1154.00 - 1156.00] But.
+[1156.00 - 1159.00] Ask me in two hours and who knows.
+[1159.00 - 1162.00] You know.
+[1162.00 - 1175.00] I guess.
+[1175.00 - 1180.00] It's helped me understand that some of the things that just happen just happen.
+[1180.00 - 1184.00] And to just get on and move along with your life.
+[1184.00 - 1189.00] Essentially just like carry on you know.
+[1189.00 - 1202.00] Things will happen carry on.
+[1202.00 - 1207.00] Wow.
+[1207.00 - 1211.00] I was.
+[1211.00 - 1219.00] I was hanging out with my girlfriend just hanging out.
+[1219.00 - 1223.00] That's so good to hear.
+[1223.00 - 1227.00] What are some things you wish you could change about yourself?
+[1227.00 - 1240.00] Well for starters I mean you can't see when I walked in but I'm walking with a cane right now because I got hit by a car recently.
+[1240.00 - 1246.00] And I'd make my leg better.
+[1246.00 - 1250.00] Let's see canes over there that way.
+[1250.00 - 1254.00] But anyway.
+[1254.00 - 1256.00] I don't know.
+[1256.00 - 1262.00] Make myself less fat.
+[1262.00 - 1267.00] I'd make it so I don't feel the incessant need to sleep 14 hours a day.
+[1267.00 - 1274.00] Because when you sleep like more than 10 hours a day it's just it's unproductive you waste too much time.
+[1274.00 - 1279.00] Like I have friends who are like oh you know I feel rejuvenated after six hours.
+[1279.00 - 1282.00] And I'm like how do you do that?
+[1282.00 - 1284.00] I have to sleep like 12 hours to feel good.
+[1284.00 - 1287.00] Like you can sleep six.
+[1287.00 - 1288.00] You know.
+[1288.00 - 1293.00] Like in in in crunch time you know you can get away with four.
+[1293.00 - 1299.00] I have to get away with seven or eight you know.
+[1299.00 - 1304.00] Like that's my crunch time sleep schedule eight hours.
+[1304.00 - 1310.00] It's just I don't know I oversleep but I like sleeping too.
+[1310.00 - 1315.00] I mean yeah it's just the oversleeping part I don't like so much.
+[1315.00 - 1317.00] Okay.
+[1317.00 - 1319.00] How are your best friends by the way?
+[1319.00 - 1321.00] Um.
+[1321.00 - 1327.00] Um.
+[1327.00 - 1330.00] Utterly insane in a good way.
+[1330.00 - 1332.00] Utterly insane in a good way.
+[1332.00 - 1334.00] Um.
+[1334.00 - 1340.00] I guess.
+[1340.00 - 1349.00] They would also say like you know there are times where I might seem like an asshole and I'm not really an asshole.
+[1349.00 - 1355.00] I just you know I just have issues like everybody else.
+[1355.00 - 1363.00] Um specifically I have Asperger's so that's a form of autism.
+[1363.00 - 1368.00] Um that just kind of makes life awesome.
+[1368.00 - 1373.00] They'd also say I'm flamboyant and eccentric because I totally am.
+[1373.00 - 1377.00] I just I don't know.
+[1377.00 - 1382.00] I figure I'm still alive so I should live because I'm still alive.
+[1382.00 - 1390.00] And you know who knows how long I'm going to be alive for.
+[1390.00 - 1401.00] So I should you know live while I'm alive and just go out and do stuff and not sit and be calm.
+[1401.00 - 1404.00] Except when I'm reading.
+[1404.00 - 1416.00] And I like reading.
+[1416.00 - 1420.00] Um.
+[1420.00 - 1422.00] Stop fucking up.
+[1422.00 - 1424.00] No that's kind of messed up.
+[1424.00 - 1426.00] Um.
+[1426.00 - 1433.00] I think I would have told myself at the time.
+[1433.00 - 1436.00] Um.
+[1436.00 - 1441.00] Because I've known my evil ex.
+[1441.00 - 1447.00] Um I've known her since like I was like six and she was five.
+[1447.00 - 1454.00] I think ten years ago I would have grabbed myself by the shoulders and say you see that girl.
+[1454.00 - 1458.00] Whatever you do do not date that girl.
+[1458.00 - 1459.00] Don't trust her.
+[1459.00 - 1462.00] She can't be trusted.
+[1462.00 - 1467.00] And more importantly don't.
+[1467.00 - 1473.00] Don't let your guard down around her because she'll she'll exploit that.
+[1473.00 - 1478.00] And I mean like physically let your guard down not mentally.
+[1478.00 - 1482.00] Um.
+[1482.00 - 1485.00] Yeah don't don't date her just don't do it.
+[1485.00 - 1486.00] It's not worth it.
+[1486.00 - 1487.00] It's not worth the trouble.
+[1487.00 - 1490.00] It's not worth the pain.
+[1490.00 - 1501.00] It's not worth it.
+[1501.00 - 1503.00] The fact that I'm still alive.
+[1503.00 - 1505.00] Maybe.
+[1505.00 - 1506.00] Yeah.
+[1506.00 - 1507.00] I don't know.
+[1507.00 - 1509.00] Cycling to Comic Con.
+[1509.00 - 1510.00] I was pretty proud of that.
+[1510.00 - 1517.00] Pretty proud that I managed to do it.
+[1517.00 - 1521.00] Just I don't you know I don't really know.
+[1521.00 - 1523.00] I don't really use the term pride.
+[1523.00 - 1526.00] I don't really feel pride.
+[1526.00 - 1532.00] I'm just it's more of like the fact that I'm still alive I'm proud to be alive.
+[1532.00 - 1536.00] I don't know if that makes me humble or just insane.
+[1536.00 - 1538.00] Who knows.
+[1538.00 - 1541.00] Okay I think I've asked everything I need to.
+[1541.00 - 1544.00] Thanks for sharing your thoughts with me.
+[1544.00 - 1548.00] Goodbye.
+[1548.00 - 1549.00] Do I press the button now?
+[1549.00 - 1551.00] Oh bye.
+[1551.00 - 1562.00] Okay.
+[1562.00 - 1565.00] Do do do do do do do.
+[1565.00 - 1568.00] By the way her eyes are really creepy.
+[1568.00 - 1573.00] Just saying that.
+[1573.00 - 1574.00] Is it just the way that they.
+[1574.00 - 1577.00] They they they have the uncanny.
