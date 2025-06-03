@@ -1,0 +1,736 @@
+03 06 2025
+
+
+patient_id
+
+original_transcript
+
+cleaned_transcript
+
+summary
+
+PHQ_Score
+
+Encoded_Answers
+100 rows x 7 cols
+per page
+
+
+Page
+1
+of 10
+
+
+
+patient_id
+
+original_transcript
+
+cleaned_transcript
+
+summary
+
+PHQ_Score
+
+Dep_Severity
+100 rows x 8 cols
+per page
+
+
+Page
+1
+of 10
+
+
+
+patient_id
+
+original_transcript_x
+
+cleaned_transcript_x
+
+summary_x
+
+PHQ_Score_x
+
+Encoded_Answers
+100 rows x 14 cols
+per page
+
+
+Page
+1
+of 10
+
+
+
+patient_id
+
+PHQ_Score_x
+
+deproberta_prob
+
+Encoded_Answers
+100 rows x 4 cols
+per page
+
+
+Page
+1
+of 10
+
+
+/var/folders/cz/_btxbwrj7cx6d5v2vzg25g740000gn/T/ipykernel_30094/2422519197.py:13: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  filtered_df['combined_vector'] = filtered_df.apply(
+/var/folders/cz/_btxbwrj7cx6d5v2vzg25g740000gn/T/ipykernel_30094/2422519197.py:17: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  filtered_df.drop(columns=['deproberta_prob', 'Encoded_Answers'], inplace=True)
+vector_length
+10    78
+3      2
+Name: count, dtype: int64
+Test MSE: 15.38
+Test RMSE: 3.92
+Test R²: 0.32
+RF R²: -0.022909644171779098
+RF MSE: 23.09338947368421
+Best parameters: {'C': 10, 'epsilon': 0.5, 'gamma': 'auto'}
+Best CV R²: 0.20741461786356438
+Tuned SVR Test R²: 0.36912374262428216
+Tuned SVR Test MSE: 14.242774231612465
+True mean: 4.052631578947368
+Predicted mean: 5.183637404207308
+Corrected R²: 0.4296209729583027
+Corrected MSE: 12.876978034320866
+Training and evaluating models...
+============================================================
+
+Training SVR_RBF...
+Best params: {'C': 10, 'epsilon': 0.5, 'gamma': 0.01}
+CV R² (mean ± std): 0.192 ± 0.386
+Test R²: 0.366
+Test RMSE: 3.784
+
+Training SVR_Linear...
+Best params: {'C': 0.1, 'epsilon': 0.01}
+CV R² (mean ± std): 0.171 ± 0.348
+Test R²: 0.352
+Test RMSE: 3.826
+
+Training SVR_Poly...
+Best params: {'C': 1, 'degree': 3, 'epsilon': 0.5, 'gamma': 'auto'}
+CV R² (mean ± std): 0.004 ± 0.245
+Test R²: 0.258
+Test RMSE: 4.094
+
+Training Random_Forest...
+Best params: {'max_depth': None, 'min_samples_leaf': 4, 'min_samples_split': 10, 'n_estimators': 100}
+CV R² (mean ± std): 0.183 ± 0.117
+Test R²: 0.028
+Test RMSE: 4.685
+
+Training Gradient_Boosting...
+Best params: {'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 100, 'subsample': 0.8}
+CV R² (mean ± std): 0.138 ± 0.075
+Test R²: -0.058
+Test RMSE: 4.887
+
+Training Ridge...
+Best params: {'alpha': 100}
+CV R² (mean ± std): 0.240 ± 0.093
+Test R²: 0.116
+Test RMSE: 4.468
+
+Training Lasso...
+Best params: {'alpha': 1}
+CV R² (mean ± std): 0.268 ± 0.140
+Test R²: 0.063
+Test RMSE: 4.600
+
+Training ElasticNet...
+Best params: {'alpha': 1, 'l1_ratio': 0.7}
+CV R² (mean ± std): 0.277 ± 0.105
+Test R²: 0.100
+Test RMSE: 4.508
+
+Training KNN...
+Best params: {'metric': 'manhattan', 'n_neighbors': 15, 'weights': 'uniform'}
+CV R² (mean ± std): 0.264 ± 0.120
+Test R²: 0.264
+Test RMSE: 4.077
+
+Training Decision_Tree...
+Best params: {'max_depth': None, 'max_features': 'sqrt', 'min_samples_leaf': 4, 'min_samples_split': 2}
+CV R² (mean ± std): 0.088 ± 0.185
+Test R²: -0.014
+Test RMSE: 4.785
+
+Training Neural_Network...
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+Best params: {'alpha': 0.001, 'hidden_layer_sizes': (50,), 'learning_rate_init': 0.001}
+CV R² (mean ± std): -0.075 ± 0.291
+Test R²: 0.315
+Test RMSE: 3.931
+
+============================================================
+FINAL RESULTS SUMMARY
+============================================================
+            Model  CV_R2_Mean   Test_R2  Test_RMSE  Test_MAE
+          SVR_RBF    0.192100  0.365710   3.784156  2.947084
+       SVR_Linear    0.171315  0.351706   3.825702  2.997093
+   Neural_Network   -0.075253  0.315441   3.931250  3.066953
+              KNN    0.263669  0.263872   4.076634  3.157895
+         SVR_Poly    0.003632  0.257547   4.094112  3.312597
+            Ridge    0.240180  0.115780   4.467920  3.931510
+       ElasticNet    0.277306  0.099719   4.508316  4.008665
+            Lasso    0.267725  0.062531   4.600484  4.024969
+    Random_Forest    0.183052  0.027705   4.685159  3.944071
+    Decision_Tree    0.087990 -0.014046   4.784692  3.882957
+Gradient_Boosting    0.138321 -0.057991   4.887268  4.327038
+
+============================================================
+DETAILED ANALYSIS
+============================================================
+
+🏆 BEST PERFORMING MODEL: SVR_RBF
+   - Test R²: 0.366
+   - Test RMSE: 3.784
+   - Test MAE: 2.947
+   - Best Parameters: {'C': 10, 'epsilon': 0.5, 'gamma': 0.01}
+
+📊 PERFORMANCE INSIGHTS:
+   - Range of R² scores: -0.058 to 0.366
+   - Range of RMSE: 3.78 to 4.89
+   - Range of MAE: 2.95 to 4.33
+
+🎯 BEST BY SPECIFIC METRICS:
+   - Best R²: SVR_RBF (0.366)
+   - Best RMSE: SVR_RBF (3.784)
+   - Best MAE: SVR_RBF (2.947)
+
+🎯 BEST GENERALIZATION: KNN
+   - Gap between CV and Test R²: -0.000
+
+💡 RECOMMENDATIONS:
+   ❌ Poor performance across all models. Consider:
+      - Feature engineering and selection
+      - Data quality improvements
+      - Alternative modeling approaches
+
+   📈 Top 3 models to consider:
+      1. SVR_RBF (R² = 0.366, RMSE = 3.78, MAE = 2.95)
+      2. SVR_Linear (R² = 0.352, RMSE = 3.83, MAE = 3.00)
+      3. Neural_Network (R² = 0.315, RMSE = 3.93, MAE = 3.07)
+
+
+
+
+patient_id
+
+original_transcript
+
+cleaned_transcript
+
+summary
+
+PHQ_Score
+
+Encoded_Answers
+100 rows x 7 cols
+per page
+
+
+Page
+1
+of 10
+
+
+
+patient_id
+
+original_transcript
+
+cleaned_transcript
+
+summary
+
+PHQ_Score
+
+Dep_Severity
+100 rows x 8 cols
+per page
+
+
+Page
+1
+of 10
+
+
+
+patient_id
+
+original_transcript_x
+
+cleaned_transcript_x
+
+summary_x
+
+PHQ_Score_x
+
+Encoded_Answers
+100 rows x 14 cols
+per page
+
+
+Page
+1
+of 10
+
+
+
+patient_id
+
+PHQ_Score_x
+
+deproberta_prob
+
+Encoded_Answers
+100 rows x 4 cols
+per page
+
+
+Page
+1
+of 10
+
+
+/var/folders/cz/_btxbwrj7cx6d5v2vzg25g740000gn/T/ipykernel_30094/2422519197.py:13: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  filtered_df['combined_vector'] = filtered_df.apply(
+/var/folders/cz/_btxbwrj7cx6d5v2vzg25g740000gn/T/ipykernel_30094/2422519197.py:17: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  filtered_df.drop(columns=['deproberta_prob', 'Encoded_Answers'], inplace=True)
+vector_length
+10    78
+3      2
+Name: count, dtype: int64
+Test MSE: 15.38
+Test RMSE: 3.92
+Test R²: 0.32
+RF R²: -0.022909644171779098
+RF MSE: 23.09338947368421
+Best parameters: {'C': 10, 'epsilon': 0.5, 'gamma': 'auto'}
+Best CV R²: 0.20741461786356438
+Tuned SVR Test R²: 0.36912374262428216
+Tuned SVR Test MSE: 14.242774231612465
+True mean: 4.052631578947368
+Predicted mean: 5.183637404207308
+Corrected R²: 0.4296209729583027
+Corrected MSE: 12.876978034320866
+Training and evaluating models...
+============================================================
+
+Training SVR_RBF...
+Best params: {'C': 10, 'epsilon': 0.5, 'gamma': 0.01}
+CV R² (mean ± std): 0.192 ± 0.386
+Test R²: 0.366
+Test RMSE: 3.784
+
+Training SVR_Linear...
+Best params: {'C': 0.1, 'epsilon': 0.01}
+CV R² (mean ± std): 0.171 ± 0.348
+Test R²: 0.352
+Test RMSE: 3.826
+
+Training SVR_Poly...
+Best params: {'C': 1, 'degree': 3, 'epsilon': 0.5, 'gamma': 'auto'}
+CV R² (mean ± std): 0.004 ± 0.245
+Test R²: 0.258
+Test RMSE: 4.094
+
+Training Random_Forest...
+Best params: {'max_depth': None, 'min_samples_leaf': 4, 'min_samples_split': 10, 'n_estimators': 100}
+CV R² (mean ± std): 0.183 ± 0.117
+Test R²: 0.028
+Test RMSE: 4.685
+
+Training Gradient_Boosting...
+Best params: {'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 100, 'subsample': 0.8}
+CV R² (mean ± std): 0.138 ± 0.075
+Test R²: -0.058
+Test RMSE: 4.887
+
+Training Ridge...
+Best params: {'alpha': 100}
+CV R² (mean ± std): 0.240 ± 0.093
+Test R²: 0.116
+Test RMSE: 4.468
+
+Training Lasso...
+Best params: {'alpha': 1}
+CV R² (mean ± std): 0.268 ± 0.140
+Test R²: 0.063
+Test RMSE: 4.600
+
+Training ElasticNet...
+Best params: {'alpha': 1, 'l1_ratio': 0.7}
+CV R² (mean ± std): 0.277 ± 0.105
+Test R²: 0.100
+Test RMSE: 4.508
+
+Training KNN...
+Best params: {'metric': 'manhattan', 'n_neighbors': 15, 'weights': 'uniform'}
+CV R² (mean ± std): 0.264 ± 0.120
+Test R²: 0.264
+Test RMSE: 4.077
+
+Training Decision_Tree...
+Best params: {'max_depth': None, 'max_features': 'sqrt', 'min_samples_leaf': 4, 'min_samples_split': 2}
+CV R² (mean ± std): 0.088 ± 0.185
+Test R²: -0.014
+Test RMSE: 4.785
+
+Training Neural_Network...
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/joaomata/Desktop/LBMP/.venv/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+Best params: {'alpha': 0.001, 'hidden_layer_sizes': (50,), 'learning_rate_init': 0.001}
+CV R² (mean ± std): -0.075 ± 0.291
+Test R²: 0.315
+Test RMSE: 3.931
+
+============================================================
+FINAL RESULTS SUMMARY
+============================================================
+            Model  CV_R2_Mean   Test_R2  Test_RMSE  Test_MAE
+          SVR_RBF    0.192100  0.365710   3.784156  2.947084
+       SVR_Linear    0.171315  0.351706   3.825702  2.997093
+   Neural_Network   -0.075253  0.315441   3.931250  3.066953
+              KNN    0.263669  0.263872   4.076634  3.157895
+         SVR_Poly    0.003632  0.257547   4.094112  3.312597
+            Ridge    0.240180  0.115780   4.467920  3.931510
+       ElasticNet    0.277306  0.099719   4.508316  4.008665
+            Lasso    0.267725  0.062531   4.600484  4.024969
+    Random_Forest    0.183052  0.027705   4.685159  3.944071
+    Decision_Tree    0.087990 -0.014046   4.784692  3.882957
+Gradient_Boosting    0.138321 -0.057991   4.887268  4.327038
+
+============================================================
+DETAILED ANALYSIS
+============================================================
+
+🏆 BEST PERFORMING MODEL: SVR_RBF
+   - Test R²: 0.366
+   - Test RMSE: 3.784
+   - Test MAE: 2.947
+   - Best Parameters: {'C': 10, 'epsilon': 0.5, 'gamma': 0.01}
+
+📊 PERFORMANCE INSIGHTS:
+   - Range of R² scores: -0.058 to 0.366
+   - Range of RMSE: 3.78 to 4.89
+   - Range of MAE: 2.95 to 4.33
+
+🎯 BEST BY SPECIFIC METRICS:
+   - Best R²: SVR_RBF (0.366)
+   - Best RMSE: SVR_RBF (3.784)
+   - Best MAE: SVR_RBF (2.947)
+
+🎯 BEST GENERALIZATION: KNN
+   - Gap between CV and Test R²: -0.000
+
+💡 RECOMMENDATIONS:
+   ❌ Poor performance across all models. Consider:
+      - Feature engineering and selection
+      - Data quality improvements
+      - Alternative modeling approaches
+
+   📈 Top 3 models to consider:
+      1. SVR_RBF (R² = 0.366, RMSE = 3.78, MAE = 2.95)
+      2. SVR_Linear (R² = 0.352, RMSE = 3.83, MAE = 3.00)
+      3. Neural_Network (R² = 0.315, RMSE = 3.93, MAE = 3.07)
+
+💾 Results saved to 'model_comparison_results.csv'
+
+📏 MAE INTERPRETATION GUIDE:
+   - MAE represents the average absolute difference between predicted and true PHQ scores
+   - For PHQ scores (0-27 scale):
+     • MAE < 2.0: Excellent accuracy (within ~1-2 points on average)
+     • MAE 2.0-3.0: Good accuracy (within ~2-3 points on average)
+     • MAE 3.0-4.0: Fair accuracy (within ~3-4 points on average)
+     • MAE > 4.0: Poor accuracy (off by more than 4 points on average)
+
+   🎯 Your best MAE of 2.95 means predictions are typically within 2.9 PHQ points of the true score
+
+   ------------------------------------
+   
