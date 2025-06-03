@@ -1,2 +1,6 @@
 E-DAIC/
 TextFeatures/Transcripts/
+TextFeatures/finetuned_models/
+TextFeatures/segments/
+TextFeatures/train_patient_transcripts_50_cleaned_with_answers.tsv
+TextFeatures/train_patient_transcripts_50_cleaned.tsv
